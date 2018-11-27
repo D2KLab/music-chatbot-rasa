@@ -1,0 +1,4639 @@
+[
+  {
+    "value": "srb",
+    "synonyms": [
+      "srb",
+      "sarabanda",
+      "sarabande",
+      "sarabandas"
+    ]
+  },
+  {
+    "value": "pmm",
+    "synonyms": [
+      "pmm",
+      "pantomima",
+      "pantomime",
+      "pantonimas"
+    ]
+  },
+  {
+    "value": "po",
+    "synonyms": [
+      "po",
+      "polacca",
+      "polonaise",
+      "polonez",
+      "polonäse"
+    ]
+  },
+  {
+    "value": "si",
+    "synonyms": [
+      "si",
+      "sinfonia",
+      "sinfonias",
+      "sinfonie",
+      "sinfonies",
+      "symphonie",
+      "symphonies"
+    ]
+  },
+  {
+    "value": "pf",
+    "synonyms": [
+      "pf",
+      "prelude and fugue",
+      "preludio e fuga",
+      "präludium Und Fuge",
+      "prélude et fugue"
+    ]
+  },
+  {
+    "value": "spi",
+    "synonyms": [
+      "spi",
+      "spiritual"
+    ]
+  },
+  {
+    "value": "chn",
+    "synonyms": [
+      "chn",
+      "charleston"
+    ]
+  },
+  {
+    "value": "rgg",
+    "synonyms": [
+      "rgg",
+      "reggae"
+    ]
+  },
+  {
+    "value": "pmk",
+    "synonyms": [
+      "pmk",
+      "polka mazurka"
+    ]
+  },
+  {
+    "value": "sts",
+    "synonyms": [
+      "sts",
+      "strathspey"
+    ]
+  },
+  {
+    "value": "chs",
+    "synonyms": [
+      "chs",
+      "canzone infantile",
+      "chanson enfantine",
+      "children\u0027s song"
+    ]
+  },
+  {
+    "value": "vir",
+    "synonyms": [
+      "vir",
+      "virelai"
+    ]
+  },
+  {
+    "value": "mut",
+    "synonyms": [
+      "mut",
+      "musical theatre",
+      "théâtre musical"
+    ]
+  },
+  {
+    "value": "opu",
+    "synonyms": [
+      "opu",
+      "opera buffa"
+    ]
+  },
+  {
+    "value": "tnc",
+    "synonyms": [
+      "tnc",
+      "trenchmore"
+    ]
+  },
+  {
+    "value": "sg",
+    "synonyms": [
+      "sg",
+      "chanson",
+      "song"
+    ]
+  },
+  {
+    "value": "agn",
+    "synonyms": [
+      "agn",
+      "agnus dei"
+    ]
+  },
+  {
+    "value": "shm",
+    "synonyms": [
+      "shm",
+      "shimmy"
+    ]
+  },
+  {
+    "value": "ov",
+    "synonyms": [
+      "ov",
+      "overture"
+    ]
+  },
+  {
+    "value": "cly",
+    "synonyms": [
+      "cly",
+      "calypso"
+    ]
+  },
+  {
+    "value": "csg",
+    "synonyms": [
+      "csg",
+      "canto carnascialesco",
+      "carnival song",
+      "chanson de carnaval"
+    ]
+  },
+  {
+    "value": "phy",
+    "synonyms": [
+      "phy",
+      "hymne patriotique",
+      "patriotic hymn"
+    ]
+  },
+  {
+    "value": "plt",
+    "synonyms": [
+      "plt",
+      "plainte"
+    ]
+  },
+  {
+    "value": "ops",
+    "synonyms": [
+      "ops",
+      "opera seria"
+    ]
+  },
+  {
+    "value": "psr",
+    "synonyms": [
+      "psr",
+      "pas redoublé"
+    ]
+  },
+  {
+    "value": "fro",
+    "synonyms": [
+      "fro",
+      "frottola"
+    ]
+  },
+  {
+    "value": "pch",
+    "synonyms": [
+      "pch",
+      "pastiche"
+    ]
+  },
+  {
+    "value": "hit",
+    "synonyms": [
+      "hit",
+      "canzone leggera",
+      "chanson à succès",
+      "hit"
+    ]
+  },
+  {
+    "value": "mda",
+    "synonyms": [
+      "mda",
+      "melodrama",
+      "melologo"
+    ]
+  },
+  {
+    "value": "tro",
+    "synonyms": [
+      "tro",
+      "trope",
+      "tropo"
+    ]
+  },
+  {
+    "value": "plc",
+    "synonyms": [
+      "plc",
+      "planctus"
+    ]
+  },
+  {
+    "value": "tc",
+    "synonyms": [
+      "tc",
+      "toccata"
+    ]
+  },
+  {
+    "value": "for",
+    "synonyms": [
+      "for",
+      "forlana",
+      "forlane"
+    ]
+  },
+  {
+    "value": "rdv",
+    "synonyms": [
+      "rdv",
+      "ranz des vaches"
+    ]
+  },
+  {
+    "value": "ben",
+    "synonyms": [
+      "ben",
+      "benedictus"
+    ]
+  },
+  {
+    "value": "egl",
+    "synonyms": [
+      "egl",
+      "egloga",
+      "eglogue",
+      "églogue"
+    ]
+  },
+  {
+    "value": "cld",
+    "synonyms": [
+      "cld",
+      "colinda",
+      "colinde",
+      "colindas"
+    ]
+  },
+  {
+    "value": "rum",
+    "synonyms": [
+      "rum",
+      "rumba",
+      "rumbas"
+    ]
+  },
+  {
+    "value": "mdc",
+    "synonyms": [
+      "mdc",
+      "madrigal comedy",
+      "madrigale rappresentativo"
+    ]
+  },
+  {
+    "value": "sww",
+    "synonyms": [
+      "sww",
+      "romance sans paroles",
+      "romanza senza parole",
+      "song without words"
+    ]
+  },
+  {
+    "value": "ing",
+    "synonyms": [
+      "ing",
+      "ingressa"
+    ]
+  },
+  {
+    "value": "sae",
+    "synonyms": [
+      "sae",
+      "saeta"
+    ]
+  },
+  {
+    "value": "rer",
+    "synonyms": [
+      "rer",
+      "rêverie"
+    ]
+  },
+  {
+    "value": "dbl",
+    "synonyms": [
+      "dbl",
+      "double"
+    ]
+  },
+  {
+    "value": "mr",
+    "synonyms": [
+      "mr",
+      "march",
+      "marcia"
+    ]
+  },
+  {
+    "value": "acm",
+    "synonyms": [
+      "acm",
+      "actus musicus"
+    ]
+  },
+  {
+    "value": "cho",
+    "synonyms": [
+      "cho",
+      "chamber opera",
+      "kammeroper",
+      "opera da camera",
+      "opéra de chambre"
+    ]
+  },
+  {
+    "value": "prz",
+    "synonyms": [
+      "prz",
+      "profezia"
+    ]
+  },
+  {
+    "value": "scd",
+    "synonyms": [
+      "scd",
+      "dramma scolastico",
+      "opéra de collège",
+      "scholastic drama"
+    ]
+  },
+  {
+    "value": "bra",
+    "synonyms": [
+      "bra",
+      "branle"
+    ]
+  },
+  {
+    "value": "css",
+    "synonyms": [
+      "css",
+      "chanson spirituelle"
+    ]
+  },
+  {
+    "value": "cmn",
+    "synonyms": [
+      "cmn",
+      "carmen"
+    ]
+  },
+  {
+    "value": "lir",
+    "synonyms": [
+      "lir",
+      "lirica"
+    ]
+  },
+  {
+    "value": "sn",
+    "synonyms": [
+      "sn",
+      "sonata",
+      "sonate",
+      "sonatas"
+    ]
+  },
+  {
+    "value": "sha",
+    "synonyms": [
+      "sha",
+      "shanty"
+    ]
+  },
+  {
+    "value": "nc",
+    "synonyms": [
+      "nc",
+      "nocturne",
+      "notturno"
+    ]
+  },
+  {
+    "value": "prt",
+    "synonyms": [
+      "prt",
+      "partimento"
+    ]
+  },
+  {
+    "value": "dts",
+    "synonyms": [
+      "dts",
+      "dramatic scherzo",
+      "scherzo drammatico"
+    ]
+  },
+  {
+    "value": "bou",
+    "synonyms": [
+      "bou",
+      "bourrée"
+    ]
+  },
+  {
+    "value": "rmz",
+    "synonyms": [
+      "rmz",
+      "romance vocal",
+      "romance chantée",
+      "romanza",
+      "romanze"
+    ]
+  },
+  {
+    "value": "frj",
+    "synonyms": [
+      "frj",
+      "free jazz"
+    ]
+  },
+  {
+    "value": "iru",
+    "synonyms": [
+      "iru",
+      "interlude",
+      "zwischenspiel"
+    ]
+  },
+  {
+    "value": "mon",
+    "synonyms": [
+      "mon",
+      "monferrina"
+    ]
+  },
+  {
+    "value": "off",
+    "synonyms": [
+      "off",
+      "offertoire",
+      "offertorio",
+      "offertorium",
+      "offertory"
+    ]
+  },
+  {
+    "value": "rgl",
+    "synonyms": [
+      "rgl",
+      "reigenlied"
+    ]
+  },
+  {
+    "value": "kld",
+    "synonyms": [
+      "kld",
+      "koleda"
+    ]
+  },
+  {
+    "value": "bt",
+    "synonyms": [
+      "bt",
+      "ballet",
+      "ballett",
+      "balletto"
+    ]
+  },
+  {
+    "value": "pv",
+    "synonyms": [
+      "pv",
+      "pavan",
+      "pavana",
+      "pavane"
+    ]
+  },
+  {
+    "value": "pg",
+    "synonyms": [
+      "pg",
+      "musica a programma",
+      "musique à programme",
+      "programme music"
+    ]
+  },
+  {
+    "value": "czt",
+    "synonyms": [
+      "czt",
+      "canzonetta"
+    ]
+  },
+  {
+    "value": "drh",
+    "synonyms": [
+      "drh",
+      "dreher"
+    ]
+  },
+  {
+    "value": "fmm",
+    "synonyms": [
+      "fmm",
+      "masonic music",
+      "musica massonica",
+      "musique maçonnique"
+    ]
+  },
+  {
+    "value": "vrr",
+    "synonyms": [
+      "vrr",
+      "verse responsorium",
+      "verset de répons",
+      "versetto di responsorio"
+    ]
+  },
+  {
+    "value": "mus",
+    "synonyms": [
+      "mus",
+      "musette"
+    ]
+  },
+  {
+    "value": "sct",
+    "synonyms": [
+      "sct",
+      "scat"
+    ]
+  },
+  {
+    "value": "csy",
+    "synonyms": [
+      "csy",
+      "chamber symphony",
+      "kammersymphonie",
+      "sinfonia da camera",
+      "symphonie de chambre"
+    ]
+  },
+  {
+    "value": "mgg",
+    "synonyms": [
+      "mgg",
+      "maggiolata"
+    ]
+  },
+  {
+    "value": "pol",
+    "synonyms": [
+      "pol",
+      "polo"
+    ]
+  },
+  {
+    "value": "rmc",
+    "synonyms": [
+      "rmc",
+      "romance instrumental"
+    ]
+  },
+  {
+    "value": "ora",
+    "synonyms": [
+      "ora",
+      "oratio"
+    ]
+  },
+  {
+    "value": "rem",
+    "synonyms": [
+      "rem",
+      "reminescenza",
+      "réminiscence"
+    ]
+  },
+  {
+    "value": "alm",
+    "synonyms": [
+      "alm",
+      "allemanda",
+      "allemande"
+    ]
+  },
+  {
+    "value": "syc",
+    "synonyms": [
+      "syc",
+      "sinfonia concertante"
+    ]
+  },
+  {
+    "value": "yar",
+    "synonyms": [
+      "yar",
+      "yaraví"
+    ]
+  },
+  {
+    "value": "piv",
+    "synonyms": [
+      "piv",
+      "piva"
+    ]
+  },
+  {
+    "value": "bac",
+    "synonyms": [
+      "bac",
+      "baccanale"
+    ]
+  },
+  {
+    "value": "mme",
+    "synonyms": [
+      "mme",
+      "musique mesurée"
+    ]
+  },
+  {
+    "value": "nry",
+    "synonyms": [
+      "nry",
+      "filastrocca",
+      "nursery-rhyme"
+    ]
+  },
+  {
+    "value": "chp",
+    "synonyms": [
+      "chp",
+      "character piece",
+      "pezzo caratteristico",
+      "pièce de caractère"
+    ]
+  },
+  {
+    "value": "cc",
+    "synonyms": [
+      "cc",
+      "chant christian"
+    ]
+  },
+  {
+    "value": "rit",
+    "synonyms": [
+      "rit",
+      "ritornello"
+    ]
+  },
+  {
+    "value": "scp",
+    "synonyms": [
+      "scp",
+      "schuhplattler"
+    ]
+  },
+  {
+    "value": "csn",
+    "synonyms": [
+      "csn",
+      "chanson monodique",
+      "chanson monodic"
+    ]
+  },
+  {
+    "value": "orm",
+    "synonyms": [
+      "orm",
+      "messa per organo",
+      "messe pour orgue",
+      "organ mass",
+      "orgelmesse"
+    ]
+  },
+  {
+    "value": "oct",
+    "synonyms": [
+      "oct",
+      "octet",
+      "ottetto"
+    ]
+  },
+  {
+    "value": "sll",
+    "synonyms": [
+      "sll",
+      "sallenda"
+    ]
+  },
+  {
+    "value": "cal",
+    "synonyms": [
+      "cal",
+      "calata"
+    ]
+  },
+  {
+    "value": "qiv",
+    "synonyms": [
+      "qiv",
+      "quintet vocal"
+    ]
+  },
+  {
+    "value": "trm",
+    "synonyms": [
+      "trm",
+      "tricinium"
+    ]
+  },
+  {
+    "value": "sml",
+    "synonyms": [
+      "sml",
+      "psalmellus",
+      "salmello"
+    ]
+  },
+  {
+    "value": "ely",
+    "synonyms": [
+      "ely",
+      "elegia",
+      "elegy",
+      "élégie"
+    ]
+  },
+  {
+    "value": "bfm",
+    "synonyms": [
+      "bfm",
+      "barform"
+    ]
+  },
+  {
+    "value": "pph",
+    "synonyms": [
+      "pph",
+      "parafrasi",
+      "paraphrase"
+    ]
+  },
+  {
+    "value": "bag",
+    "synonyms": [
+      "bag",
+      "bagatella",
+      "bagatelle"
+    ]
+  },
+  {
+    "value": "bkb",
+    "synonyms": [
+      "bkb",
+      "black bottom"
+    ]
+  },
+  {
+    "value": "rao",
+    "synonyms": [
+      "rao",
+      "opera radiofonica",
+      "radio opera"
+    ]
+  },
+  {
+    "value": "sep",
+    "synonyms": [
+      "sep",
+      "sepolcro"
+    ]
+  },
+  {
+    "value": "zwi",
+    "synonyms": [
+      "zwi",
+      "zwiefacher"
+    ]
+  },
+  {
+    "value": "prm",
+    "synonyms": [
+      "prm",
+      "marcia processionale",
+      "procession",
+      "processional march"
+    ]
+  },
+  {
+    "value": "plk",
+    "synonyms": [
+      "plk",
+      "polka"
+    ]
+  },
+  {
+    "value": "kuj",
+    "synonyms": [
+      "kuj",
+      "kujawiak"
+    ]
+  },
+  {
+    "value": "ccn",
+    "synonyms": [
+      "ccn",
+      "canción"
+    ]
+  },
+  {
+    "value": "czp",
+    "synonyms": [
+      "czp",
+      "canzone polyphonic"
+    ]
+  },
+  {
+    "value": "prg",
+    "synonyms": [
+      "prg",
+      "perigordino",
+      "périgourdine"
+    ]
+  },
+  {
+    "value": "opb",
+    "synonyms": [
+      "opb",
+      "opéra-ballet"
+    ]
+  },
+  {
+    "value": "gre",
+    "synonyms": [
+      "gre",
+      "greghesca"
+    ]
+  },
+  {
+    "value": "cdg",
+    "synonyms": [
+      "cdg",
+      "chanson de geste"
+    ]
+  },
+  {
+    "value": "tom",
+    "synonyms": [
+      "tom",
+      "tombeau"
+    ]
+  },
+  {
+    "value": "ppo",
+    "synonyms": [
+      "ppo",
+      "opera per marionette",
+      "opéra pour marionnettes",
+      "puppet opera"
+    ]
+  },
+  {
+    "value": "cob",
+    "synonyms": [
+      "cob",
+      "comédie-ballet"
+    ]
+  },
+  {
+    "value": "jz",
+    "synonyms": [
+      "jz",
+      "jazz"
+    ]
+  },
+  {
+    "value": "ivu",
+    "synonyms": [
+      "ivu",
+      "invitatorio",
+      "invitatorium"
+    ]
+  },
+  {
+    "value": "hrk",
+    "synonyms": [
+      "hrk",
+      "hard rock"
+    ]
+  },
+  {
+    "value": "gav",
+    "synonyms": [
+      "gav",
+      "gavotta",
+      "gavotte"
+    ]
+  },
+  {
+    "value": "qav",
+    "synonyms": [
+      "qav",
+      "quartet vocal",
+      "quatuor vocal"
+    ]
+  },
+  {
+    "value": "psd",
+    "synonyms": [
+      "psd",
+      "paso doble"
+    ]
+  },
+  {
+    "value": "cha",
+    "synonyms": [
+      "cha",
+      "cha cha cha",
+      "cha-cha-cha",
+      "chachachá"
+    ]
+  },
+  {
+    "value": "cpm",
+    "synonyms": [
+      "cpm",
+      "commedia per musica"
+    ]
+  },
+  {
+    "value": "cnl",
+    "synonyms": [
+      "cnl",
+      "cantilena"
+    ]
+  },
+  {
+    "value": "vau",
+    "synonyms": [
+      "vau",
+      "vaudeville"
+    ]
+  },
+  {
+    "value": "csa",
+    "synonyms": [
+      "csa",
+      "ciarda",
+      "csárdás"
+    ]
+  },
+  {
+    "value": "eco",
+    "synonyms": [
+      "eco",
+      "scozzese",
+      "écossaise"
+    ]
+  },
+  {
+    "value": "tvo",
+    "synonyms": [
+      "tvo",
+      "opera televisiva",
+      "opéra pour la télévision",
+      "television opera"
+    ]
+  },
+  {
+    "value": "itd",
+    "synonyms": [
+      "itd",
+      "intermedio"
+    ]
+  },
+  {
+    "value": "mst",
+    "synonyms": [
+      "mst",
+      "mistero",
+      "mystery play",
+      "mystère"
+    ]
+  },
+  {
+    "value": "gm",
+    "synonyms": [
+      "gm",
+      "gospel music"
+    ]
+  },
+  {
+    "value": "rgr",
+    "synonyms": [
+      "rgr",
+      "ruggiero"
+    ]
+  },
+  {
+    "value": "lgu",
+    "synonyms": [
+      "lgu",
+      "langaus"
+    ]
+  },
+  {
+    "value": "cnr",
+    "synonyms": [
+      "cnr",
+      "canario"
+    ]
+  },
+  {
+    "value": "czn",
+    "synonyms": [
+      "czn",
+      "canzone"
+    ]
+  },
+  {
+    "value": "pgl",
+    "synonyms": [
+      "pgl",
+      "pavaniglia"
+    ]
+  },
+  {
+    "value": "prf",
+    "synonyms": [
+      "prf",
+      "praefatio"
+    ]
+  },
+  {
+    "value": "maz",
+    "synonyms": [
+      "maz",
+      "mazur"
+    ]
+  },
+  {
+    "value": "had",
+    "synonyms": [
+      "had",
+      "hadutanc"
+    ]
+  },
+  {
+    "value": "epo",
+    "synonyms": [
+      "epo",
+      "epos"
+    ]
+  },
+  {
+    "value": "ram",
+    "synonyms": [
+      "ram",
+      "musique pour la radio",
+      "radio music"
+    ]
+  },
+  {
+    "value": "sps",
+    "synonyms": [
+      "sps",
+      "canto sociale e politico",
+      "chanson politique",
+      "social and political song"
+    ]
+  },
+  {
+    "value": "nen",
+    "synonyms": [
+      "nen",
+      "nenia"
+    ]
+  },
+  {
+    "value": "tfm",
+    "synonyms": [
+      "tfm",
+      "tafelmusik"
+    ]
+  },
+  {
+    "value": "sai",
+    "synonyms": [
+      "sai",
+      "sainete"
+    ]
+  },
+  {
+    "value": "hal",
+    "synonyms": [
+      "hal",
+      "halling"
+    ]
+  },
+  {
+    "value": "ctg",
+    "synonyms": [
+      "ctg",
+      "cantiga",
+      "cantigas"
+    ]
+  },
+  {
+    "value": "ctl",
+    "synonyms": [
+      "ctl",
+      "cotillon",
+      "cotillons"
+    ]
+  },
+  {
+    "value": "rug",
+    "synonyms": [
+      "rug",
+      "ruggero"
+    ]
+  },
+  {
+    "value": "sar",
+    "synonyms": [
+      "sar",
+      "représentation sacrée",
+      "sacra rappresentazione"
+    ]
+  },
+  {
+    "value": "brt",
+    "synonyms": [
+      "brt",
+      "bergerette"
+    ]
+  },
+  {
+    "value": "vol",
+    "synonyms": [
+      "vol",
+      "volta",
+      "volte"
+    ]
+  },
+  {
+    "value": "mc",
+    "synonyms": [
+      "mc",
+      "commedia musicale",
+      "musical revue and comedy"
+    ]
+  },
+  {
+    "value": "ssp",
+    "synonyms": [
+      "ssp",
+      "singspiel"
+    ]
+  },
+  {
+    "value": "pst",
+    "synonyms": [
+      "pst",
+      "pastoral",
+      "pastorale"
+    ]
+  },
+  {
+    "value": "lmz",
+    "synonyms": [
+      "lmz",
+      "lamentation",
+      "lamentations",
+      "lamentazione"
+    ]
+  },
+  {
+    "value": "mtb",
+    "synonyms": [
+      "mtb",
+      "matachin",
+      "mattaccino"
+    ]
+  },
+  {
+    "value": "vlt",
+    "synonyms": [
+      "vlt",
+      "villotta"
+    ]
+  },
+  {
+    "value": "sym",
+    "synonyms": [
+      "sym",
+      "symbolum"
+    ]
+  },
+  {
+    "value": "qdl",
+    "synonyms": [
+      "qdl",
+      "quadriglia",
+      "quadrille",
+      "walzerquadrille"
+    ]
+  },
+  {
+    "value": "bde",
+    "synonyms": [
+      "bde",
+      "ballade vocal"
+    ]
+  },
+  {
+    "value": "int",
+    "synonyms": [
+      "int",
+      "introduction",
+      "introduzione"
+    ]
+  },
+  {
+    "value": "dtr",
+    "synonyms": [
+      "dtr",
+      "dithyramb",
+      "dithyrambe",
+      "ditirambo"
+    ]
+  },
+  {
+    "value": "psp",
+    "synonyms": [
+      "psp",
+      "passepied"
+    ]
+  },
+  {
+    "value": "aka",
+    "synonyms": [
+      "aka",
+      "akathistos hymnos"
+    ]
+  },
+  {
+    "value": "blc",
+    "synonyms": [
+      "blc",
+      "cuban bolero"
+    ]
+  },
+  {
+    "value": "fox",
+    "synonyms": [
+      "fox",
+      "foxtrfot",
+      "foxtrot"
+    ]
+  },
+  {
+    "value": "pre",
+    "synonyms": [
+      "pre",
+      "gebet",
+      "prayer",
+      "preghiera",
+      "prière"
+    ]
+  },
+  {
+    "value": "pbr",
+    "synonyms": [
+      "pbr",
+      "pibroch"
+    ]
+  },
+  {
+    "value": "ipp",
+    "synonyms": [
+      "ipp",
+      "improperia",
+      "improperio"
+    ]
+  },
+  {
+    "value": "tou",
+    "synonyms": [
+      "tou",
+      "torneo",
+      "tourney",
+      "tournoi"
+    ]
+  },
+  {
+    "value": "nwa",
+    "synonyms": [
+      "nwa",
+      "new age"
+    ]
+  },
+  {
+    "value": "rsc",
+    "synonyms": [
+      "rsc",
+      "romanesca"
+    ]
+  },
+  {
+    "value": "nat",
+    "synonyms": [
+      "nat",
+      "inno nazionale",
+      "national anthem"
+    ]
+  },
+  {
+    "value": "cmp",
+    "synonyms": [
+      "cmp",
+      "compieta",
+      "completorium"
+    ]
+  },
+  {
+    "value": "sto",
+    "synonyms": [
+      "sto",
+      "stornello"
+    ]
+  },
+  {
+    "value": "srm",
+    "synonyms": [
+      "srm",
+      "sarum"
+    ]
+  },
+  {
+    "value": "srv",
+    "synonyms": [
+      "srv",
+      "sirventes"
+    ]
+  },
+  {
+    "value": "cyd",
+    "synonyms": [
+      "cyd",
+      "country dance",
+      "country dances"
+    ]
+  },
+  {
+    "value": "tod",
+    "synonyms": [
+      "tod",
+      "marche aux flambeaux",
+      "torch dance"
+    ]
+  },
+  {
+    "value": "fnk",
+    "synonyms": [
+      "fnk",
+      "funk"
+    ]
+  },
+  {
+    "value": "mun",
+    "synonyms": [
+      "mun",
+      "muñeira"
+    ]
+  },
+  {
+    "value": "syd",
+    "synonyms": [
+      "syd",
+      "dramma sinfonico",
+      "symphonie dramatique"
+    ]
+  },
+  {
+    "value": "srd",
+    "synonyms": [
+      "srd",
+      "sardana",
+      "sardanas"
+    ]
+  },
+  {
+    "value": "cre",
+    "synonyms": [
+      "cre",
+      "credo"
+    ]
+  },
+  {
+    "value": "gyp",
+    "synonyms": [
+      "gyp",
+      "canzone gitana",
+      "gypsy song"
+    ]
+  },
+  {
+    "value": "cnd",
+    "synonyms": [
+      "cnd",
+      "conductus"
+    ]
+  },
+  {
+    "value": "mls",
+    "synonyms": [
+      "mls",
+      "melos"
+    ]
+  },
+  {
+    "value": "mor",
+    "synonyms": [
+      "mor",
+      "morality",
+      "moralità"
+    ]
+  },
+  {
+    "value": "ctp",
+    "synonyms": [
+      "ctp",
+      "contrappunto",
+      "counterpoint"
+    ]
+  },
+  {
+    "value": "rig",
+    "synonyms": [
+      "rig",
+      "rigaudon"
+    ]
+  },
+  {
+    "value": "cr",
+    "synonyms": [
+      "cr",
+      "carol"
+    ]
+  },
+  {
+    "value": "vvn",
+    "synonyms": [
+      "vvn",
+      "varsovienne"
+    ]
+  },
+  {
+    "value": "ris",
+    "synonyms": [
+      "ris",
+      "rispetto"
+    ]
+  },
+  {
+    "value": "mod",
+    "synonyms": [
+      "mod",
+      "morris dance"
+    ]
+  },
+  {
+    "value": "dod",
+    "synonyms": [
+      "dod",
+      "dance of death",
+      "danza macabra"
+    ]
+  },
+  {
+    "value": "cse",
+    "synonyms": [
+      "cse",
+      "chasse"
+    ]
+  },
+  {
+    "value": "bg",
+    "synonyms": [
+      "bg",
+      "bluegrass"
+    ]
+  },
+  {
+    "value": "bbp",
+    "synonyms": [
+      "bbp",
+      "bebop"
+    ]
+  },
+  {
+    "value": "azm",
+    "synonyms": [
+      "azm",
+      "azione musicale"
+    ]
+  },
+  {
+    "value": "bkm",
+    "synonyms": [
+      "bkm",
+      "black music"
+    ]
+  },
+  {
+    "value": "fla",
+    "synonyms": [
+      "fla",
+      "flamenco"
+    ]
+  },
+  {
+    "value": "fum",
+    "synonyms": [
+      "fum",
+      "funeral march",
+      "marche funèbre",
+      "marcia funebre"
+    ]
+  },
+  {
+    "value": "elx",
+    "synonyms": [
+      "elx",
+      "electroacoustic mixed music",
+      "musique électroacoustique mixte"
+    ]
+  },
+  {
+    "value": "jgg",
+    "synonyms": [
+      "jgg",
+      "jigg"
+    ]
+  },
+  {
+    "value": "enw",
+    "synonyms": [
+      "enw",
+      "english waltz"
+    ]
+  },
+  {
+    "value": "btd",
+    "synonyms": [
+      "btd",
+      "boutade",
+      "boutades"
+    ]
+  },
+  {
+    "value": "rad",
+    "synonyms": [
+      "rad",
+      "rada"
+    ]
+  },
+  {
+    "value": "fus",
+    "synonyms": [
+      "fus",
+      "fusion"
+    ]
+  },
+  {
+    "value": "cac",
+    "synonyms": [
+      "cac",
+      "caccia"
+    ]
+  },
+  {
+    "value": "nov",
+    "synonyms": [
+      "nov",
+      "novelette",
+      "novelletta",
+      "novellette"
+    ]
+  },
+  {
+    "value": "rd",
+    "synonyms": [
+      "rd",
+      "rondo",
+      "rondò"
+    ]
+  },
+  {
+    "value": "rtg",
+    "synonyms": [
+      "rtg",
+      "rotruenge"
+    ]
+  },
+  {
+    "value": "ame",
+    "synonyms": [
+      "ame",
+      "amener"
+    ]
+  },
+  {
+    "value": "wsg",
+    "synonyms": [
+      "wsg",
+      "canzone di guerra",
+      "chant de guerre",
+      "war song"
+    ]
+  },
+  {
+    "value": "luc",
+    "synonyms": [
+      "luc",
+      "lucernario"
+    ]
+  },
+  {
+    "value": "mbm",
+    "synonyms": [
+      "mbm",
+      "mambo"
+    ]
+  },
+  {
+    "value": "iph",
+    "synonyms": [
+      "iph",
+      "iporchema"
+    ]
+  },
+  {
+    "value": "vly",
+    "synonyms": [
+      "vly",
+      "voluntary"
+    ]
+  },
+  {
+    "value": "lou",
+    "synonyms": [
+      "lou",
+      "loure"
+    ]
+  },
+  {
+    "value": "ptt",
+    "synonyms": [
+      "ptt",
+      "partita"
+    ]
+  },
+  {
+    "value": "mmm",
+    "synonyms": [
+      "mmm",
+      "mumming"
+    ]
+  },
+  {
+    "value": "li",
+    "synonyms": [
+      "li",
+      "lied"
+    ]
+  },
+  {
+    "value": "beg",
+    "synonyms": [
+      "beg",
+      "béguine"
+    ]
+  },
+  {
+    "value": "ofd",
+    "synonyms": [
+      "ofd",
+      "officium defunctorum",
+      "ufficio di requiem"
+    ]
+  },
+  {
+    "value": "msq",
+    "synonyms": [
+      "msq",
+      "mascherata",
+      "masquerade"
+    ]
+  },
+  {
+    "value": "rue",
+    "synonyms": [
+      "rue",
+      "rueda"
+    ]
+  },
+  {
+    "value": "bal",
+    "synonyms": [
+      "bal",
+      "bal",
+      "ballo"
+    ]
+  },
+  {
+    "value": "dim",
+    "synonyms": [
+      "dim",
+      "disco music"
+    ]
+  },
+  {
+    "value": "bat",
+    "synonyms": [
+      "bat",
+      "bataille",
+      "battaglia"
+    ]
+  },
+  {
+    "value": "or",
+    "synonyms": [
+      "or",
+      "oratorio"
+    ]
+  },
+  {
+    "value": "wz",
+    "synonyms": [
+      "wz",
+      "vals",
+      "valse",
+      "valzer",
+      "waltz",
+      "walzer"
+    ]
+  },
+  {
+    "value": "crr",
+    "synonyms": [
+      "crr",
+      "corrido"
+    ]
+  },
+  {
+    "value": "cav",
+    "synonyms": [
+      "cav",
+      "cavatina",
+      "cavatine"
+    ]
+  },
+  {
+    "value": "sol",
+    "synonyms": [
+      "sol",
+      "solfeggio"
+    ]
+  },
+  {
+    "value": "smb",
+    "synonyms": [
+      "smb",
+      "samba"
+    ]
+  },
+  {
+    "value": "mz",
+    "synonyms": [
+      "mz",
+      "mazurek",
+      "mazurka"
+    ]
+  },
+  {
+    "value": "tex",
+    "synonyms": [
+      "tex",
+      "tex-mex"
+    ]
+  },
+  {
+    "value": "vrl",
+    "synonyms": [
+      "vrl",
+      "versicle",
+      "versicolo"
+    ]
+  },
+  {
+    "value": "kyr",
+    "synonyms": [
+      "kyr",
+      "kyrie"
+    ]
+  },
+  {
+    "value": "est",
+    "synonyms": [
+      "est",
+      "estampie"
+    ]
+  },
+  {
+    "value": "tng",
+    "synonyms": [
+      "tng",
+      "tango"
+    ]
+  },
+  {
+    "value": "fg",
+    "synonyms": [
+      "fg",
+      "fuga",
+      "fuge",
+      "fugue"
+    ]
+  },
+  {
+    "value": "lby",
+    "synonyms": [
+      "lby",
+      "lullaby cradle song",
+      "ninna nanna forma popolare"
+    ]
+  },
+  {
+    "value": "lam",
+    "synonyms": [
+      "lam",
+      "complainte",
+      "lament",
+      "lamento"
+    ]
+  },
+  {
+    "value": "hpp",
+    "synonyms": [
+      "hpp",
+      "hornpipe"
+    ]
+  },
+  {
+    "value": "byc",
+    "synonyms": [
+      "byc",
+      "byzantine canon",
+      "canon byzantin",
+      "canone bizantino"
+    ]
+  },
+  {
+    "value": "inv",
+    "synonyms": [
+      "inv",
+      "invention",
+      "invenzione",
+      "inventions"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "badinage"
+    ]
+  },
+  {
+    "value": "jig",
+    "synonyms": [
+      "jig",
+      "jig"
+    ]
+  },
+  {
+    "value": "pdd",
+    "synonyms": [
+      "pdd",
+      "pas de deux"
+    ]
+  },
+  {
+    "value": "fls",
+    "synonyms": [
+      "fls",
+      "flagellant song"
+    ]
+  },
+  {
+    "value": "iex",
+    "synonyms": [
+      "iex",
+      "extraits instrumentaux d\u0027oeuvre lyrique ou chorégraphique",
+      "instrumental excerpts of an operatic or choreographic work"
+    ]
+  },
+  {
+    "value": "pzz",
+    "synonyms": [
+      "pzz",
+      "passamezzo"
+    ]
+  },
+  {
+    "value": "rec",
+    "synonyms": [
+      "rec",
+      "recitative",
+      "recitativo"
+    ]
+  },
+  {
+    "value": "bgk",
+    "synonyms": [
+      "bgk",
+      "bugaku"
+    ]
+  },
+  {
+    "value": "slt",
+    "synonyms": [
+      "slt",
+      "saltarello"
+    ]
+  },
+  {
+    "value": "abs",
+    "synonyms": [
+      "abs",
+      "absolutio",
+      "assoluzione"
+    ]
+  },
+  {
+    "value": "imu",
+    "synonyms": [
+      "imu",
+      "impromptu",
+      "improvviso"
+    ]
+  },
+  {
+    "value": "wom",
+    "synonyms": [
+      "wom",
+      "musiques du monde",
+      "world music"
+    ]
+  },
+  {
+    "value": "bto",
+    "synonyms": [
+      "bto",
+      "balletto"
+    ]
+  },
+  {
+    "value": "bdi",
+    "synonyms": [
+      "bdi",
+      "ballade instrumental",
+      "ballata"
+    ]
+  },
+  {
+    "value": "lod",
+    "synonyms": [
+      "lod",
+      "laudes",
+      "lauds",
+      "lodi"
+    ]
+  },
+  {
+    "value": "pev",
+    "synonyms": [
+      "pev",
+      "post evangelium"
+    ]
+  },
+  {
+    "value": "vri",
+    "synonyms": [
+      "vri",
+      "verse introit",
+      "verset d\u0027introït",
+      "versetto di introito"
+    ]
+  },
+  {
+    "value": "mo",
+    "synonyms": [
+      "mo",
+      "motet",
+      "mottetto"
+    ]
+  },
+  {
+    "value": "vln",
+    "synonyms": [
+      "vln",
+      "villanella"
+    ]
+  },
+  {
+    "value": "tir",
+    "synonyms": [
+      "tir",
+      "tirana"
+    ]
+  },
+  {
+    "value": "rot",
+    "synonyms": [
+      "rot",
+      "rota"
+    ]
+  },
+  {
+    "value": "rg",
+    "synonyms": [
+      "rg",
+      "ragtime"
+    ]
+  },
+  {
+    "value": "far",
+    "synonyms": [
+      "far",
+      "farce",
+      "farsa"
+    ]
+  },
+  {
+    "value": "elm",
+    "synonyms": [
+      "elm",
+      "electroacoustic music",
+      "musique électroacoustique"
+    ]
+  },
+  {
+    "value": "opt",
+    "synonyms": [
+      "opt",
+      "operetta",
+      "opérette"
+    ]
+  },
+  {
+    "value": "tcn",
+    "synonyms": [
+      "tcn",
+      "trecanum"
+    ]
+  },
+  {
+    "value": "rhl",
+    "synonyms": [
+      "rhl",
+      "rheinländer"
+    ]
+  },
+  {
+    "value": "chc",
+    "synonyms": [
+      "chc",
+      "chaconne",
+      "ciaccona"
+    ]
+  },
+  {
+    "value": "ana",
+    "synonyms": [
+      "ana",
+      "anagramma"
+    ]
+  },
+  {
+    "value": "rp",
+    "synonyms": [
+      "rp",
+      "rapsodia",
+      "rhapsodie",
+      "rhapsody"
+    ]
+  },
+  {
+    "value": "zor",
+    "synonyms": [
+      "zor",
+      "zortziko"
+    ]
+  },
+  {
+    "value": "sex",
+    "synonyms": [
+      "sex",
+      "sestetto",
+      "sextet"
+    ]
+  },
+  {
+    "value": "non",
+    "synonyms": [
+      "non",
+      "nonet",
+      "nonett",
+      "nonette",
+      "nonetto"
+    ]
+  },
+  {
+    "value": "sp",
+    "synonyms": [
+      "sp",
+      "poema sinfonico",
+      "symphonic poem"
+    ]
+  },
+  {
+    "value": "zz",
+    "synonyms": [
+      "zz",
+      "altra forma",
+      "autre forme",
+      "other form"
+    ]
+  },
+  {
+    "value": "df",
+    "synonyms": [
+      "df",
+      "dance form",
+      "danse",
+      "danza",
+      "tanz"
+    ]
+  },
+  {
+    "value": "pot",
+    "synonyms": [
+      "pot",
+      "pot-pourri",
+      "potpourri"
+    ]
+  },
+  {
+    "value": "rde",
+    "synonyms": [
+      "rde",
+      "rondeau"
+    ]
+  },
+  {
+    "value": "seq",
+    "synonyms": [
+      "seq",
+      "sequence",
+      "sequenza",
+      "séquence"
+    ]
+  },
+  {
+    "value": "cmm",
+    "synonyms": [
+      "cmm",
+      "communio",
+      "communion",
+      "comunione"
+    ]
+  },
+  {
+    "value": "mth",
+    "synonyms": [
+      "mth",
+      "method",
+      "metodo"
+    ]
+  },
+  {
+    "value": "nom",
+    "synonyms": [
+      "nom",
+      "nomos"
+    ]
+  },
+  {
+    "value": "tct",
+    "synonyms": [
+      "tct",
+      "tricotet"
+    ]
+  },
+  {
+    "value": "cb",
+    "synonyms": [
+      "cb",
+      "canto sacro non cristiano",
+      "chant non christian"
+    ]
+  },
+  {
+    "value": "bic",
+    "synonyms": [
+      "bic",
+      "bicinium"
+    ]
+  },
+  {
+    "value": "trs",
+    "synonyms": [
+      "trs",
+      "trattato",
+      "treatise",
+      "trattati"
+    ]
+  },
+  {
+    "value": "cns",
+    "synonyms": [
+      "cns",
+      "canso"
+    ]
+  },
+  {
+    "value": "rhb",
+    "synonyms": [
+      "rhb",
+      "rhythm and blues"
+    ]
+  },
+  {
+    "value": "trl",
+    "synonyms": [
+      "trl",
+      "tragédie lyrique"
+    ]
+  },
+  {
+    "value": "mym",
+    "synonyms": [
+      "mym",
+      "military music",
+      "musica militare",
+      "musique militaire"
+    ]
+  },
+  {
+    "value": "brr",
+    "synonyms": [
+      "brr",
+      "barriera"
+    ]
+  },
+  {
+    "value": "mdy",
+    "synonyms": [
+      "mdy",
+      "melodia",
+      "melody"
+    ]
+  },
+  {
+    "value": "hym",
+    "synonyms": [
+      "hym",
+      "hymenaios",
+      "imeneo"
+    ]
+  },
+  {
+    "value": "trt",
+    "synonyms": [
+      "trt",
+      "transitorio",
+      "transitorium"
+    ]
+  },
+  {
+    "value": "ccl",
+    "synonyms": [
+      "ccl",
+      "canticle",
+      "cantico",
+      "cantique"
+    ]
+  },
+  {
+    "value": "faf",
+    "synonyms": [
+      "faf",
+      "fanfara",
+      "fanfare"
+    ]
+  },
+  {
+    "value": "trz",
+    "synonyms": [
+      "trz",
+      "trezza"
+    ]
+  },
+  {
+    "value": "lit",
+    "synonyms": [
+      "lit",
+      "liturgie",
+      "liturgy"
+    ]
+  },
+  {
+    "value": "czs",
+    "synonyms": [
+      "czs",
+      "canzonetta spirituale"
+    ]
+  },
+  {
+    "value": "cou",
+    "synonyms": [
+      "cou",
+      "couplet"
+    ]
+  },
+  {
+    "value": "tdn",
+    "synonyms": [
+      "tdn",
+      "triodion"
+    ]
+  },
+  {
+    "value": "ldy",
+    "synonyms": [
+      "ldy",
+      "lindy"
+    ]
+  },
+  {
+    "value": "skt",
+    "synonyms": [
+      "skt",
+      "sketch"
+    ]
+  },
+  {
+    "value": "pls",
+    "synonyms": [
+      "pls",
+      "plantation song"
+    ]
+  },
+  {
+    "value": "clu",
+    "synonyms": [
+      "clu",
+      "clausola",
+      "clausula"
+    ]
+  },
+  {
+    "value": "frs",
+    "synonyms": [
+      "frs",
+      "fricassée"
+    ]
+  },
+  {
+    "value": "stt",
+    "synonyms": [
+      "stt",
+      "saltarello tedesco"
+    ]
+  },
+  {
+    "value": "ode",
+    "synonyms": [
+      "ode",
+      "ode"
+    ]
+  },
+  {
+    "value": "ent",
+    "synonyms": [
+      "ent",
+      "entrée"
+    ]
+  },
+  {
+    "value": "cht",
+    "synonyms": [
+      "cht",
+      "chanson sentencieuse"
+    ]
+  },
+  {
+    "value": "rap",
+    "synonyms": [
+      "rap",
+      "rap"
+    ]
+  },
+  {
+    "value": "ogm",
+    "synonyms": [
+      "ogm",
+      "organum"
+    ]
+  },
+  {
+    "value": "ai",
+    "synonyms": [
+      "ai",
+      "air vocal",
+      "ayr"
+    ]
+  },
+  {
+    "value": "ctf",
+    "synonyms": [
+      "ctf",
+      "contrafactum"
+    ]
+  },
+  {
+    "value": "jub",
+    "synonyms": [
+      "jub",
+      "jubilee"
+    ]
+  },
+  {
+    "value": "hoq",
+    "synonyms": [
+      "hoq",
+      "hoquetus"
+    ]
+  },
+  {
+    "value": "tra",
+    "synonyms": [
+      "tra",
+      "tract",
+      "trait",
+      "tratto"
+    ]
+  },
+  {
+    "value": "mi",
+    "synonyms": [
+      "mi",
+      "minuet",
+      "minuetto",
+      "minuetti"
+    ]
+  },
+  {
+    "value": "btq",
+    "synonyms": [
+      "btq",
+      "batuque"
+    ]
+  },
+  {
+    "value": "Musique de chambre",
+    "synonyms": [
+      "Musique de chambre"
+    ]
+  },
+  {
+    "value": "dmk",
+    "synonyms": [
+      "dmk",
+      "dumka",
+      "dumkas"
+    ]
+  },
+  {
+    "value": "sev",
+    "synonyms": [
+      "sev",
+      "sevillana",
+      "sevillanas"
+    ]
+  },
+  {
+    "value": "fm",
+    "synonyms": [
+      "fm",
+      "folk music",
+      "musique traditionnelle"
+    ]
+  },
+  {
+    "value": "mld",
+    "synonyms": [
+      "mld",
+      "mélodie",
+      "mélodies",
+      "melodie",
+      "melodies"
+    ]
+  },
+  {
+    "value": "bcs",
+    "synonyms": [
+      "bcs",
+      "berceuse",
+      "ninna nanna"
+    ]
+  },
+  {
+    "value": "trq",
+    "synonyms": [
+      "trq",
+      "traquenard"
+    ]
+  },
+  {
+    "value": "ant",
+    "synonyms": [
+      "ant",
+      "antifona",
+      "antiphon"
+    ]
+  },
+  {
+    "value": "frd",
+    "synonyms": [
+      "frd",
+      "farandola",
+      "farandole"
+    ]
+  },
+  {
+    "value": "cy",
+    "synonyms": [
+      "cy",
+      "country music",
+      "musica country"
+    ]
+  },
+  {
+    "value": "bru",
+    "synonyms": [
+      "bru",
+      "brunette"
+    ]
+  },
+  {
+    "value": "itt",
+    "synonyms": [
+      "itt",
+      "introit",
+      "introito",
+      "introitus",
+      "introït"
+    ]
+  },
+  {
+    "value": "psa",
+    "synonyms": [
+      "psa",
+      "psalm",
+      "salmo"
+    ]
+  },
+  {
+    "value": "mlg",
+    "synonyms": [
+      "mlg",
+      "malagueña"
+    ]
+  },
+  {
+    "value": "gas",
+    "synonyms": [
+      "gas",
+      "gassenhauer"
+    ]
+  },
+  {
+    "value": "gos",
+    "synonyms": [
+      "gos",
+      "canto goliardico",
+      "goliard song"
+    ]
+  },
+  {
+    "value": "cp",
+    "synonyms": [
+      "cp",
+      "chanson polyphonique",
+      "chanson polyphonic"
+    ]
+  },
+  {
+    "value": "inm",
+    "synonyms": [
+      "inm",
+      "incidental theater music",
+      "musica di scena"
+    ]
+  },
+  {
+    "value": "jus",
+    "synonyms": [
+      "jus",
+      "giustiniana",
+      "justiniane"
+    ]
+  },
+  {
+    "value": "st",
+    "synonyms": [
+      "st",
+      "studio",
+      "study exercise",
+      "étude et exercice"
+    ]
+  },
+  {
+    "value": "ons",
+    "synonyms": [
+      "ons",
+      "onestep"
+    ]
+  },
+  {
+    "value": "zmb",
+    "synonyms": [
+      "zmb",
+      "zamba"
+    ]
+  },
+  {
+    "value": "dix",
+    "synonyms": [
+      "dix",
+      "dixieland"
+    ]
+  },
+  {
+    "value": "sch",
+    "synonyms": [
+      "sch",
+      "scherzo"
+    ]
+  },
+  {
+    "value": "plu",
+    "synonyms": [
+      "plu",
+      "nachspiel",
+      "postlude",
+      "postludio"
+    ]
+  },
+  {
+    "value": "blt",
+    "synonyms": [
+      "blt",
+      "bluette"
+    ]
+  },
+  {
+    "value": "vrg",
+    "synonyms": [
+      "vrg",
+      "verse gradual",
+      "verset de graduel",
+      "versetto di graduale"
+    ]
+  },
+  {
+    "value": "lty",
+    "synonyms": [
+      "lty",
+      "litany"
+    ]
+  },
+  {
+    "value": "mcc",
+    "synonyms": [
+      "mcc",
+      "macchietta"
+    ]
+  },
+  {
+    "value": "bol",
+    "synonyms": [
+      "bol",
+      "bolero",
+      "boléro"
+    ]
+  },
+  {
+    "value": "mum",
+    "synonyms": [
+      "mum",
+      "momento musicale",
+      "musical moment"
+    ]
+  },
+  {
+    "value": "syo",
+    "synonyms": [
+      "syo",
+      "syomyo"
+    ]
+  },
+  {
+    "value": "can",
+    "synonyms": [
+      "can",
+      "can-can",
+      "cancan"
+    ]
+  },
+  {
+    "value": "lnd",
+    "synonyms": [
+      "lnd",
+      "ländler"
+    ]
+  },
+  {
+    "value": "scs",
+    "synonyms": [
+      "scs",
+      "canto sacro",
+      "chant religieux",
+      "sacred song"
+    ]
+  },
+  {
+    "value": "fax",
+    "synonyms": [
+      "fax",
+      "falsobordone",
+      "faux-bourdon"
+    ]
+  },
+  {
+    "value": "ree",
+    "synonyms": [
+      "ree",
+      "reel"
+    ]
+  },
+  {
+    "value": "sy",
+    "synonyms": [
+      "sy",
+      "sinfonia",
+      "symphonie",
+      "symphony",
+      "sinfonie",
+      "sinfonias"
+    ]
+  },
+  {
+    "value": "voc",
+    "synonyms": [
+      "voc",
+      "vocalise",
+      "vocalizzo"
+    ]
+  },
+  {
+    "value": "pnk",
+    "synonyms": [
+      "pnk",
+      "punk"
+    ]
+  },
+  {
+    "value": "cpr",
+    "synonyms": [
+      "cpr",
+      "capriccio",
+      "caprice"
+    ]
+  },
+  {
+    "value": "bwg",
+    "synonyms": [
+      "bwg",
+      "boogie-woogie"
+    ]
+  },
+  {
+    "value": "cg",
+    "synonyms": [
+      "cg",
+      "concerto grosso"
+    ]
+  },
+  {
+    "value": "lds",
+    "synonyms": [
+      "lds",
+      "liederspiel"
+    ]
+  },
+  {
+    "value": "mu",
+    "synonyms": [
+      "mu",
+      "formes multiples",
+      "multiple forms"
+    ]
+  },
+  {
+    "value": "fvm",
+    "synonyms": [
+      "fvm",
+      "favola per musica",
+      "favole per musica"
+    ]
+  },
+  {
+    "value": "rct",
+    "synonyms": [
+      "rct",
+      "récit"
+    ]
+  },
+  {
+    "value": "cad",
+    "synonyms": [
+      "cad",
+      "cadence",
+      "cadenza"
+    ]
+  },
+  {
+    "value": "fur",
+    "synonyms": [
+      "fur",
+      "furiant"
+    ]
+  },
+  {
+    "value": "prl",
+    "synonyms": [
+      "prl",
+      "prologo",
+      "prologue"
+    ]
+  },
+  {
+    "value": "ark",
+    "synonyms": [
+      "ark",
+      "aurresku"
+    ]
+  },
+  {
+    "value": "ps",
+    "synonyms": [
+      "ps",
+      "passacaglia"
+    ]
+  },
+  {
+    "value": "thr",
+    "synonyms": [
+      "thr",
+      "threnos"
+    ]
+  },
+  {
+    "value": "ain",
+    "synonyms": [
+      "ain",
+      "air instrumental"
+    ]
+  },
+  {
+    "value": "bur",
+    "synonyms": [
+      "bur",
+      "burlesque"
+    ]
+  },
+  {
+    "value": "gym",
+    "synonyms": [
+      "gym",
+      "gymel"
+    ]
+  },
+  {
+    "value": "inc",
+    "synonyms": [
+      "inc",
+      "invocatio",
+      "invocation",
+      "invocazione"
+    ]
+  },
+  {
+    "value": "azs",
+    "synonyms": [
+      "azs",
+      "azione sacra"
+    ]
+  },
+  {
+    "value": "gra",
+    "synonyms": [
+      "gra",
+      "gradual",
+      "graduale"
+    ]
+  },
+  {
+    "value": "pae",
+    "synonyms": [
+      "pae",
+      "paean",
+      "peana"
+    ]
+  },
+  {
+    "value": "sss",
+    "synonyms": [
+      "sss",
+      "seises"
+    ]
+  },
+  {
+    "value": "bd",
+    "synonyms": [
+      "bd",
+      "ballad",
+      "ballade",
+      "ballata"
+    ]
+  },
+  {
+    "value": "zam",
+    "synonyms": [
+      "zam",
+      "zamacueca"
+    ]
+  },
+  {
+    "value": "ste",
+    "synonyms": [
+      "ste",
+      "schottische"
+    ]
+  },
+  {
+    "value": "mmo",
+    "synonyms": [
+      "mmo",
+      "multimedia opera",
+      "opera multimediale",
+      "opéra multimédia"
+    ]
+  },
+  {
+    "value": "tri",
+    "synonyms": [
+      "tri",
+      "trio"
+    ]
+  },
+  {
+    "value": "sic",
+    "synonyms": [
+      "sic",
+      "siciliana"
+    ]
+  },
+  {
+    "value": "rmy",
+    "synonyms": [
+      "rmy",
+      "melodia religiosa",
+      "religious melody"
+    ]
+  },
+  {
+    "value": "op",
+    "synonyms": [
+      "op",
+      "oper",
+      "opera",
+      "opéra"
+    ]
+  },
+  {
+    "value": "cop",
+    "synonyms": [
+      "cop",
+      "concert piece",
+      "morceau de concert",
+      "pezzo da concerto"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "dramma sacro",
+      "sacred drama"
+    ]
+  },
+  {
+    "value": "kol",
+    "synonyms": [
+      "kol",
+      "kolo"
+    ]
+  },
+  {
+    "value": "ft",
+    "synonyms": [
+      "ft",
+      "fantasia"
+    ]
+  },
+  {
+    "value": "bsd",
+    "synonyms": [
+      "bsd",
+      "bassa danza",
+      "basse danse"
+    ]
+  },
+  {
+    "value": "pdy",
+    "synonyms": [
+      "pdy",
+      "parodia",
+      "parodie",
+      "parody"
+    ]
+  },
+  {
+    "value": "hum",
+    "synonyms": [
+      "hum",
+      "humoresque",
+      "umoresca"
+    ]
+  },
+  {
+    "value": "cl",
+    "synonyms": [
+      "cl",
+      "choral prelude",
+      "preludio corale"
+    ]
+  },
+  {
+    "value": "wem",
+    "synonyms": [
+      "wem",
+      "marche nuptiale",
+      "marcia nuziale",
+      "wedding march"
+    ]
+  },
+  {
+    "value": "dev",
+    "synonyms": [
+      "dev",
+      "devozione"
+    ]
+  },
+  {
+    "value": "spt",
+    "synonyms": [
+      "spt",
+      "septet",
+      "settimino"
+    ]
+  },
+  {
+    "value": "md",
+    "synonyms": [
+      "md",
+      "madrigal"
+    ]
+  },
+  {
+    "value": "ctc",
+    "synonyms": [
+      "ctc",
+      "contacio"
+    ]
+  },
+  {
+    "value": "trg",
+    "synonyms": [
+      "trg",
+      "trishagion"
+    ]
+  },
+  {
+    "value": "cue",
+    "synonyms": [
+      "cue",
+      "cueca"
+    ]
+  },
+  {
+    "value": "jep",
+    "synonyms": [
+      "jep",
+      "jeu parti"
+    ]
+  },
+  {
+    "value": "su",
+    "synonyms": [
+      "su",
+      "suite"
+    ]
+  },
+  {
+    "value": "bhn",
+    "synonyms": [
+      "bhn",
+      "bergreihen"
+    ]
+  },
+  {
+    "value": "mim",
+    "synonyms": [
+      "mim",
+      "marche militaire",
+      "marcia militare",
+      "military march"
+    ]
+  },
+  {
+    "value": "sce",
+    "synonyms": [
+      "sce",
+      "scena",
+      "scene",
+      "scène",
+      "scenes"
+    ]
+  },
+  {
+    "value": "cra",
+    "synonyms": [
+      "cra",
+      "carola",
+      "carole"
+    ]
+  },
+  {
+    "value": "cpl",
+    "synonyms": [
+      "cpl",
+      "copla"
+    ]
+  },
+  {
+    "value": "ane",
+    "synonyms": [
+      "ane",
+      "ante evangelium"
+    ]
+  },
+  {
+    "value": "ntz",
+    "synonyms": [
+      "ntz",
+      "nachtanz"
+    ]
+  },
+  {
+    "value": "rdw",
+    "synonyms": [
+      "rdw",
+      "redowa"
+    ]
+  },
+  {
+    "value": "dui",
+    "synonyms": [
+      "dui",
+      "duetto",
+      "duo",
+      "duo instrumental"
+    ]
+  },
+  {
+    "value": "sft",
+    "synonyms": [
+      "sft",
+      "sinfonietta"
+    ]
+  },
+  {
+    "value": "cow",
+    "synonyms": [
+      "cow",
+      "competition examination work",
+      "pezzo da concorso"
+    ]
+  },
+  {
+    "value": "due",
+    "synonyms": [
+      "due",
+      "duet",
+      "duetto",
+      "duo vocal"
+    ]
+  },
+  {
+    "value": "gal",
+    "synonyms": [
+      "gal",
+      "galop",
+      "galopp"
+    ]
+  },
+  {
+    "value": "fso",
+    "synonyms": [
+      "fso",
+      "chanson populaire",
+      "folk song"
+    ]
+  },
+  {
+    "value": "vr",
+    "synonyms": [
+      "vr",
+      "variation",
+      "variazione"
+    ]
+  },
+  {
+    "value": "ari",
+    "synonyms": [
+      "ari",
+      "ariette"
+    ]
+  },
+  {
+    "value": "gig",
+    "synonyms": [
+      "gig",
+      "giga",
+      "gigue"
+    ]
+  },
+  {
+    "value": "des",
+    "synonyms": [
+      "des",
+      "descort"
+    ]
+  },
+  {
+    "value": "lec",
+    "synonyms": [
+      "lec",
+      "lectio"
+    ]
+  },
+  {
+    "value": "bkg",
+    "synonyms": [
+      "bkg",
+      "bänkelgesang"
+    ]
+  },
+  {
+    "value": "in",
+    "synonyms": [
+      "in",
+      "intermezzo"
+    ]
+  },
+  {
+    "value": "cz",
+    "synonyms": [
+      "cz",
+      "canzona"
+    ]
+  },
+  {
+    "value": "prd",
+    "synonyms": [
+      "prd",
+      "praeludium",
+      "prelude",
+      "preludio",
+      "präludium",
+      "prélude"
+    ]
+  },
+  {
+    "value": "sgl",
+    "synonyms": [
+      "sgl",
+      "seguidilla"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "alleluia"
+    ]
+  },
+  {
+    "value": "snd",
+    "synonyms": [
+      "snd",
+      "serenade",
+      "serenata"
+    ]
+  },
+  {
+    "value": "mds",
+    "synonyms": [
+      "mds",
+      "morceau de salon"
+    ]
+  },
+  {
+    "value": "cfr",
+    "synonyms": [
+      "cfr",
+      "confractorium"
+    ]
+  },
+  {
+    "value": "ptn",
+    "synonyms": [
+      "ptn",
+      "pater noster"
+    ]
+  },
+  {
+    "value": "vra",
+    "synonyms": [
+      "vra",
+      "verse alleluia",
+      "verset d\u0027alleluia",
+      "versetto di alleluia"
+    ]
+  },
+  {
+    "value": "imp",
+    "synonyms": [
+      "imp",
+      "imploratio",
+      "imploration",
+      "implorazione"
+    ]
+  },
+  {
+    "value": "idy",
+    "synonyms": [
+      "idy",
+      "idillio",
+      "idyll"
+    ]
+  },
+  {
+    "value": "gai",
+    "synonyms": [
+      "gai",
+      "gagliarda",
+      "gaillard"
+    ]
+  },
+  {
+    "value": "pad",
+    "synonyms": [
+      "pad",
+      "dramma pastorale",
+      "pastoral drama",
+      "pastorale dramatique"
+    ]
+  },
+  {
+    "value": "pp",
+    "synonyms": [
+      "pp",
+      "musica leggera",
+      "popular music"
+    ]
+  },
+  {
+    "value": "cab",
+    "synonyms": [
+      "cab",
+      "cabaletta"
+    ]
+  },
+  {
+    "value": "cdt",
+    "synonyms": [
+      "cdt",
+      "chanson de toile"
+    ]
+  },
+  {
+    "value": "rej",
+    "synonyms": [
+      "rej",
+      "réjouissance"
+    ]
+  },
+  {
+    "value": "vnz",
+    "synonyms": [
+      "vnz",
+      "veneziana",
+      "venezianas"
+    ]
+  },
+  {
+    "value": "co",
+    "synonyms": [
+      "co",
+      "concerto",
+      "konzert",
+      "concerti",
+      "concerts"
+    ]
+  },
+  {
+    "value": "ept",
+    "synonyms": [
+      "ept",
+      "epitalamio",
+      "epithalamium"
+    ]
+  },
+  {
+    "value": "drs",
+    "synonyms": [
+      "drs",
+      "brindisi",
+      "drinking song"
+    ]
+  },
+  {
+    "value": "dox",
+    "synonyms": [
+      "dox",
+      "dossologia",
+      "doxologie",
+      "doxology"
+    ]
+  },
+  {
+    "value": "pt",
+    "synonyms": [
+      "pt",
+      "partsong"
+    ]
+  },
+  {
+    "value": "ths",
+    "synonyms": [
+      "ths",
+      "third stream"
+    ]
+  },
+  {
+    "value": "mnh",
+    "synonyms": [
+      "mnh",
+      "modinha"
+    ]
+  },
+  {
+    "value": "lyh",
+    "synonyms": [
+      "lyh",
+      "heures liturgiques",
+      "liturgia delle ore",
+      "liturgy of the hours"
+    ]
+  },
+  {
+    "value": "pll",
+    "synonyms": [
+      "pll",
+      "penillon"
+    ]
+  },
+  {
+    "value": "ara",
+    "synonyms": [
+      "ara",
+      "arabesque"
+    ]
+  },
+  {
+    "value": "lid",
+    "synonyms": [
+      "lid",
+      "liturgical drama"
+    ]
+  },
+  {
+    "value": "cll",
+    "synonyms": [
+      "cll",
+      "carosello"
+    ]
+  },
+  {
+    "value": "hy",
+    "synonyms": [
+      "hy",
+      "hymn",
+      "inno"
+    ]
+  },
+  {
+    "value": "tar",
+    "synonyms": [
+      "tar",
+      "tarantella",
+      "tarentelle"
+    ]
+  },
+  {
+    "value": "sls",
+    "synonyms": [
+      "sls",
+      "salsa"
+    ]
+  },
+  {
+    "value": "ton",
+    "synonyms": [
+      "ton",
+      "tonadilla"
+    ]
+  },
+  {
+    "value": "ind",
+    "synonyms": [
+      "ind",
+      "intrada"
+    ]
+  },
+  {
+    "value": "mxx",
+    "synonyms": [
+      "mxx",
+      "maxixe"
+    ]
+  },
+  {
+    "value": "gop",
+    "synonyms": [
+      "gop",
+      "gopak"
+    ]
+  },
+  {
+    "value": "ar",
+    "synonyms": [
+      "ar",
+      "aria",
+      "arias",
+      "arie"
+    ]
+  },
+  {
+    "value": "bll",
+    "synonyms": [
+      "bll",
+      "ballata"
+    ]
+  },
+  {
+    "value": "nww",
+    "synonyms": [
+      "nww",
+      "new wave"
+    ]
+  },
+  {
+    "value": "ele",
+    "synonyms": [
+      "ele",
+      "elevatio",
+      "elevazione",
+      "élévation"
+    ]
+  },
+  {
+    "value": "bea",
+    "synonyms": [
+      "bea",
+      "beat"
+    ]
+  },
+  {
+    "value": "cri",
+    "synonyms": [
+      "cri",
+      "carioca"
+    ]
+  },
+  {
+    "value": "san",
+    "synonyms": [
+      "san",
+      "sanctus"
+    ]
+  },
+  {
+    "value": "cli",
+    "synonyms": [
+      "cli",
+      "choral instrumental",
+      "choral instrumental",
+      "corale strumentale"
+    ]
+  },
+  {
+    "value": "ct",
+    "synonyms": [
+      "ct",
+      "cantata",
+      "cantate",
+      "kantate"
+    ]
+  },
+  {
+    "value": "tem",
+    "synonyms": [
+      "tem",
+      "musique techno",
+      "techno music"
+    ]
+  },
+  {
+    "value": "hab",
+    "synonyms": [
+      "hab",
+      "habanera"
+    ]
+  },
+  {
+    "value": "ter",
+    "synonyms": [
+      "ter",
+      "terzet",
+      "terzetto",
+      "trio vocal"
+    ]
+  },
+  {
+    "value": "swi",
+    "synonyms": [
+      "swi",
+      "swing"
+    ]
+  },
+  {
+    "value": "zar",
+    "synonyms": [
+      "zar",
+      "zarzuela"
+    ]
+  },
+  {
+    "value": "chz",
+    "synonyms": [
+      "chz",
+      "chiarenzana"
+    ]
+  },
+  {
+    "value": "ple",
+    "synonyms": [
+      "ple",
+      "post lectionem"
+    ]
+  },
+  {
+    "value": "gro",
+    "synonyms": [
+      "gro",
+      "grand opéra"
+    ]
+  },
+  {
+    "value": "fnd",
+    "synonyms": [
+      "fnd",
+      "fandango"
+    ]
+  },
+  {
+    "value": "mmd",
+    "synonyms": [
+      "mmd",
+      "mimodramma"
+    ]
+  },
+  {
+    "value": "opc",
+    "synonyms": [
+      "opc",
+      "opéra-comique"
+    ]
+  },
+  {
+    "value": "gch",
+    "synonyms": [
+      "gch",
+      "genero chico"
+    ]
+  },
+  {
+    "value": "ch",
+    "synonyms": [
+      "ch",
+      "choral",
+      "chorale",
+      "corale"
+    ]
+  },
+  {
+    "value": "dec",
+    "synonyms": [
+      "dec",
+      "decimino"
+    ]
+  },
+  {
+    "value": "ts",
+    "synonyms": [
+      "ts",
+      "sonata a tre",
+      "triosonata"
+    ]
+  },
+  {
+    "value": "cga",
+    "synonyms": [
+      "cga",
+      "conga"
+    ]
+  },
+  {
+    "value": "ten",
+    "synonyms": [
+      "ten",
+      "tenso"
+    ]
+  },
+  {
+    "value": "mtp",
+    "synonyms": [
+      "mtp",
+      "moto perpetuo",
+      "mouvement perpétuel"
+    ]
+  },
+  {
+    "value": "two",
+    "synonyms": [
+      "two",
+      "two-step"
+    ]
+  },
+  {
+    "value": "mp",
+    "synonyms": [
+      "mp",
+      "moving picture music",
+      "musica da film",
+      "musique de film"
+    ]
+  },
+  {
+    "value": "vil",
+    "synonyms": [
+      "vil",
+      "villanelle",
+      "villanellas"
+    ]
+  },
+  {
+    "value": "pro",
+    "synonyms": [
+      "pro",
+      "proemio",
+      "proemium"
+    ]
+  },
+  {
+    "value": "mat",
+    "synonyms": [
+      "mat",
+      "matines",
+      "matins",
+      "mattutino"
+    ]
+  },
+  {
+    "value": "qua",
+    "synonyms": [
+      "qua",
+      "quartet",
+      "quartett",
+      "quartetto",
+      "quatuor instrumental"
+    ]
+  },
+  {
+    "value": "kra",
+    "synonyms": [
+      "kra",
+      "krakowiak"
+    ]
+  },
+  {
+    "value": "res",
+    "synonyms": [
+      "res",
+      "responsorio",
+      "responsorium",
+      "répons"
+    ]
+  },
+  {
+    "value": "mph",
+    "synonyms": [
+      "mph",
+      "metamorfosi",
+      "metamorphosis"
+    ]
+  },
+  {
+    "value": "dia",
+    "synonyms": [
+      "dia",
+      "dialogo",
+      "dialogue"
+    ]
+  },
+  {
+    "value": "cn",
+    "synonyms": [
+      "cn",
+      "canon",
+      "canone",
+      "kanon"
+    ]
+  },
+  {
+    "value": "plo",
+    "synonyms": [
+      "plo",
+      "palotas"
+    ]
+  },
+  {
+    "value": "arn",
+    "synonyms": [
+      "arn",
+      "aria instrumental"
+    ]
+  },
+  {
+    "value": "aub",
+    "synonyms": [
+      "aub",
+      "alba",
+      "aubade"
+    ]
+  },
+  {
+    "value": "rc",
+    "synonyms": [
+      "rc",
+      "musique rock",
+      "rock music"
+    ]
+  },
+  {
+    "value": "rtt",
+    "synonyms": [
+      "rtt",
+      "rotta"
+    ]
+  },
+  {
+    "value": "nau",
+    "synonyms": [
+      "nau",
+      "Andalusi nubah",
+      "nauba",
+      "nouba"
+    ]
+  },
+  {
+    "value": "ars",
+    "synonyms": [
+      "ars",
+      "arioso"
+    ]
+  },
+  {
+    "value": "ska",
+    "synonyms": [
+      "ska",
+      "ska"
+    ]
+  },
+  {
+    "value": "mqu",
+    "synonyms": [
+      "mqu",
+      "masque"
+    ]
+  },
+  {
+    "value": "din",
+    "synonyms": [
+      "din",
+      "dramatic introduction",
+      "introduzione drammatica"
+    ]
+  },
+  {
+    "value": "mng",
+    "synonyms": [
+      "mng",
+      "milonga"
+    ]
+  },
+  {
+    "value": "alb",
+    "synonyms": [
+      "alb",
+      "albumleaf",
+      "foglio d\u0027album"
+    ]
+  },
+  {
+    "value": "rjk",
+    "synonyms": [
+      "rjk",
+      "rejdovák"
+    ]
+  },
+  {
+    "value": "bst",
+    "synonyms": [
+      "bst",
+      "boston"
+    ]
+  },
+  {
+    "value": "zap",
+    "synonyms": [
+      "zap",
+      "zapateado"
+    ]
+  },
+  {
+    "value": "uuu",
+    "synonyms": [
+      "uuu",
+      "forme inconnue",
+      "unknown form"
+    ]
+  },
+  {
+    "value": "cdo",
+    "synonyms": [
+      "cdo",
+      "children opera",
+      "opera per bambini",
+      "opéra pour enfants"
+    ]
+  },
+  {
+    "value": "vrs",
+    "synonyms": [
+      "vrs",
+      "verse",
+      "verset",
+      "versetto"
+    ]
+  },
+  {
+    "value": "cmg",
+    "synonyms": [
+      "cmg",
+      "carmagnole"
+    ]
+  },
+  {
+    "value": "fea",
+    "synonyms": [
+      "fea",
+      "feast",
+      "festa",
+      "musique de fête"
+    ]
+  },
+  {
+    "value": "mgs",
+    "synonyms": [
+      "mgs",
+      "madrigale spirituale"
+    ]
+  },
+  {
+    "value": "noe",
+    "synonyms": [
+      "noe",
+      "christmas music",
+      "noël",
+      "weihnachtsmusik",
+      "christmas musics"
+    ]
+  },
+  {
+    "value": "fin",
+    "synonyms": [
+      "fin",
+      "finale",
+      "finales"
+    ]
+  },
+  {
+    "value": "psl",
+    "synonyms": [
+      "psl",
+      "pastourelle"
+    ]
+  },
+  {
+    "value": "lai",
+    "synonyms": [
+      "lai",
+      "lai"
+    ]
+  },
+  {
+    "value": "ri",
+    "synonyms": [
+      "ri",
+      "ricercare"
+    ]
+  },
+  {
+    "value": "chr",
+    "synonyms": [
+      "chr",
+      "choir",
+      "coro",
+      "cori",
+      "chors"
+    ]
+  },
+  {
+    "value": "dsg",
+    "synonyms": [
+      "dsg",
+      "disguisings"
+    ]
+  },
+  {
+    "value": "mtz",
+    "synonyms": [
+      "mtz",
+      "mutanza"
+    ]
+  },
+  {
+    "value": "fol",
+    "synonyms": [
+      "fol",
+      "folie",
+      "follia"
+    ]
+  },
+  {
+    "value": "ctd",
+    "synonyms": [
+      "ctd",
+      "contraddanza",
+      "contredance",
+      "contredanse"
+    ]
+  },
+  {
+    "value": "bar",
+    "synonyms": [
+      "bar",
+      "barcarola",
+      "barcarole"
+    ]
+  },
+  {
+    "value": "glo",
+    "synonyms": [
+      "glo",
+      "gloria"
+    ]
+  },
+  {
+    "value": "fns",
+    "synonyms": [
+      "fns",
+      "canto funebre",
+      "chant funèbre",
+      "funeral song"
+    ]
+  },
+  {
+    "value": "acl",
+    "synonyms": [
+      "acl",
+      "acclamatio",
+      "acclamazione"
+    ]
+  },
+  {
+    "value": "tum",
+    "synonyms": [
+      "tum",
+      "tumba"
+    ]
+  },
+  {
+    "value": "sth",
+    "synonyms": [
+      "sth",
+      "schottish"
+    ]
+  },
+  {
+    "value": "fad",
+    "synonyms": [
+      "fad",
+      "fado"
+    ]
+  },
+  {
+    "value": "gle",
+    "synonyms": [
+      "gle",
+      "glee"
+    ]
+  },
+  {
+    "value": "cs",
+    "synonyms": [
+      "cs",
+      "chance composition aleatoric music",
+      "musica aleatoria"
+    ]
+  },
+  {
+    "value": "crt",
+    "synonyms": [
+      "crt",
+      "corant",
+      "corrente"
+    ]
+  },
+  {
+    "value": "scc",
+    "synonyms": [
+      "scc",
+      "cantata sacra",
+      "cantate sacrée",
+      "sacred cantata"
+    ]
+  },
+  {
+    "value": "rev",
+    "synonyms": [
+      "rev",
+      "revista",
+      "revue",
+      "rivista"
+    ]
+  },
+  {
+    "value": "lic",
+    "synonyms": [
+      "lic",
+      "licenza"
+    ]
+  },
+  {
+    "value": "bai",
+    "synonyms": [
+      "bai",
+      "baião"
+    ]
+  },
+  {
+    "value": "acc",
+    "synonyms": [
+      "acc",
+      "accademia"
+    ]
+  },
+  {
+    "value": "pm",
+    "synonyms": [
+      "pm",
+      "passion",
+      "passion music",
+      "passione"
+    ]
+  },
+  {
+    "value": "ckw",
+    "synonyms": [
+      "ckw",
+      "cakewalk"
+    ]
+  },
+  {
+    "value": "opf",
+    "synonyms": [
+      "opf",
+      "opéra bouffe"
+    ]
+  },
+  {
+    "value": "sq",
+    "synonyms": [
+      "sq",
+      "square dance"
+    ]
+  },
+  {
+    "value": "str",
+    "synonyms": [
+      "str",
+      "strambotto"
+    ]
+  },
+  {
+    "value": "hem",
+    "synonyms": [
+      "hem",
+      "heavy metal"
+    ]
+  },
+  {
+    "value": "sdr",
+    "synonyms": [
+      "sdr",
+      "scherzo drammatico"
+    ]
+  },
+  {
+    "value": "rq",
+    "synonyms": [
+      "rq",
+      "messa di requiem",
+      "messe de requiem",
+      "requiem",
+      "requiem mass"
+    ]
+  },
+  {
+    "value": "jot",
+    "synonyms": [
+      "jot",
+      "jota"
+    ]
+  },
+  {
+    "value": "brg",
+    "synonyms": [
+      "brg",
+      "bergamasca",
+      "bergamasker Tanz",
+      "bergamasque",
+      "bergamasque dance"
+    ]
+  },
+  {
+    "value": "zop",
+    "synonyms": [
+      "zop",
+      "zoppa"
+    ]
+  },
+  {
+    "value": "pco",
+    "synonyms": [
+      "pco",
+      "post-communion",
+      "postcommunio"
+    ]
+  },
+  {
+    "value": "rsp",
+    "synonyms": [
+      "rsp",
+      "raspa"
+    ]
+  },
+  {
+    "value": "cti",
+    "synonyms": [
+      "cti",
+      "cantio"
+    ]
+  },
+  {
+    "value": "azt",
+    "synonyms": [
+      "azt",
+      "azione teatrale"
+    ]
+  },
+  {
+    "value": "cto",
+    "synonyms": [
+      "cto",
+      "cento",
+      "centone"
+    ]
+  },
+  {
+    "value": "an",
+    "synonyms": [
+      "an",
+      "anthem"
+    ]
+  },
+  {
+    "value": "ms",
+    "synonyms": [
+      "ms",
+      "mass",
+      "messa",
+      "messe",
+      "missa"
+    ]
+  },
+  {
+    "value": "msc",
+    "synonyms": [
+      "msc",
+      "moresca"
+    ]
+  },
+  {
+    "value": "hip",
+    "synonyms": [
+      "hip",
+      "hip-hop"
+    ]
+  },
+  {
+    "value": "tmb",
+    "synonyms": [
+      "tmb",
+      "tambourin"
+    ]
+  },
+  {
+    "value": "obk",
+    "synonyms": [
+      "obk",
+      "oberek"
+    ]
+  },
+  {
+    "value": "ttt",
+    "synonyms": [
+      "ttt",
+      "tattoo"
+    ]
+  },
+  {
+    "value": "blo",
+    "synonyms": [
+      "blo",
+      "ballad opera"
+    ]
+  },
+  {
+    "value": "app",
+    "synonyms": [
+      "app",
+      "applauso"
+    ]
+  },
+  {
+    "value": "cst",
+    "synonyms": [
+      "cst",
+      "cassation",
+      "cassazione"
+    ]
+  },
+  {
+    "value": "trd",
+    "synonyms": [
+      "trd",
+      "tourdion"
+    ]
+  },
+  {
+    "value": "bl",
+    "synonyms": [
+      "bl",
+      "blues"
+    ]
+  },
+  {
+    "value": "ens",
+    "synonyms": [
+      "ens",
+      "ensalada"
+    ]
+  },
+  {
+    "value": "itn",
+    "synonyms": [
+      "itn",
+      "intonation",
+      "intonazione"
+    ]
+  },
+  {
+    "value": "dv",
+    "synonyms": [
+      "dv",
+      "divertimento"
+    ]
+  },
+  {
+    "value": "plr",
+    "synonyms": [
+      "plr",
+      "plaisanterie"
+    ]
+  },
+  {
+    "value": "opm",
+    "synonyms": [
+      "opm",
+      "opera semiseria"
+    ]
+  },
+  {
+    "value": "ext",
+    "synonyms": [
+      "ext",
+      "extravaganza"
+    ]
+  },
+  {
+    "value": "quo",
+    "synonyms": [
+      "quo",
+      "quodlibet"
+    ]
+  },
+  {
+    "value": "cch",
+    "synonyms": [
+      "cch",
+      "catch"
+    ]
+  },
+  {
+    "value": "vsp",
+    "synonyms": [
+      "vsp",
+      "vespers",
+      "vespro",
+      "vêpres"
+    ]
+  },
+  {
+    "value": "ala",
+    "synonyms": [
+      "ala",
+      "alba"
+    ]
+  },
+  {
+    "value": "pdv",
+    "synonyms": [
+      "pdv",
+      "padovana"
+    ]
+  },
+  {
+    "value": "lau",
+    "synonyms": [
+      "lau",
+      "lauda"
+    ]
+  },
+  {
+    "value": "snt",
+    "synonyms": [
+      "snt",
+      "serenata"
+    ]
+  },
+  {
+    "value": "sdh",
+    "synonyms": [
+      "sdh",
+      "schnadahüpfl"
+    ]
+  },
+  {
+    "value": "vlc",
+    "synonyms": [
+      "vlc",
+      "villancico"
+    ]
+  },
+  {
+    "value": "chh",
+    "synonyms": [
+      "chh",
+      "cachucha"
+    ]
+  },
+  {
+    "value": "sou",
+    "synonyms": [
+      "sou",
+      "soul"
+    ]
+  },
+  {
+    "value": "slq",
+    "synonyms": [
+      "slq",
+      "monologo",
+      "soliloquy",
+      "monologhi"
+    ]
+  }
+]

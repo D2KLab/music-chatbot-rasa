@@ -1,0 +1,58 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "doremus-instrument",
+        "doremus-artist",
+        "date-period",
+        "works-by-followup",
+        "doremus-genre"
+      ]
+    },
+    "works_by_instrument": {
+      "slots": []
+    },
+    "input_welcome": {
+      "slots": []
+    },
+    "discover_artist": {
+      "slots": []
+    },
+    "find_artist": {
+      "slots": []
+    },
+    "works_by_works_by_no": {
+      "slots": []
+    },
+    "find_performance": {
+      "slots": []
+    },
+    "works_by_genre": {
+      "slots": []
+    },
+    "works_by_years": {
+      "slots": []
+    },
+    "help": {
+      "slots": []
+    },
+    "works_by_artist": {
+      "slots": []
+    },
+    "works_by": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.10.0a2",
+  "max_histories": [
+    5,
+    5,
+    null
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy"
+  ]
+}

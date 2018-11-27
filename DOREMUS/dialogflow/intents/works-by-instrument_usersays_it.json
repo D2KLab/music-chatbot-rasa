@@ -1,0 +1,110 @@
+[
+  {
+    "id": "893cbb02-0935-4d8f-acaf-84df56ca7158",
+    "data": [
+      {
+        "text": "Si per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274329
+  },
+  {
+    "id": "d7f78e57-328d-4706-aefb-62f5454c6632",
+    "data": [
+      {
+        "text": "Si per strumento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274329
+  },
+  {
+    "id": "79b53e5a-3533-48f3-b91b-ccedcfafa833",
+    "data": [
+      {
+        "text": "Strumento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274329
+  },
+  {
+    "id": "99d337e6-f00b-4f85-b457-feda2d2630bf",
+    "data": [
+      {
+        "text": "Si per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274329
+  },
+  {
+    "id": "1ed9151d-e2e1-49eb-bbb4-72a91444e8d4",
+    "data": [
+      {
+        "text": "Ok per ",
+        "userDefined": false
+      },
+      {
+        "text": "sassofono",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274329
+  }
+]

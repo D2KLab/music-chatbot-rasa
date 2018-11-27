@@ -1,0 +1,124 @@
+[
+  {
+    "id": "447f3836-f157-467b-8c91-43eec4c930d8",
+    "data": [
+      {
+        "text": "Dammi qualche informazione su ",
+        "userDefined": false
+      },
+      {
+        "text": "Liszt",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  },
+  {
+    "id": "0313efbf-a8c9-426c-8ddc-d4b08c686916",
+    "data": [
+      {
+        "text": "Per favore parlami di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  },
+  {
+    "id": "e29cbab6-657b-432b-aee0-ff10c6d14655",
+    "data": [
+      {
+        "text": "Vorrei sapere di più su ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  },
+  {
+    "id": "f9304f5c-77f2-4680-a6e4-f23039335276",
+    "data": [
+      {
+        "text": "Sto pensando a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": "... cosa sai su di lui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  },
+  {
+    "id": "81846c8b-d742-45cf-be35-d2580b2572d1",
+    "data": [
+      {
+        "text": "Dammi qualche informazione su ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per favore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  },
+  {
+    "id": "dc980f6f-9877-4be9-84e5-03f1b90a7474",
+    "data": [
+      {
+        "text": "Dimmi qualcosa su ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270052
+  }
+]

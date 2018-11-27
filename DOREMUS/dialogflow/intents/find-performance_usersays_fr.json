@@ -1,0 +1,372 @@
+[
+  {
+    "id": "598c3b46-052b-496d-9a5e-28f9a83cce0f",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "f1f20e21-962f-4cd2-bd57-18c3abb0f759",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement ",
+        "userDefined": false
+      },
+      {
+        "text": "le mois prochain",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "485bc85f-d481-434b-9f81-bcedad11ca02",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance ",
+        "userDefined": false
+      },
+      {
+        "text": "le mois prochain",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "26965db2-e16d-4426-a5d0-2e2de2dc9be4",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525516726
+  },
+  {
+    "id": "6c81d6a0-3a14-4fbd-858b-85e02661e520",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement ",
+        "userDefined": false
+      },
+      {
+        "text": "le mois prochain",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1525516726
+  },
+  {
+    "id": "4df39104-cad2-4e74-9212-7b460199c874",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance ",
+        "userDefined": false
+      },
+      {
+        "text": "le mois prochain",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "29186886-99be-4efb-93fc-7a25860b39fe",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement ",
+        "userDefined": false
+      },
+      {
+        "text": "le mois prochain",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "954efca6-11a1-455f-97b6-bb40a7660fe9",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "e13ed3b1-788d-41a3-9fed-cfb0589fceee",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525516726
+  },
+  {
+    "id": "0cbc8129-2a1c-448d-96d4-90b7633f6311",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement en ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  },
+  {
+    "id": "b2d4bb5d-1a96-4935-9638-99f59ddc210b",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525516726
+  },
+  {
+    "id": "4e8b0230-e537-43b9-ba35-45b02f7de922",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " performance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525516726
+  },
+  {
+    "id": "b44a48d3-6c48-472f-9afc-f3d844828d99",
+    "data": [
+      {
+        "text": "Proposes-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " évènement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525517172
+  }
+]

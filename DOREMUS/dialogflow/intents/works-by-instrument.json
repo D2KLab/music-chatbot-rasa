@@ -1,0 +1,68 @@
+{
+  "id": "3ff9d4ae-0e78-4bd7-b374-5d1ac9c594ac",
+  "name": "works-by-instrument",
+  "auto": true,
+  "contexts": [
+    "works-by-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "works-by-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5fb38572-c6b8-4ed6-8492-23246324bcbc",
+          "required": false,
+          "dataType": "@doremus-strictly",
+          "name": "doremus-strictly",
+          "value": "$doremus-strictly",
+          "isList": false
+        },
+        {
+          "id": "98a7efc4-8ad9-4adb-b4cd-4f7ede2e3ffd",
+          "required": true,
+          "dataType": "@doremus-instrument",
+          "name": "doremus-instrument",
+          "value": "$doremus-instrument",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok! Just tell me the instrument"
+            },
+            {
+              "lang": "fr",
+              "value": "Quel instrument?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Perfect! Do you want to add something?"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Veux-tu ajouter quelque chose?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525692784,
+  "fallbackIntent": false,
+  "events": []
+}

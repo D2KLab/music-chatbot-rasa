@@ -1,0 +1,257 @@
+[
+  {
+    "id": "99402ddf-2bce-42f4-bce8-67ca3e740af4",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1340",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524909310
+  },
+  {
+    "id": "1c431d88-8546-4e1a-adf2-4ff406afb325",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "8881f678-6d44-42fd-8947-36f613a4c888",
+    "data": [
+      {
+        "text": "written ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1650",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "e109abe1-aef5-40a3-89ed-7e115da51477",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909132
+  },
+  {
+    "id": "05d314ea-07e8-479b-8e8b-772f302e3a50",
+    "data": [
+      {
+        "text": "composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1700 and 1810",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "2c86cefa-8946-4ec7-98f8-eb7ef783e56c",
+    "data": [
+      {
+        "text": "composed ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1346",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "64537d61-6726-461a-93af-8f156a867f2b",
+    "data": [
+      {
+        "text": "written ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1995",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "58cbd149-84ad-4e9e-a9d3-15d35b2a4c6b",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1600",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "d6b59be8-6c3a-40be-a14c-c69e1e50aa93",
+    "data": [
+      {
+        "text": "yes the composition year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909132
+  },
+  {
+    "id": "60f64b5c-fc69-4c2c-b903-1d50d348b039",
+    "data": [
+      {
+        "text": "composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1400",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "5e3d6df9-9271-45af-82ae-2598128a12a7",
+    "data": [
+      {
+        "text": "yes the time period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525691170
+  },
+  {
+    "id": "15983bd8-62da-4f4b-a6b9-8df6b37c09d7",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "want",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " only those written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1670 and 1680",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  },
+  {
+    "id": "89c23092-cfff-435c-a432-059b809ea913",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "the year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of composition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909132
+  },
+  {
+    "id": "ce23567b-0294-4470-a002-156e037b213c",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1450 and 1500",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524909310
+  }
+]

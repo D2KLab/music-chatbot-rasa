@@ -1,0 +1,421 @@
+[
+  {
+    "id": "e484843a-5a33-4a50-ab4f-fc9a539cbdf0",
+    "data": [
+      {
+        "text": "I\u0027m thinking ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": "... what do you know of him?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "18db3582-10ae-4ad0-a40a-b483581c4b58",
+    "data": [
+      {
+        "text": "what do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "e92d469a-1c21-464c-ad8c-5d2e37300ec4",
+    "data": [
+      {
+        "text": "tell me something ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "4b7bb40b-28ce-483f-baaf-fb572a3338a8",
+    "data": [
+      {
+        "text": "tell use something ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "5ab9fd7b-805b-4915-8b3b-c20c3fff9311",
+    "data": [
+      {
+        "text": "please let me discover ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "400e841d-b43c-4ebe-8196-21182ae0ee42",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "a26f191d-406f-4e62-8d00-b763cc674e04",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "some",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " informations ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "65239e8d-d455-4407-9ca0-502bd66875b3",
+    "data": [
+      {
+        "text": "tell me something ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Antonio Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "384b9457-ec7d-4253-ae27-4a262cd90d38",
+    "data": [
+      {
+        "text": "talk me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "ae8dd36b-f92d-48bd-ba54-6ab3675766a1",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a composer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "61550965-2940-4cd2-bb9c-5bcb7d66f561",
+    "data": [
+      {
+        "text": "talk me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a composer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "c58843e7-579b-407f-b8dd-3f398058c1e3",
+    "data": [
+      {
+        "text": "give me so infos about ",
+        "userDefined": false
+      },
+      {
+        "text": "Liszt",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  },
+  {
+    "id": "af5ab140-8063-4a24-b10a-74cc052d7074",
+    "data": [
+      {
+        "text": "do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524675145
+  },
+  {
+    "id": "2ade6fff-4045-44c8-b878-85320659141a",
+    "data": [
+      {
+        "text": "I want to know more about ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524675145
+  },
+  {
+    "id": "cec36650-c67f-4f19-ae87-e507a8fccad3",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524675145
+  },
+  {
+    "id": "ee3cc793-d234-48ce-ba71-73c3d3b7d3ab",
+    "data": [
+      {
+        "text": "talk me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524675145
+  },
+  {
+    "id": "e5b20f1b-dfab-4ec8-be19-d5532dfca557",
+    "data": [
+      {
+        "text": "give me some infos about ",
+        "userDefined": false
+      },
+      {
+        "text": "Liszt",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524675145
+  }
+]

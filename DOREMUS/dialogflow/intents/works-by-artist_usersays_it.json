@@ -1,0 +1,140 @@
+[
+  {
+    "id": "90e2d980-2635-4f43-a6e5-33f641da721a",
+    "data": [
+      {
+        "text": "di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "d1c30551-9ce0-4967-a2a5-1e91fd1f4584",
+    "data": [
+      {
+        "text": "Si ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "06c45229-ea82-49a6-b315-9184782f9ed3",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "6b431aba-2f44-48a4-b49b-803b3a6a0845",
+    "data": [
+      {
+        "text": "Si di ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "bc7d4775-46ba-49a7-b257-e4a9543930f9",
+    "data": [
+      {
+        "text": "Ok di ",
+        "userDefined": false
+      },
+      {
+        "text": "Liszt",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "71db81b0-3cf3-4eef-9830-ad76c2c3e5eb",
+    "data": [
+      {
+        "text": "Vorrei aggiungere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  },
+  {
+    "id": "f845e118-70a6-439e-a663-a7ac667f2cad",
+    "data": [
+      {
+        "text": "Sì ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273714
+  }
+]

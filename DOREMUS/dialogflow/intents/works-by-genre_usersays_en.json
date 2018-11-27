@@ -1,0 +1,92 @@
+[
+  {
+    "id": "d80cdbc0-4c4b-4ed6-92a4-f350e391baf5",
+    "data": [
+      {
+        "text": "of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "folk",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  },
+  {
+    "id": "a6f177ae-74d1-46af-b127-c3a21a0ac9d2",
+    "data": [
+      {
+        "text": "ok of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  },
+  {
+    "id": "81a94c60-e5e3-4b90-a8de-3bbb6e26eaf1",
+    "data": [
+      {
+        "text": "yes the genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  },
+  {
+    "id": "4422d680-6a24-40ef-876f-8f47ad714f2d",
+    "data": [
+      {
+        "text": "the genre please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  },
+  {
+    "id": "fd8f794e-ac40-410b-be1a-22024fed8e1b",
+    "data": [
+      {
+        "text": "only ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  },
+  {
+    "id": "34c44bb2-1a3c-4477-98f2-5bc9ea4bfb8a",
+    "data": [
+      {
+        "text": "ok the genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524908246
+  }
+]

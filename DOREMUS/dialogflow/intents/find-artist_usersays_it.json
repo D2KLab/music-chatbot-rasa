@@ -1,0 +1,371 @@
+[
+  {
+    "id": "04d43509-2c99-4c9f-b77d-c345d8377136",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti che hanno scritto più ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "6d106433-2354-4a26-99d3-c9064f1b4a19",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti che hanno composto più opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "1df58968-12e7-4739-9c7c-b2b62f5c063b",
+    "data": [
+      {
+        "text": "Trovami ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artista nato ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "f4948912-8e19-4d21-a149-70ce29c6616a",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti nati ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Parigi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " che hanno scritto più opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "bf91db57-194c-4f70-8fc3-ee12542c157d",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti che hanno scritto più opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "a3162ff5-6fb1-4680-b442-bed7422f18c7",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti nati ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " che hanno scritto più ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "3bc61ded-26ef-4256-8065-a65c7a292faa",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti che hanno scritto più opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "14ed74d8-3051-4892-bbfa-a93f163fbaff",
+    "data": [
+      {
+        "text": "Trovami i ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artisti che hanno scritto più opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "a6f8a171-9342-4905-beff-ac3833015b5d",
+    "data": [
+      {
+        "text": "Trovami ",
+        "userDefined": false
+      },
+      {
+        "text": "l",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027artista che ha scritto più ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  },
+  {
+    "id": "8c0f357d-72a0-4fbf-8eb5-3259deeb8c9b",
+    "data": [
+      {
+        "text": "Trovami ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " artisti nati ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456938
+  }
+]

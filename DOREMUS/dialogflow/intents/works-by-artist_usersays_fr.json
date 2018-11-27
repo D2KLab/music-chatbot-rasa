@@ -1,0 +1,221 @@
+[
+  {
+    "id": "1f21d81f-ec0d-4be4-acd1-9c826485e45f",
+    "data": [
+      {
+        "text": "Bien sur, ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "bafe2f1b-ae84-44da-bb13-726988b77f89",
+    "data": [
+      {
+        "text": "Le compositeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600435
+  },
+  {
+    "id": "9501b95e-b8d4-4267-9bad-cb29663a089c",
+    "data": [
+      {
+        "text": "Oui, ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "6c8e5a73-e031-40f2-a906-ec233bbef321",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600435
+  },
+  {
+    "id": "9143adfb-4eac-4838-af93-42a8c78ab0d3",
+    "data": [
+      {
+        "text": "Je voudrai ajouter ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "06430b49-a358-412a-a0a1-a34a4f3ec8bf",
+    "data": [
+      {
+        "text": "L",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027artiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600435
+  },
+  {
+    "id": "7c977103-1789-42dd-b6e6-f4e316c7d8cc",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur, ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "5144a0a0-7071-4b94-a9e7-21a228c08f11",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artiste: ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "29bcf11c-e6c7-4624-be86-6fef88b1b127",
+    "data": [
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600435
+  },
+  {
+    "id": "14561e86-a0d6-4f54-90ec-b0dd92216b3e",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600435
+  },
+  {
+    "id": "6f3eac26-a21a-4d6a-a3ab-4c7de6095884",
+    "data": [
+      {
+        "text": "Je voudrai ajouter ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  },
+  {
+    "id": "0e30ab66-044a-4a3b-bae4-504fbb03302d",
+    "data": [
+      {
+        "text": "Je voudrai ajouter ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458513
+  }
+]

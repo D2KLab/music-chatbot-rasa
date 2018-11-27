@@ -1,0 +1,77 @@
+{
+  "id": "b27c8a37-be10-4e7f-89bd-ec915192bab8",
+  "name": "find-artist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e068402-82bd-49c9-92e7-7a2881cc0aa2",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "608937b8-cc16-448b-8ffd-5b5e8363dff1",
+          "required": false,
+          "dataType": "@doremus-instrument",
+          "name": "doremus-instrument",
+          "value": "$doremus-instrument",
+          "isList": true
+        },
+        {
+          "id": "7f8d35f9-ab00-4aee-adb6-1226f08604e2",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "c11aa377-7af8-4577-b6e6-9edf4d2a0674",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "0a4e0c2e-cfeb-4253-bd3c-7a5fc23e9b8d",
+          "required": false,
+          "dataType": "@doremus-strictly",
+          "name": "doremus-strictly",
+          "value": "$doremus-strictly",
+          "isList": false
+        },
+        {
+          "id": "1e63c05e-4bf9-4c73-9b56-41dd7c454e5f",
+          "required": false,
+          "dataType": "@doremus-genre",
+          "name": "doremus-genre",
+          "value": "$doremus-genre",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531054432,
+  "fallbackIntent": false,
+  "events": []
+}

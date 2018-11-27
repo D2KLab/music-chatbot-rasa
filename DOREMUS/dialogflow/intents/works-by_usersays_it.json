@@ -1,0 +1,2187 @@
+[
+  {
+    "id": "e214bd00-d20e-434b-b92a-a88ab0958fbd",
+    "data": [
+      {
+        "text": "Dammi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "8fd7f585-58a4-4934-89fc-8a756e9d918a",
+    "data": [
+      {
+        "text": "Ottimo! Adesso dammi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "9e36c916-c6d0-41b7-a1f4-4b9ab60d01ba",
+    "data": [
+      {
+        "text": "Dimmi delle opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "43f3f9ff-72c1-4dd7-8eca-2bce7347fc6d",
+    "data": [
+      {
+        "text": "Ok adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "92ec48d9-bf95-46bc-85b6-ad6446289528",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "7f097aad-1572-41a6-adbc-97ba4ed73bf0",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "70cc85db-4dfc-48f0-98fe-265005917026",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "2878a603-7b33-4b9b-b18b-8f42e676aef4",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "dc02ae1f-0258-4f55-9d6a-85ec4bb0a0ba",
+    "data": [
+      {
+        "text": "Ok adesso dimmi delle sue ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "c63e61fa-d3e5-4bc1-a089-2d73ff0ec3f1",
+    "data": [
+      {
+        "text": "Ok adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "af49d500-7e82-4e47-90ba-4c73c620fb37",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "7ea5cb1a-988f-45a8-b960-c4e3037ec2bc",
+    "data": [
+      {
+        "text": "Dimmi le opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " del genere ",
+        "userDefined": false
+      },
+      {
+        "text": "sinfonia",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "33610822-9a0e-4a43-80c7-035a1648d737",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "fa908b9c-1e6e-413a-b9f8-a0ffcc6f4a5b",
+    "data": [
+      {
+        "text": "dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "789679dc-d7c1-4fae-a887-7b17aece757a",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "64dc6e22-0b1a-43b5-971b-f23bedbbe754",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "b2118983-064f-4fe2-bb20-f273266ed6ef",
+    "data": [
+      {
+        "text": "Grazie, adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "06245ede-9ead-45d4-9889-06b53b116aa5",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "590e7b96-c2ea-49ee-8a73-024774114378",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "90e78524-66f3-40a5-8f60-563a406f44c3",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "c8b9d683-72ee-4ade-b6bd-0037f0ba0050",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "87926f8e-5c34-47e2-b000-a62d334925dc",
+    "data": [
+      {
+        "text": "Ok adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "f9c01a71-7995-4087-9d05-77cec4ce83d0",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "5d8aab6d-5023-4cff-8aea-7464ff6fbcab",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "489079b7-85a8-4973-88ac-dd3a3434b948",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "19b4a07d-bc52-49cd-a36b-9a6d4f0c5fd2",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "52fd2efa-031b-4c0b-9a61-cf0f882ca286",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "6fa059e5-bddd-40c3-b4fe-cd5324896165",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "fcbd303c-d5c1-43c6-8443-aeecb889ea77",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " per favore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "1f0d5e76-9cbd-4e9e-b2eb-e7427bcadb75",
+    "data": [
+      {
+        "text": "Ok adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "le",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sue opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "4937a1eb-2e9a-456b-ad67-b44222488376",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "da0edbc0-6f55-4f7c-8898-52b57faf119a",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "3098312a-18d8-436e-902a-a41653376373",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "9b2d39d8-fcea-4268-bcb7-6103bb5a4d26",
+    "data": [
+      {
+        "text": "Adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "27996116-40b4-4129-9353-4ed2c7e62ee7",
+    "data": [
+      {
+        "text": "Ok adesso dimmi delle sue opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "7fff65db-efa0-4061-bcec-be3a55a0faf6",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per violino ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "bfa92ff0-3a4d-4535-8936-1e9ba97ec297",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "o",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "be31d16c-0b61-42c9-8d73-f572e23668d1",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "canon",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "2c0339b1-f3e2-4acc-a783-93e029dd5754",
+    "data": [
+      {
+        "text": "Dimmi un\u0027opera per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "22c9eae1-f854-4030-92d1-b9e12e30a491",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "a4c2e574-a7b3-43c2-ba08-11730e0543a9",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "88a062d6-f356-4777-96eb-05d9cd5338d5",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "ddd5b1b6-4c73-4a72-8073-3e5bcdf3fbac",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "817af453-c8b6-4493-b598-8478f448b32b",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "b6e6137e-c995-4961-ab6b-e009f0b77213",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "a4b43ad4-7723-4907-b47d-6500f7111f9b",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "18011af5-c081-4a4f-89d3-7bb9beb27f02",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "9064892a-af18-44e0-8d97-1e4e4fa162d1",
+    "data": [
+      {
+        "text": "Bene! Adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "ea4188e1-7647-4035-a821-f471c069574d",
+    "data": [
+      {
+        "text": "Dammi ",
+        "userDefined": false
+      },
+      {
+        "text": "quattro",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "04374ec1-dabb-4e95-800b-0f2a0f89f443",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opere di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "15815de9-a3c4-4201-b399-84300f84053d",
+    "data": [
+      {
+        "text": "Ok adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "87d6b185-4d53-4c9c-9587-4606239eba82",
+    "data": [
+      {
+        "text": "Dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "violino",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinetto",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  },
+  {
+    "id": "d2b175aa-d81d-4507-b712-e26f6bd9798a",
+    "data": [
+      {
+        "text": "Adesso dimmi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " delle sue opere di genere ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525454377
+  }
+]

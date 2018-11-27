@@ -1,0 +1,67 @@
+{
+  "id": "8ef6a781-f2e1-41ad-b113-a9eb3950c0d5",
+  "name": "works-by-genre",
+  "auto": true,
+  "contexts": [
+    "works-by-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "works-by-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d199a4a-0281-48dc-babb-ca37d13cdebd",
+          "required": true,
+          "dataType": "@doremus-genre",
+          "name": "doremus-genre",
+          "value": "$doremus-genre",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Quel genre?"
+            },
+            {
+              "lang": "it",
+              "value": "Ok! Dimmi solo che genere"
+            },
+            {
+              "lang": "en",
+              "value": "Ok! Just tell me the genre, please"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Veux-tu ajouter quelque chose?",
+            "Ok! Est-ce que tu veux ajouter quelque chose?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Perfect! Do you want to add something?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529778946,
+  "fallbackIntent": false,
+  "events": []
+}

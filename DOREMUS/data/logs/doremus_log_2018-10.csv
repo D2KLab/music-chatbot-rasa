@@ -1,0 +1,62 @@
+timestamp,platform,user,channel,intent,confidence,lang,rawMessage,cleanMessage,response
+2018-10-2 15:40:24,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-2 15:40:25,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-2 15:40:40,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,discover-artist,1,en,"Tell me about mozart","Tell me about Mozart",<result_card>
+2018-10-2 15:41:01,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,works-by,1,en,"Give me few works by Mozart","Give me few works by Mozart","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-2 15:41:13,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,works-by-something,1,en,"genre sonata","genre sonata","Perfect! Do you want to add something?"
+2018-10-2 15:41:17,socket,2011c3db-f481-21df-2a34-d9975072f9bc,socket,works-by - no,1,en,"no","no",<result_card>
+2018-10-4 09:56:19,socket,fc3c4ec3-4c08-a32b-8eee-b6e191861b2d,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-5 14:00:28,socket,198e97b7-a400-ac80-144f-dedbf9d4a245,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-9 12:23:08,socket,5575a08e-5b93-5c2a-0b63-245ba0dbf512,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-9 12:23:13,socket,5575a08e-5b93-5c2a-0b63-245ba0dbf512,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-9 12:23:13,socket,5575a08e-5b93-5c2a-0b63-245ba0dbf512,socket,works-by,1,en,"give me works by Bach","give me works by Bach","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-9 12:23:26,socket,5575a08e-5b93-5c2a-0b63-245ba0dbf512,socket,works-by - no,1,en,"no thank you","no thank you",<result_card>
+2018-10-11 14:03:00,socket,61d47df7-7242-74ac-e5c4-124eb666b3f0,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-11 18:37:43,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-11 18:38:16,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,discover-artist,0.6000000238418579,en,"Who was Beethoven","Who was Beethoven",<result_card>
+2018-10-11 18:42:06,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,discover-artist,0.6000000238418579,en,"Who was Mozart","Who was Mozart",<result_card>
+2018-10-11 18:44:10,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,works-by,0.550000011920929,en,"What are Mozart's works","What are Mozart's works","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-11 18:44:19,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,works-by - no,1,en,"No","No",<result_card>
+2018-10-11 18:44:49,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,works-by,0.550000011920929,en,"What are Salieri's works","What are Salieri's works","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-11 18:45:01,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,works-by-something,0.9800000190734863,en,"piano","piano","Perfect! Do you want to add something?"
+2018-10-11 18:45:16,socket,93fb07c9-5d52-be77-77da-7a9ffaa626bf,socket,works-by,0.550000011920929,en,"What are Salieri's piano works","What are Salieri's piano works","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-12 19:03:25,socket,f6b700df-97eb-ee09-1208-001e7e49c39a,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-14 20:03:56,socket,4142d30b-90de-3788-e96d-3f2f6f03f527,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-16 04:35:11,socket,01ad1747-2e93-9362-c5c3-57622bce47d4,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-16 04:35:48,socket,01ad1747-2e93-9362-c5c3-57622bce47d4,socket,hello,1,en,"Hey","Hey","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-16 04:35:55,socket,01ad1747-2e93-9362-c5c3-57622bce47d4,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-16 04:35:55,socket,01ad1747-2e93-9362-c5c3-57622bce47d4,socket,hello,1,en,"Hello","Hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-16 04:35:55,socket,01ad1747-2e93-9362-c5c3-57622bce47d4,socket,hello,1,en,"hey","hey","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-17 09:34:22,socket,784a8136-747a-bf95-57ba-1cf209256196,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-17 09:34:43,socket,784a8136-747a-bf95-57ba-1cf209256196,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-17 09:35:46,socket,784a8136-747a-bf95-57ba-1cf209256196,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-23 15:00:23,socket,4edc4fd8-0245-6030-373d-173599774ddd,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-23 15:01:32,socket,4edc4fd8-0245-6030-373d-173599774ddd,socket,discover-artist,1,en,"Who composed gymnopedie","Who composed gymnopedie","Ok! Who is the artist?"
+2018-10-25 01:20:55,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-25 01:20:55,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-25 01:21:05,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-25 01:24:32,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,discover-artist,1,en,"Tell me something about Mozart"","Tell me something about Mozart",<result_card>
+2018-10-25 01:25:12,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,find-artist,0.9700000286102295,en,"Find the 3 artists born between 1752 and 1772 who composed more works","Find the 3 artists born between 1752 and 1772 who composed more works",<result_card>
+2018-10-25 01:25:30,socket,7b793f36-4a57-88a9-123b-3199f9cffa61,socket,find-performance,0.699999988079071,en,"Tell me one event in Paris in the next month","Tell me one event in Paris in the next month",<result_card>
+2018-10-30 09:33:19,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 09:36:00,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,discover-artist,0.5899999737739563,en,"Who is Leos Janacek","Who is Leos Janacek",<result_card>
+2018-10-30 09:36:23,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,discover-artist,0.5899999737739563,en,"Who is Henri Dutilleux","Who is Henri Dutilleux",<result_card>
+2018-10-30 09:58:13,socket,7613ed81-4963-340d-31e9-f6fce0a2e9c7,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 09:58:29,socket,7613ed81-4963-340d-31e9-f6fce0a2e9c7,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 10:16:19,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,discover-artist,0.5899999737739563,en,"who is lili boulanger","who is Lilia boulanger",<result_card>
+2018-10-30 11:50:22,socket,3449880f-82de-6e47-592b-5637414b3028,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 11:51:24,socket,bc1a8ac9-8301-d95a-f816-68d15dd63557,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 12:05:24,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 12:05:33,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by,0.8799999952316284,en,"List me 10 works of genre concerto","List me 10 works of genre concerto","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-30 12:07:07,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by-something,1,en,"instrument violin","instrument violin","Ok! What's the composition period?"
+2018-10-30 12:07:41,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by-something,1,en,"period 1900-1950","period 1900-1950","Perfect! Do you want to add something?"
+2018-10-30 12:07:53,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by - no,1,en,"No","No",<result_card>
+2018-10-30 12:19:08,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by,0.8299999833106995,en,"Tell us 4 works for violin or piano","Tell us 4 works for violin or piano","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-30 12:19:19,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by - no,1,en,"no","no",<result_card>
+2018-10-30 12:20:27,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by,0.8299999833106995,en,"Tell us 4 works for violin or piano","Tell us 4 works for violin or piano","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-10-30 12:21:34,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by-something,0.5600000023841858,en,"works for violin and piano","works for violin and piano","Perfect! Do you want to add something?"
+2018-10-30 12:21:49,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-10-30 12:41:50,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by,0.9399999976158142,en,"Give us 3 works written between 1782 and 1821","Give us 3 works written between 1782 and 1821",<result_card>
+2018-10-30 12:42:13,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-10-30 12:42:21,socket,521b4f82-9efb-117b-749f-2f8a5d717bd9,socket,works-by,0.9399999976158142,en,"Give us 3 works written between 1782 and 1821","Give us 3 works written between 1782 and 1821",<result_card>
+2018-10-30 18:09:13,socket,c6c90808-3846-0019-46b4-6711d944ee4d,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"

@@ -1,0 +1,1171 @@
+## story0
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by - yes
+  - works_by_works_by_yes
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-genre
+  - works_by_genre
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * hello
+  - input_welcome
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * discover-artist
+  - discover_artist
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-genre
+  - works_by_genre
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-instrument
+  - works_by_instrument
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-artist
+  - works_by_artist
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-genre
+  - works_by_genre
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-artist
+  - works_by_artist
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * discover-artist
+  - discover_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-artist
+  - find_artist
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-genre
+  - works_by_genre
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-years
+  - works_by_years
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * works-by-instrument
+  - works_by_instrument
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-artist
+  - works_by_artist
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * works-by
+  - works_by
+ * discover-artist
+  - discover_artist
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-instrument
+  - works_by_instrument
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+ * works-by - no
+  - works_by_works_by_no
+## story1
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-performance
+  - find_performance
+ * find-artist
+  - find_artist
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-artist
+  - works_by_artist
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-artist
+  - works_by_artist
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-genre
+  - works_by_genre
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by
+  - works_by
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+## story2
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+## story3
+## story4
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * works-by - yes
+  - works_by_works_by_yes
+ * works-by-years
+  - works_by_years
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+## story5
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+## story6
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * discover-artist
+  - discover_artist
+ * works-by
+  - works_by
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+## story7
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+## story8
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+## story9
+ * hello
+  - input_welcome
+ * works-by
+  - works_by
+## story10
+ * hello
+  - input_welcome
+## story11
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+## story12
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+## story13
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by-genre
+  - works_by_genre
+ * works-by-years
+  - works_by_years
+ * works-by - no
+  - works_by_works_by_no
+ * find-performance
+  - find_performance
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+## story14
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * hello
+  - input_welcome
+ * works-by-instrument
+  - works_by_instrument
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+## story15
+ * hello
+  - input_welcome
+ * find-performance
+  - find_performance
+ * discover-artist
+  - discover_artist
+ * works-by - no
+  - works_by_works_by_no
+ * find-artist
+  - find_artist
+ * hello
+  - input_welcome
+ * works-by-years
+  - works_by_years
+ * works-by-genre
+  - works_by_genre
+ * works-by - no
+  - works_by_works_by_no
+## story16
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+## story17
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+## story18
+ * hello
+  - input_welcome
+## story19
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * hello
+  - input_welcome
+ * works-by - no
+  - works_by_works_by_no
+ * works-by-artist
+  - works_by_artist
+ * works-by - no
+  - works_by_works_by_no
+## story20
+ * hello
+  - input_welcome

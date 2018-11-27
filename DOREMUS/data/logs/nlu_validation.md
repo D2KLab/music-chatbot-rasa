@@ -1,0 +1,272 @@
+## intent: hello
+ - Hi
+ - hi
+ - Hello
+ - bonjour
+ - salut
+ - bonsoir
+ - Bonjour!
+ - Bonjour
+ - bonjour!
+ - hello!
+ - hello
+ - Salut
+## intent: works-by
+ - Tell me [one](number) work by [Beethoven](doremus-artist)
+ - Tell me [one](number) work by [Beethoven](doremus-artist)!
+ - Give me [2](number) works by [Beethoven](doremus-artist)!
+ - Give me [2](number) works by [Beethoven](doremus-artist)
+ - Give me [one](number) work by [Beethoven](doremus-artist)
+ - Give me [one](number) work by [Mozart](doremus-artist)
+ - Give me [one](number) work by [Vivaldi](doremus-artist)
+ - Give me [one](number) work by [Beethoven](doremus-artist) but just the one written for [piano](doremus-instrument) [clarinet](doremus-instrument) or [violin](doremus-instrument)
+ - Give me [one](number) work by [Beethoven](doremus-artist) but just the one written for [piano](doremus-instrument) [clarinet](doremus-instrument) [and](doremus-strictly) [violin](doremus-instrument)
+ - Give me [six](number) works by [Beethoven](doremus-artist) but just the one written for [piano](doremus-instrument) [clarinet](doremus-instrument) [and](doremus-strictly) [violin](doremus-instrument)
+ - Tell me [2](number) works by [Beethoven](doremus-artist)
+ - Give me [5](number) works about [Beethoven](doremus-artist)
+ - now give me [2](number) of his works
+ - Give me [2](number) works by [Piccinini](doremus-artist)
+ - Give me [2](number) works by [Niccolò Piccinini](doremus-artist)
+ - Give me [2](number) works by [Niccolò Piccinini](doremus-artist)
+ - Give me [2](number) works by [Latilla](doremus-artist)
+ - Give me [2](number) works by [Debussi](doremus-artist)
+ - Give me [2](number) works by [Debusy](doremus-artist)
+ - Give me [2](number) works by [debussy](doremus-artist)
+ - Give me [2](number) works by [debussy](doremus-artist)
+ - Give me [ten](number) works by [debussy](doremus-artist)
+ - Give me the works by [debussy](doremus-artist)
+ - Give me the works by [debussy](doremus-artist) composed [between 1890 and 1900](date-period) of genre [musique de chambre](doremus-genre)
+ - Give me the works by [debussy](doremus-artist) composed [between 1890 and 1900](date-period) of genre [melodie](doremus-genre)
+ - Give me [2](number) melodic works by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me [2](number) [melodies](doremus-genre) by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me [2](number) [concertos](doremus-genre) by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me [2](number) [melodies](doremus-genre) by [debussy](doremus-artist)
+ - Give me [2](number) [concertos](doremus-genre) by [debussy](doremus-artist)
+ - Give me [2](number) [concerts](doremus-genre) by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me [2](number) [concerts](doremus-genre) by [debussy](doremus-artist)
+ - Give me [2](number) [concerts](doremus-genre)
+ - Give me 10 [concerts](doremus-genre) by [debussy](doremus-artist)
+ - Give me the [melodies](doremus-genre) by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me the [melodies](doremus-genre)
+ - Give me some works by [debussy](doremus-artist)
+ - give me [2](number) works by [debussy](doremus-artist)
+ - give me [2](number) works by [debussy](doremus-artist)
+ - give me [2](number) [melody](doremus-genre) by [Vivaldi](doremus-artist)
+ - give me [2](number) works by [Mozart](doremus-artist)
+ - tell me [2](number) works by [Vivaldi](doremus-artist)
+ - Now give me [two](number) of his works
+ - Tell me the [melodies](doremus-genre) by [debussy](doremus-artist) composed [during 1890](date-period)
+ - Tell me the [melodies](doremus-genre) by [debussy](doremus-artist) composed [between 1860 and 1870](date-period)
+ - Tell me the [melodies](doremus-genre) by [debussy](doremus-artist) composed [between 1890 and 1900](date-period)
+ - Give me [one](number) work by [debussy](doremus-artist)
+ - Give me [one](number) works by [Mozart](doremus-artist)
+ - No thanks
+ - Give me [3](number) works composed by Bach
+ - Give me [2](number) of his works
+ - Now give me [2](number) of his works
+ - give me [four](number) works by [Mozart](doremus-artist)
+ - give me [four](number) works by [Mozart](doremus-artist)
+ - give me [four](number) works by [Beethoven](doremus-artist)
+ - give me [one](number) work by [Mozart](doremus-artist)
+ - hello give me [four](number) works by [Mozart](doremus-artist)
+ - give me [three](number) works by [Vivaldi](doremus-artist)
+ - give me [six](number) works by [Vivaldi](doremus-artist)
+ - tell me [two](number) works by [Mozart](doremus-artist)
+ - give me [two](number) words by [Vivaldi](doremus-artist)
+ - give me [two](number) works by [Vivaldi](doremus-artist)
+ - Tell me [2](number) works by [Mozart](doremus-artist)
+ - Tell me [2](number) [symphonies](doremus-genre) by [Beethoven](doremus-artist)
+ - Tell me [2](number) [symphonies](doremus-genre) by [Mozart](doremus-artist)
+ - Tell me [2](number) operas by [Mozart](doremus-artist)
+ - now give me [two](number) of his works
+ - now give me [2](number) of his [melodies](doremus-genre) composed [between 1890 and 1900](date-period)
+ - now give me his [melodies](doremus-genre) composed [between 1890 and 1900](date-period)
+ - give me [one](number) work by [debussy](doremus-artist)
+ - Tell me the [melodies](doremus-genre) by [debussy](doremus-artist)
+ - give me [5](number) works by [Mozart](doremus-artist)
+ - Give me [3](number) works by [Mozart](doremus-artist) with [violin](doremus-instrument)
+ - show me works by [Mozart](doremus-artist)
+ - Tell me [2](number) works
+ - Give me [2](number) works by [Mozart](doremus-artist)
+ - Give me [two](number) works by [Vivaldi](doremus-artist)
+ - Give me [2](number) works by [Vivaldi](doremus-artist)
+ - give me [3](number) works by [Mozart](doremus-artist)
+ - give me [two](number) works from [mother](doremus-artist)
+ - Give me [two](number) works from [Vivaldi](doremus-artist)
+ - Give me [two](number) works from [Vivaldi](doremus-artist) for [violin](doremus-instrument)
+ - show me [3](number) works by [Mozart](doremus-artist)
+
+## intent: works-by - yes
+ - Yes thanks!
+ - Yes thanks
+ - yes!
+ - yes
+ - Yes!
+ - Yes
+
+## intent: works-by - no
+ - No it's ok
+ - No
+ - no
+ - nope
+ - no thanks
+ - no thakns
+ - non
+ - non merci
+ - No thanks
+ - No
+## intent: discover-artist
+ - Tell me something about [Vivaldi](doremus-artist)
+ - Tell me something about [Beethoven](doremus-artist)
+ - Tell me something about [Mozart](doremus-artist)
+ - Talk me about [Jonathan Dove](doremus-artist)
+ - Talk me about [Rachmaninov](doremus-artist)
+ - Talk me about [Rachmaninof](doremus-artist)
+ - Talk me about [Rachmaninoff](doremus-artist)
+ - Talk me about [Racmaninov](doremus-artist)
+ - Talk me about [Racmaninoff](doremus-artist)
+ - tell me something about [debussy](doremus-artist)
+ - Talk me about [Jonathan Dove](doremus-artist)!
+ - Ok so talk me about [Rachmaninoff](doremus-artist)
+ - Talk me about [debussy](doremus-artist)
+ - tell me something about [Rachmaninoff](doremus-artist)
+ - talk me about [John Dove](doremus-artist)
+ - Okay now talk me about [Rachmaninoff](doremus-artist)
+ - Talk me about [Rachmaninoff](doremus-artist)
+ - Tell me something about [Rachmaninov](doremus-artist)
+ - Talk me about [Vivaldi](doremus-artist)
+ - [Rachmaninoff](doremus-artist)
+ - who is [Mozart](doremus-artist)
+ - Tell me about [Vivaldi](doremus-artist)
+ - Tell me about [Rachmaninov](doremus-artist)
+## intent: find-artist
+ - Find me [one](number) artist born in [Paris](geo-city)
+ - Find me [one](number) artist born in [Palermo](geo-city)
+ - Find me [one](number) artist born in [Caltanissetta](geo-city)
+ - Find me [one](number) artist born in [Enna](geo-city)
+ - Find me [one](number) artist born in [Catania](geo-city)
+ - find me an artist born in [Nice](geo-city)
+ - Find me an artist born in [Venice](geo-city)
+ - find me [one](number) artist born in [Paris](geo-city)
+ - find me an artist born in [Saint-Germain-en-Laye](geo-city)
+ - Find an artist born [between 1860 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find an artist born [between 1862 and 1873](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find an artist born [in 1862](date-period)
+ - Find [one](number) artist born [in 1862](date-period)
+ - Find [one](number) artist born [in 1862](date-period) who wrote more [melody](doremus-genre)
+ - Find [one](number) artist born [in 1862](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find [one](number) artist born [between 1860 and 1870](date-period) who wrote more [melodies](doremus-genre)
+ - Find [one](number) artist born [between 1860 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find an artist born [between 1861 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find [one](number) artist born [between 1861 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find [one](number) artist born [between 1861 and 1870](date-period) who wrote more [concertos](doremus-genre)
+ - Find [3](number) artists born [between 1860 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+ - Find [three](number) artists born [between 1860 and 1870](date-period) who wrote more works for [piano](doremus-instrument)
+## intent: find-performance
+ - What are the upcoming performances?
+ - Are there any events [in these days](date-period)?
+ - Are there any events [in the next month](date-period)?
+ - Are there any events in the [26th of June](date-period)?
+ - Are there any events on [June 26](date-period)?
+ - Find me [2](number) performances for [tomorrow](date-period)
+ - are there any events in [Lyon](geo-city)?
+ - are there any events in [London](geo-city) [next week](date-period)?
+ - Are there any events in [Paris](geo-city)?
+ - Find me [2](number) events in [Paris](geo-city)?
+ - Find me [2](number) events in [Paris](geo-city) [this week](date-period)?
+ - Find me [2](number) performances [between 25/06/2018 and 28/06/2018](date-period)
+ - Find me [2](number) performances [between july 25 and july 28](date-period)
+ - find me some performances in [Paris](geo-city)!
+ - Find me some performances in [Paris](geo-city)
+ - Tell me [one](number) event in [Paris](geo-city) [in the next month](date-period)
+ - Tell me [one](number) event in [Paris](geo-city) [tonight](date-period)
+ - Propose me an event for [tomorrow](date-period)
+ - are there any events in [Paris](geo-city)
+ - find me some performances [in two weeks](date-period)
+ - find me some performances [in the next two weeks](date-period)
+ - Are there any events in [Paris](geo-city)
+ - Are there any event in [Paris](geo-city)
+ - Are there any events [this week](date-period) ?
+ - what are the events in [Paris](geo-city) in [September](date-period)
+ - Give me [3](number) events in [Paris](geo-city) [first week of september](date-period)
+ - Give me [3](number) events in [Paris](geo-city) in [September](date-period)
+ - what is the next event in [Paris](geo-city) [this week](date-period)
+ - Are there any events in [Paris](geo-city) [this week](date-period)?
+ - Are there any events in [Paris](geo-city)
+
+## intent: help
+ - what can you do
+ - how can you help
+ - I need help
+ - what are you capable of
+ - why should I chose you to help me
+ - what is your job
+ - what are your capabilities
+
+## intent:reset
+ - let's start again
+ - forget what I told you and let's restart
+ - nevermind
+ - just forget about everything I said
+ - restart please
+ - let's restart this conversation
+ - let's do this again
+
+## intent: works-by-artist
+ - artist
+ - by an artist
+ - add an artist
+ - ok by [Mozart](doremus-artist)
+ - [Mozart](doremus-artist) should be the artist
+ - yes by [Vivaldi](doremus-artist)
+
+
+
+
+## intent: works-by-genre
+ - yes by the genre
+ - ok by the genre
+ - of genre [musique de chambre](doremus-genre)
+ - I want only [melody](doremus-genre)
+ - of [melody](doremus-genre) genre
+ - please show only genre [melody](doremus-genre)
+ - the genre
+ - [musique de chambre](doremus-genre)
+ - [debussy](doremus-artist)
+ - Yes the genre
+ - [melodie](doremus-genre)
+ - yes the genre please
+ - yes the genre
+ - [melody](doremus-genre)
+ - The genre
+ - [Symphony](doremus-genre)
+ - [Symphonie](doremus-genre)
+ - [Opera](doremus-genre)
+
+## intent: works-by-instrument
+
+ - yes by instrument
+ - works by only instrument
+ - An instrument
+ - [violin](doremus-instrument)
+ - instrument
+ - only works for [clarinet](doremus-instrument)
+ - yes the instrument
+ - [clarinet](doremus-instrument)
+ - Yes the instrument
+ - [piano](doremus-instrument) [and](doremus-strictly) [violin](doremus-instrument)
+ - Yes the instrument [piano](doremus-instrument) [and](doremus-strictly) [violin](doremus-instrument)
+ - [piano](doremus-instrument)
+
+ ## intent: works-by-years
+ - yes the composition period!
+ - [between 1890 and 1900](date-period)
+ - the composition period
+ - composed [between 1890 and 1900](date-period)
+ - yes also the composition period
+ - yes also the [composition year](date-period)
+ - yes the composition period
+ - Yes the composition year
+ - [between 1890 and 1900](date-period)
+ - Yes the composition period
+ - composition year

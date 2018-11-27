@@ -1,0 +1,2120 @@
+[
+  {
+    "id": "c7ab230b-936a-47f9-8222-d22a82ae7565",
+    "data": [
+      {
+        "text": "Tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "melodies",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composed by ",
+        "userDefined": false
+      },
+      {
+        "text": "Debussy",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1890 and 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529668760
+  },
+  {
+    "id": "e2f5be93-6f84-439e-8ee0-c4ba87d35410",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "db4c0eb2-08eb-4822-b739-103bf42f9c00",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1776 and 1777",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525380397
+  },
+  {
+    "id": "097bd62b-ed3c-4ffa-a4fb-aa333c16d1b5",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1750 and 1820",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "710349b3-24b4-4377-96ae-39e0ce3b748e",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1721",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "b4582fbd-6f56-4bd9-a40d-d8d42290c3c7",
+    "data": [
+      {
+        "text": "Give us the works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1822",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "6ae0b794-d555-42e9-8f29-9647a891f662",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525297789
+  },
+  {
+    "id": "3b342ecb-8b73-40ab-8372-297ac9b76cc0",
+    "data": [
+      {
+        "text": "now give me his ",
+        "userDefined": false
+      },
+      {
+        "text": "melodies",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1890 and 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529852594
+  },
+  {
+    "id": "cf115585-36d3-46fa-b9fe-aa8bbae41542",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1743 and 1745",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "128a6fd6-9022-4918-91af-461a5d1cc6fd",
+    "data": [
+      {
+        "text": "Now tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of his works of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1700",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "ae4ff86d-d822-4047-b135-03dca98c1556",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " work by ",
+        "userDefined": false
+      },
+      {
+        "text": "Debussy",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529852747
+  },
+  {
+    "id": "75dee7d7-2359-4fab-8507-1290f35d1ad1",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horn",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "8f9c9a08-1d90-4d20-8610-9f7c5fdb9a7e",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1711",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "bfda8c44-c125-4f5c-847c-e51f6fff6c61",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1700 and 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "bc2a00a4-a2b8-4d47-b7fa-5874ed99aef8",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1743 and 1745",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "00578d3b-ece2-4ae1-aa2b-0bd46b78266f",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "36b1cd49-d3dd-4485-b630-d98ab55a891c",
+    "data": [
+      {
+        "text": "Tell us some works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "25d34cb7-3d17-4b3f-9b9f-c1564aed124c",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525297789
+  },
+  {
+    "id": "39be6e97-c20b-4ed1-a1fd-e20582d7e2fe",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1701",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "5ad0ed75-9f6d-4ff3-a68e-7c791ad2eb0d",
+    "data": [
+      {
+        "text": "Give us the works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sinfonia",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "4fef5e56-ee00-4a02-8c53-25d915920fb1",
+    "data": [
+      {
+        "text": "Please give us ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1823",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "3707eb0b-2f38-4c48-86b4-9aa9646c377b",
+    "data": [
+      {
+        "text": "Tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": ", of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": ", composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1740 and 1848",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "d0732f4f-037a-4161-ad12-e10d714f5d9e",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "31ef2e8c-4527-49fd-8b2d-37d3cdc2f0a9",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": ", written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1746 and 1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525297789
+  },
+  {
+    "id": "3669d4a8-60d9-4602-9803-cee06352b2f1",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1740",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "canon",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "272cc2d3-ea5d-4708-a3f4-33304c91abb5",
+    "data": [
+      {
+        "text": "Please give me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works, by ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": ", for ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "8572280e-2fd7-4058-85c2-69fa6dc64861",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1700 and 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "dd8b4aa1-d69d-46a1-8b52-01e90d7a0f77",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "melodic",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Debussy",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1890 and 1900",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529660538
+  },
+  {
+    "id": "82b05c56-c343-45ab-bbfa-111524dbd59e",
+    "data": [
+      {
+        "text": "Tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Chopin",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "or",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horn",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": ", written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1760 and 1810",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": ", of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "8ec0e888-2a8d-408a-b438-8bc6590b4bf0",
+    "data": [
+      {
+        "text": "Ok! Now tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by him",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "d19820f3-1b5e-4611-893d-5b613efd91d3",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1860",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "61753b78-f578-4a54-9976-cf7562d511bd",
+    "data": [
+      {
+        "text": "GIve me ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": ", composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1811",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": ", for ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "horn",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "ca5d9cff-f212-454b-bbd2-ef64a35dd508",
+    "data": [
+      {
+        "text": "List me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works for ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "f066d626-a077-4bc0-87ff-be6274c0bd42",
+    "data": [
+      {
+        "text": "Thanks, now please give us ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by him composed ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1777 and 1899",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horn",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "3a3f6543-543e-4e93-a74d-a2d67a94aa39",
+    "data": [
+      {
+        "text": "Now tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of his works, of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": ", written ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1700",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "e6eb25cb-f435-42b8-8614-d65b1d951aa6",
+    "data": [
+      {
+        "text": "Now tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of his works of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1888 and 1999",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "597822c1-584b-4294-b95a-0e51d56e634e",
+    "data": [
+      {
+        "text": "Give me some works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1750 and 1860",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "24f16cba-5045-4785-a406-d9e1acc4c008",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1745",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "34b08de5-7889-4fc2-93c1-0323c0fd740b",
+    "data": [
+      {
+        "text": "Tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Bach",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " written ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1785",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "f8d1075a-3079-4fca-808b-3ff4846da868",
+    "data": [
+      {
+        "text": "List me some works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "cb8d8ed4-69f2-4a19-8cc6-1ef9d2d27e68",
+    "data": [
+      {
+        "text": "Tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " works by ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "c896d2ce-3621-4eee-a69a-f6bf918cdda0",
+    "data": [
+      {
+        "text": "Give me the works written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1810 and 1830",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "opera",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "78066742-155c-4a71-b18f-1a1b758e99bc",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works written ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1810 and 1821",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "bded5f3c-7a07-407e-8e17-dc740dc0097d",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works composed ",
+        "userDefined": false
+      },
+      {
+        "text": "during 1700",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "d5a1992a-840f-4a66-a6b1-e321f54a4c99",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " works of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "ba67383f-f2ed-4904-8325-0c6236f1f6eb",
+    "data": [
+      {
+        "text": "Now give me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of his works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "6083a545-355c-4f72-82c7-519d6c7bc8f8",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  },
+  {
+    "id": "0efe2685-db95-4583-8a37-f252cf921a9a",
+    "data": [
+      {
+        "text": "Give us ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " work by ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273109
+  }
+]

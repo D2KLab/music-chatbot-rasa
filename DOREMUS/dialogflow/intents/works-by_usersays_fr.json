@@ -1,0 +1,1919 @@
+[
+  {
+    "id": "5548402d-7a8a-4d45-b6b1-da2ce47676d9",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "120bff97-6493-4d81-bf8c-0c9bc192f2b3",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "bd997de8-6d66-422a-8f54-1346c2f61d74",
+    "data": [
+      {
+        "text": "Donne-moi deux œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "187a1156-8e79-46f9-82e3-9a25d6b527af",
+    "data": [
+      {
+        "text": "Donne-moi ses œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "a462e802-6721-43c5-9935-6b75fe6ce9d5",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "6d1e507e-1bc7-44cb-a34a-d50a8909595e",
+    "data": [
+      {
+        "text": "Alors donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526236089
+  },
+  {
+    "id": "8158a8a1-2686-44a1-98ff-3f539e41ca94",
+    "data": [
+      {
+        "text": "Alors donne-moi ses ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "43f0f87e-4491-40fb-90a9-d3b097e40c48",
+    "data": [
+      {
+        "text": "Alors donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "5378968c-6048-43a2-983e-dd1c4dfce867",
+    "data": [
+      {
+        "text": "Donne-moi les œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "2b81c993-1e08-49fe-a818-565b0a228edf",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "ef8a2045-fc3f-45aa-9637-fcbc2d43cccb",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "d8355677-6322-43b6-a7c7-d10510e0bed3",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "6fd1a289-bf76-4fd1-abae-f30416a61d2d",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "e7413ef4-428e-42b3-8479-62e25426192b",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "5f087559-a14a-4937-9434-6a159f66ac10",
+    "data": [
+      {
+        "text": "Donne-moi ses œuvres composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "81c216b3-88a2-4428-b901-65c3daf51678",
+    "data": [
+      {
+        "text": "Alors donne-moi ses œuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "63fb4ffc-d2fd-4d32-a870-55d620117231",
+    "data": [
+      {
+        "text": "Ok alors donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses œuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "456bd7d5-c0c7-4be1-83ba-8d3c0eb256a6",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " et ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "78f2574d-ce32-4af0-9300-79ee9913fb79",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "5d7abde9-88c7-4f44-8ce0-d25028d9cb46",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "0336bb8e-d746-4fda-adcc-d8a75952434c",
+    "data": [
+      {
+        "text": "Donne-moi les œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1875",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "a4933bb8-e34f-401a-8845-c584322ead03",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "e61a2b68-12d4-4160-986b-575b6b71d3c4",
+    "data": [
+      {
+        "text": "Donne-moi les œuvres composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "b1290f90-5854-4c1f-88a3-fa09476c7001",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "a31f3d3a-e572-4ae1-aecc-5fb828abfa11",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "c32eaa5e-526b-4085-a4fd-f86da460f9a5",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "8cc59e8e-0c8b-43f1-99e0-a2aee8b89231",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "d6a79bb9-855b-4801-a747-c878a8f7456b",
+    "data": [
+      {
+        "text": "Donne-moi trois œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "bf84bfc6-0cd2-4df0-b818-d435d70b6e79",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "d23e8004-02c1-42e5-9bca-0f47700c69df",
+    "data": [
+      {
+        "text": "Alors donne-moi ses ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "5763417d-fce5-45e4-84e4-b0faeff4bdb6",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "2a61cc35-07b5-46e4-8869-340e7c870657",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "8239ab45-5021-468a-a754-880edf44c91d",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "9ce2ae39-1902-4213-9b5b-ccfb3cb51645",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les œuvres",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "85a600b4-7e04-47a9-88ae-09ea7aa5f0f7",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1876",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "13f03b9e-5579-45e4-8e81-d01dd9e9b9c7",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les œuvres",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "8c8dafa1-9a8d-436c-a60a-dfb7fc5844a9",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "78cf6e1d-44bc-4333-bc61-603f94cb1935",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "fd0f50d1-1906-4ea8-8e03-601e64d452b2",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvre de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "c23fdad2-9c27-4b48-9a0c-9d55458ae58a",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "e61fea8c-07d0-4f55-82f7-76748a6ffd40",
+    "data": [
+      {
+        "text": "donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mélodies",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Debussy",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529662685
+  },
+  {
+    "id": "58eb86c3-98c0-4049-a8ae-0f6be8c13955",
+    "data": [
+      {
+        "text": "Donne-moi ses œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "ac5d9a88-b986-4c7d-99c8-63701f13f7c9",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses œuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "457bb9f8-ade9-436f-8f1d-a08f0d5ba68e",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "3e8e9489-b729-4807-9847-157149231ca2",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "f09a07f0-605c-4c2d-bbff-021575582b87",
+    "data": [
+      {
+        "text": "Alors donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses œuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526236155
+  },
+  {
+    "id": "46c07fcc-7ab6-4ac2-a55b-302c65be7ee4",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "bfa7c594-d856-48d8-91a9-c6f8a8724bc8",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sonate",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "oboe",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "77c697e3-5fbe-4752-b88c-27cf6cfb7601",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " oeuvres composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1787",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "3fc20698-2d2d-4c93-994c-f3d234dd4778",
+    "data": [
+      {
+        "text": "Donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " œuvres de ",
+        "userDefined": false
+      },
+      {
+        "text": "Vivaldi",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  },
+  {
+    "id": "99d8b349-9950-4118-8cc4-72dcf3f5ad92",
+    "data": [
+      {
+        "text": "Ok donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de ses œuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615148
+  }
+]

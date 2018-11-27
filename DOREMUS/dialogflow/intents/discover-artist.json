@@ -1,0 +1,65 @@
+{
+  "id": "15125526-c4a1-41eb-93e6-a7d47d5f1ad2",
+  "name": "discover-artist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "discover-artist",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eb83dbb8-d9bb-4073-b3a0-362e2282db27",
+          "required": true,
+          "dataType": "@doremus-artist",
+          "name": "doremus-artist",
+          "value": "$doremus-artist",
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Ok! Chi è l\u0027artista?"
+            },
+            {
+              "lang": "it",
+              "value": "Quale artista?"
+            },
+            {
+              "lang": "en",
+              "value": "Ok! Who is the artist?"
+            },
+            {
+              "lang": "en",
+              "value": "Which artist?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you tell me the name of the artist?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525456499,
+  "fallbackIntent": false,
+  "events": []
+}

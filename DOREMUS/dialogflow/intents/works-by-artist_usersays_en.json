@@ -1,0 +1,119 @@
+[
+  {
+    "id": "e44c61e1-c019-4f98-b80b-cd7ccb937921",
+    "data": [
+      {
+        "text": "I want to add ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  },
+  {
+    "id": "394eb25d-43e7-4748-bda1-33090fdc2cf7",
+    "data": [
+      {
+        "text": "ok by ",
+        "userDefined": false
+      },
+      {
+        "text": "Liszt",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  },
+  {
+    "id": "51916914-d7f8-4af6-8fb2-a83cf2cc75c9",
+    "data": [
+      {
+        "text": "by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  },
+  {
+    "id": "608ceadf-6b31-402c-a94a-18937cd7d52f",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  },
+  {
+    "id": "f4138252-af2a-47cc-8b23-55aa3f3b5a96",
+    "data": [
+      {
+        "text": "yes by ",
+        "userDefined": false
+      },
+      {
+        "text": "Beethoven",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  },
+  {
+    "id": "90bc6fed-d4df-4b1c-8de3-eb7e9d88d4ec",
+    "data": [
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524907354
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "id": "8b4c7dc0-23f2-4e41-a75f-18bb68b2f23b",
+  "name": "works-by-artist",
+  "auto": true,
+  "contexts": [
+    "works-by-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "works-by-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eb5e36a5-d970-4d9e-9440-a88b5ee330ae",
+          "required": true,
+          "dataType": "@doremus-artist",
+          "name": "doremus-artist",
+          "value": "$doremus-artist",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Quel compositeur?"
+            },
+            {
+              "lang": "it",
+              "value": "Ok! Chi è l\u0027artista?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure! Who is the artist?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Parfait! Veux-tu ajouter quelque chose?",
+            "Ok! Est-ce que tu veux ajouter quelche chose?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Perfect! Do you want to add something?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525600435,
+  "fallbackIntent": false,
+  "events": []
+}

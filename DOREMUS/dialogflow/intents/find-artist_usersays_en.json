@@ -1,0 +1,739 @@
+[
+  {
+    "id": "888137c5-1142-4df3-9c4b-1a156d094cb6",
+    "data": [
+      {
+        "text": "Find me ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist born ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Saint-Germain-en-Laye",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "04b3bc97-544b-4ed7-9ac6-a3219199a84a",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artists born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1750 and 1850",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "afd14872-5301-40bc-9857-4b27acf0e4cd",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " composer who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "18c3de1c-a5ea-44ed-a60c-8ba88a3d89cd",
+    "data": [
+      {
+        "text": "Find the composers who composed ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "canon",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "68be3893-468b-4056-91fb-cab520eda768",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " artist born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1740 and 1809",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " works ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "7ee83efa-3e34-4ac3-bc48-ffb528137520",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " artists born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1750 and 1810",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " who composed ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "canon",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "955e6598-60c8-4fb0-af7e-63b9e38fe3c4",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " artists born ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "d2700da1-edec-4840-8fc1-f9559775d3e1",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1860 and 1870",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "melodies",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529668029
+  },
+  {
+    "id": "41b33603-8554-4915-869b-146f274a4e32",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1860 and 1870",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " works ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "13b33290-9f44-449a-b2d7-b3d7c32db625",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " composers born ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Munich",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "after 1700",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "2d40218f-fa81-4182-ae1f-7a7d182395f4",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artists born ",
+        "userDefined": false
+      },
+      {
+        "text": "after 1740",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "7bb9513b-cb89-4a69-b204-6973fa7a4da7",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artist born ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1862",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "arias",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529668029
+  },
+  {
+    "id": "d17e607f-ebda-4312-9bae-6e15bb49b70f",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artists who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "a6ada7e0-a833-4ca6-a55d-10e03be6cb67",
+    "data": [
+      {
+        "text": "Find the artists born ",
+        "userDefined": false
+      },
+      {
+        "text": "between 1750 and 1850",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "da9e67b1-c165-412a-8c54-ff5aabbfbb29",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " most famous artists",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "54cb85f8-898a-4eea-b1fc-762f9e38ce53",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " composers born ",
+        "userDefined": false
+      },
+      {
+        "text": "before 1730",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "d5317bc0-b371-4a78-9247-686d2de8d715",
+    "data": [
+      {
+        "text": "Find the artists who composed ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "2b1d089d-5605-4c3d-86a0-9c713c397dcc",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " artists who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " works of genre ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  },
+  {
+    "id": "f42d70cd-7aad-41db-8977-e949cfca122e",
+    "data": [
+      {
+        "text": "Find the ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " composers who wrote ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " works ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529667568
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "id": "3d77ba16-a9cc-40fa-9858-1a7ec6762902",
+  "name": "find-performance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ae2614e-24a6-4d70-a037-c7667ee1c370",
+          "required": true,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which period?"
+            },
+            {
+              "lang": "en",
+              "value": "When?"
+            },
+            {
+              "lang": "fr",
+              "value": "En quel période?"
+            },
+            {
+              "lang": "it",
+              "value": "In che periodo?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ca5097f8-fbcc-4b8f-9b4a-6f4aed219cbb",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "8f88ad0e-c60b-41a2-95ad-8a11567a998f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529657150,
+  "fallbackIntent": false,
+  "events": []
+}

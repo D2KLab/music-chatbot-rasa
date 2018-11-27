@@ -1,0 +1,104 @@
+[
+  {
+    "id": "177cb385-3ecd-475f-984a-b57d2d8ca8a8",
+    "data": [
+      {
+        "text": "Si il genere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "1475622e-a079-4508-aed5-1c6baa5c29fd",
+    "data": [
+      {
+        "text": "Solo ",
+        "userDefined": false
+      },
+      {
+        "text": "concerto",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "7831b563-e5b2-4afa-9756-9505612ef186",
+    "data": [
+      {
+        "text": "Genere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "8f684749-9859-4976-8bdf-2355f2fe5c70",
+    "data": [
+      {
+        "text": "Ok il genere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "e7f46b91-312b-4126-84fc-bf27bef2a362",
+    "data": [
+      {
+        "text": "Solo genere ",
+        "userDefined": false
+      },
+      {
+        "text": "sonata",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "d6bd069b-4a5b-4682-a4e5-d0b1f8f3c450",
+    "data": [
+      {
+        "text": "Si, il genere grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  },
+  {
+    "id": "74f98175-ab8f-4bfd-a051-9d291fde4951",
+    "data": [
+      {
+        "text": "Solo genere ",
+        "userDefined": false
+      },
+      {
+        "text": "folk",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525274188
+  }
+]

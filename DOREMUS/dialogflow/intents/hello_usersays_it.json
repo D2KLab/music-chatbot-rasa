@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c53dc34b-2f02-4e58-ab94-ba3539dcac07",
+    "data": [
+      {
+        "text": "Ciao amico bot!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525273945
+  },
+  {
+    "id": "63f0ec7b-59d0-4632-bf12-44cb7d22f1a7",
+    "data": [
+      {
+        "text": "Ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525267220
+  }
+]

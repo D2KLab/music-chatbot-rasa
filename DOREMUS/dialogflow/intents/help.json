@@ -1,0 +1,33 @@
+{
+  "id": "89c92edd-0ae4-4e8d-a28a-7960838bd422",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Je peux faire plusieurs choses... Par exemple, demande-moi \"Donne-moi deux oeuvres de Mozart!\", ou... \"Parle-moi de Vivaldi\", ou... \"Proposes-moi un évènement le mois prochain\". Tu peux trouved plus exemples ici: https://github.com/D2KLab/music-chatbot/blob/master/README.md#bot-features"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can do a lot of things... For example, ask me \"Give me 2 works by Mozart!\", or... \"Tell me something about Vivaldi\", or... \"Are there any events next week?\". Start now if you want! Find more example here: https://github.com/D2KLab/music-chatbot/blob/master/README.md#bot-features"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531055140,
+  "fallbackIntent": false,
+  "events": []
+}

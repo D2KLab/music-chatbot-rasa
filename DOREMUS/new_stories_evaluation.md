@@ -1,0 +1,28 @@
+## story0
+ * hello
+  - input_welcome
+## story1
+ * hello
+  - input_welcome
+## story2
+ * hello
+  - input_welcome
+## story3
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+## story4
+ * hello
+  - input_welcome
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+ * discover-artist
+  - discover_artist
+## story5
+ * hello
+  - input_welcome

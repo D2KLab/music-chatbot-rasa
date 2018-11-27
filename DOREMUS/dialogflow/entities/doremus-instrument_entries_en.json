@@ -1,0 +1,4180 @@
+[
+  {
+    "value": "vctf",
+    "synonyms": [
+      "vctf",
+      "contratenor bassus"
+    ]
+  },
+  {
+    "value": "bco",
+    "synonyms": [
+      "bco",
+      "Kornett",
+      "cornet",
+      "cornet à pistons",
+      "corneta",
+      "corneta de pistões",
+      "cornetta"
+    ]
+  },
+  {
+    "value": "pmc",
+    "synonyms": [
+      "pmc",
+      "maracas"
+    ]
+  },
+  {
+    "value": "ptm",
+    "synonyms": [
+      "ptm",
+      "Donnerblech",
+      "chapa de trueno",
+      "lastra del tuono",
+      "machine à tonnerre",
+      "máquina do trovão",
+      "thunder machine"
+    ]
+  },
+  {
+    "value": "bvb",
+    "synonyms": [
+      "bvb",
+      "bugle à pistons",
+      "bügelhorn",
+      "flicorno",
+      "fliscorno",
+      "saxtrompa",
+      "valved bugle"
+    ]
+  },
+  {
+    "value": "pto",
+    "synonyms": [
+      "pto",
+      "tamburo militare piccolo",
+      "tarol",
+      "tarola",
+      "tarole"
+    ]
+  },
+  {
+    "value": "tgu__r",
+    "synonyms": [
+      "tgu__r",
+      "chitarra elettrica",
+      "electric guitar",
+      "guitare électrique",
+      "guitarra eléctrica"
+    ]
+  },
+  {
+    "value": "qco",
+    "synonyms": [
+      "qco",
+      "chef d\u0027orchestre",
+      "conductor",
+      "director de orquesta",
+      "direttore",
+      "maestro"
+    ]
+  },
+  {
+    "value": "pco",
+    "synonyms": [
+      "pco",
+      "chocalho",
+      "sacudidor"
+    ]
+  },
+  {
+    "value": "tci",
+    "synonyms": [
+      "tci",
+      "cister",
+      "cistre",
+      "cistro",
+      "cittern"
+    ]
+  },
+  {
+    "value": "sre",
+    "synonyms": [
+      "sre",
+      "rabel",
+      "rabeque",
+      "rebec",
+      "ribeca"
+    ]
+  },
+  {
+    "value": "woa",
+    "synonyms": [
+      "woa",
+      "Oboe d’amore",
+      "hautbois d\u0027amour",
+      "oboe d\u0027amore",
+      "oboé de amor"
+    ]
+  },
+  {
+    "value": "wau",
+    "synonyms": [
+      "wau",
+      "aulos",
+      "aulós",
+      "tibia"
+    ]
+  },
+  {
+    "value": "tkh",
+    "synonyms": [
+      "tkh",
+      "citara",
+      "cithara",
+      "cítara",
+      "kithara"
+    ]
+  },
+  {
+    "value": "ozz",
+    "synonyms": [
+      "ozz",
+      "orchester - andere",
+      "orchestra - altro",
+      "orchestra - other",
+      "orchestre - autre",
+      "orquesta - otro",
+      "orquestra - outro"
+    ]
+  },
+  {
+    "value": "pci",
+    "synonyms": [
+      "pci",
+      "cimbalom",
+      "cymbalum",
+      "címbalo",
+      "zimbalão"
+    ]
+  },
+  {
+    "value": "wdu",
+    "synonyms": [
+      "wdu",
+      "Dulzian",
+      "bajón",
+      "dolciana",
+      "dolçaine",
+      "dulcian",
+      "dulciana"
+    ]
+  },
+  {
+    "value": "bct",
+    "synonyms": [
+      "bct",
+      "Zink",
+      "cornet à bouquin",
+      "corneto",
+      "cornett",
+      "cornetto"
+    ]
+  },
+  {
+    "value": "pcu",
+    "synonyms": [
+      "pcu",
+      "cuíca"
+    ]
+  },
+  {
+    "value": "svl",
+    "synonyms": [
+      "svl",
+      "Geige",
+      "violin",
+      "violino",
+      "violon",
+      "violín"
+    ]
+  },
+  {
+    "value": "prs",
+    "synonyms": [
+      "prs",
+      "bastone della pioggia",
+      "bâton de pluie",
+      "efeito de chuva",
+      "palo de lluvia",
+      "rain stick"
+    ]
+  },
+  {
+    "value": "mra",
+    "synonyms": [
+      "mra",
+      "Rebab",
+      "rabab",
+      "rabāb",
+      "rebab"
+    ]
+  },
+  {
+    "value": "t",
+    "synonyms": [
+      "t",
+      "Pizzicati",
+      "Strings, plucked"
+    ]
+  },
+  {
+    "value": "orb",
+    "synonyms": [
+      "orb",
+      "banda de ragtime",
+      "ragtime band"
+    ]
+  },
+  {
+    "value": "ocb",
+    "synonyms": [
+      "ocb",
+      "cobla"
+    ]
+  },
+  {
+    "value": "vun",
+    "synonyms": [
+      "vun",
+      "stimme",
+      "voce",
+      "voice",
+      "voix",
+      "vox",
+      "voz"
+    ]
+  },
+  {
+    "value": "mzz",
+    "synonyms": [
+      "mzz",
+      "Andere",
+      "altro",
+      "autre",
+      "other",
+      "otro",
+      "outro"
+    ]
+  },
+  {
+    "value": "cve",
+    "synonyms": [
+      "cve",
+      "Vokal-Ensemble",
+      "complesso vocale",
+      "conjunto vocal",
+      "ensemble vocal",
+      "vocal ensemble"
+    ]
+  },
+  {
+    "value": "mms",
+    "synonyms": [
+      "mms",
+      "musical saw",
+      "scie musicale",
+      "sega musicale",
+      "serrote",
+      "sierra musical",
+      "singende Säge"
+    ]
+  },
+  {
+    "value": "pbe",
+    "synonyms": [
+      "pbe",
+      "tambor de cuerdas",
+      "tamboril",
+      "tambourin de béarn",
+      "ttun-ttuna"
+    ]
+  },
+  {
+    "value": "oiv",
+    "synonyms": [
+      "oiv",
+      "complesso vocale e strumentale",
+      "conjunto vocal y instrumental",
+      "ensemble vocal et instrumental",
+      "vocal and instrumental ensemble",
+      "vokal- und instrumentalensemble"
+    ]
+  },
+  {
+    "value": "kpf",
+    "synonyms": [
+      "kpf",
+      "Klavier",
+      "piano",
+      "pianoforte"
+    ]
+  },
+  {
+    "value": "odo",
+    "synonyms": [
+      "odo",
+      "Tanzorchester",
+      "dance orchestra",
+      "orchestra da ballo",
+      "orchestre de danse",
+      "orquesta de baile",
+      "orquestra de dança"
+    ]
+  },
+  {
+    "value": "v",
+    "synonyms": [
+      "v",
+      "Voci",
+      "Voices"
+    ]
+  },
+  {
+    "value": "woh",
+    "synonyms": [
+      "woh",
+      "jagd-hautboy",
+      "oboe da caccia",
+      "oboe de caza"
+    ]
+  },
+  {
+    "value": "cwo",
+    "synonyms": [
+      "cwo",
+      "Frauenchor",
+      "choeur de femmes",
+      "coro de mujeres",
+      "coro feminino",
+      "coro femminile",
+      "women\u0027s choir"
+    ]
+  },
+  {
+    "value": "pgn",
+    "synonyms": [
+      "pgn",
+      "canhão",
+      "cannone",
+      "canon",
+      "cañón",
+      "gun"
+    ]
+  },
+  {
+    "value": "ptx",
+    "synonyms": [
+      "ptx",
+      "txalaparta"
+    ]
+  },
+  {
+    "value": "bcl",
+    "synonyms": [
+      "bcl",
+      "Clarino",
+      "clarino",
+      "clarion",
+      "claro",
+      "clarín"
+    ]
+  },
+  {
+    "value": "brh",
+    "synonyms": [
+      "brh",
+      "baixo russo",
+      "cor russe",
+      "corno russo",
+      "russian horn",
+      "russische hoorn",
+      "russisches Horn"
+    ]
+  },
+  {
+    "value": "wsa",
+    "synonyms": [
+      "wsa",
+      "Saxophon",
+      "sassofono",
+      "saxofone",
+      "saxofón",
+      "saxophone"
+    ]
+  },
+  {
+    "value": "cme",
+    "synonyms": [
+      "cme",
+      "Männerchor",
+      "choeur d\u0027hommes",
+      "coro de hombres",
+      "coro maschile",
+      "coro masculino",
+      "men\u0027s choir"
+    ]
+  },
+  {
+    "value": "pch",
+    "synonyms": [
+      "pch",
+      "cadenas",
+      "catene",
+      "chains",
+      "chaînes",
+      "correntes"
+    ]
+  },
+  {
+    "value": "btuf",
+    "synonyms": [
+      "btuf",
+      "basstuba"
+    ]
+  },
+  {
+    "value": "cun__y",
+    "synonyms": [
+      "cun__y",
+      "Chor - ethnisch",
+      "choeur - ethnique",
+      "choir - ethnic",
+      "coro - etnico",
+      "coro - étnico"
+    ]
+  },
+  {
+    "value": "pta",
+    "synonyms": [
+      "pta",
+      "tabla",
+      "tablas"
+    ]
+  },
+  {
+    "value": "pct",
+    "synonyms": [
+      "pct",
+      "crotales",
+      "crotali",
+      "crótalos"
+    ]
+  },
+  {
+    "value": "tat",
+    "synonyms": [
+      "tat",
+      "arpaneta",
+      "arpanetta",
+      "arpanette",
+      "cítara-harpa",
+      "harp-psaltery"
+    ]
+  },
+  {
+    "value": "mbs",
+    "synonyms": [
+      "mbs",
+      "Bassinstrument",
+      "baixo",
+      "bajo",
+      "bass",
+      "basse",
+      "basso"
+    ]
+  },
+  {
+    "value": "oba",
+    "synonyms": [
+      "oba",
+      "Blasorchester",
+      "band",
+      "banda",
+      "harmonie"
+    ]
+  },
+  {
+    "value": "ezz",
+    "synonyms": [
+      "ezz",
+      "Elektronik - andere",
+      "electronic - other",
+      "electrónica - otro",
+      "electrónico - outro",
+      "elettronico - altro",
+      "instrument électronique - autre"
+    ]
+  },
+  {
+    "value": "pje",
+    "synonyms": [
+      "pje",
+      "jembe"
+    ]
+  },
+  {
+    "value": "vbr",
+    "synonyms": [
+      "vbr",
+      "Bariton",
+      "baritone",
+      "baritono",
+      "baryton",
+      "barítono"
+    ]
+  },
+  {
+    "value": "vbs",
+    "synonyms": [
+      "vbs",
+      "Bass",
+      "baixo",
+      "bajo",
+      "bass",
+      "basse",
+      "basso",
+      "bassus"
+    ]
+  },
+  {
+    "value": "wbn",
+    "synonyms": [
+      "wbn",
+      "bassanello"
+    ]
+  },
+  {
+    "value": "mcl",
+    "synonyms": [
+      "mcl",
+      "Spieluhr",
+      "horloge musicale",
+      "musical clock",
+      "orologio musicale",
+      "reloj musical",
+      "relógio de carrilhão"
+    ]
+  },
+  {
+    "value": "pcc",
+    "synonyms": [
+      "pcc",
+      "chinese cymbals",
+      "cymbales chinoises",
+      "piatto cinese",
+      "platillos chinos",
+      "pratos chineses"
+    ]
+  },
+  {
+    "value": "ttn",
+    "synonyms": [
+      "ttn",
+      "tambûr",
+      "tanbur"
+    ]
+  },
+  {
+    "value": "blu",
+    "synonyms": [
+      "blu",
+      "lur"
+    ]
+  },
+  {
+    "value": "mbw",
+    "synonyms": [
+      "mbw",
+      "Musikbogen",
+      "arc musical",
+      "arco musical",
+      "arco musicale",
+      "berimbau",
+      "musical bow"
+    ]
+  },
+  {
+    "value": "pab",
+    "synonyms": [
+      "pab",
+      "aeolian bells",
+      "campanelle a vento",
+      "carillones de viento",
+      "clochettes suspendues",
+      "wind chimes"
+    ]
+  },
+  {
+    "value": "bbd",
+    "synonyms": [
+      "bbd",
+      "bombarda",
+      "bombardon",
+      "bombardone",
+      "bombardón"
+    ]
+  },
+  {
+    "value": "sbt",
+    "synonyms": [
+      "sbt",
+      "basset",
+      "bassete",
+      "bassett",
+      "bassetto",
+      "viola bastarda baixo"
+    ]
+  },
+  {
+    "value": "wflj",
+    "synonyms": [
+      "wflj",
+      "flautino"
+    ]
+  },
+  {
+    "value": "kab",
+    "synonyms": [
+      "kab",
+      "Archicembalo",
+      "archicembalo",
+      "archicémbalo"
+    ]
+  },
+  {
+    "value": "kre",
+    "synonyms": [
+      "kre",
+      "Regal",
+      "regal",
+      "regale",
+      "regals"
+    ]
+  },
+  {
+    "value": "tcs",
+    "synonyms": [
+      "tcs",
+      "colachão",
+      "colascione"
+    ]
+  },
+  {
+    "value": "tuk",
+    "synonyms": [
+      "tuk",
+      "Ukulele",
+      "cavaquinho",
+      "ukulele",
+      "ukulélé"
+    ]
+  },
+  {
+    "value": "zju",
+    "synonyms": [
+      "zju",
+      "giocoliere",
+      "jongleur",
+      "juggler",
+      "malabarista"
+    ]
+  },
+  {
+    "value": "mpp",
+    "synonyms": [
+      "mpp",
+      "Selbstspielklavier",
+      "piano mécanique",
+      "pianola",
+      "player piano"
+    ]
+  },
+  {
+    "value": "sun__y",
+    "synonyms": [
+      "sun__y",
+      "archi - etnico",
+      "cordas, friccionadas - étnico",
+      "cordes frottées - ethnique",
+      "instrumento de cuerda frotada - étnico",
+      "strings, bowed - ethnic"
+    ]
+  },
+  {
+    "value": "zat",
+    "synonyms": [
+      "zat",
+      "acteur",
+      "actor",
+      "ator",
+      "attore"
+    ]
+  },
+  {
+    "value": "pgl",
+    "synonyms": [
+      "pgl",
+      "Glockenspiel",
+      "glockenspiel"
+    ]
+  },
+  {
+    "value": "wzz",
+    "synonyms": [
+      "wzz",
+      "bois - autre",
+      "instrumento de viento madera - otro",
+      "legni - altro",
+      "madeiras - outros",
+      "woodwind - other"
+    ]
+  },
+  {
+    "value": "wflf",
+    "synonyms": [
+      "wflf",
+      "bass flute",
+      "flauta baixo",
+      "flauto basso",
+      "flûte basse"
+    ]
+  },
+  {
+    "value": "mbr",
+    "synonyms": [
+      "mbr",
+      "Schwirrholz",
+      "bullroarer",
+      "rhombe",
+      "rombo",
+      "zumbador"
+    ]
+  },
+  {
+    "value": "tqa",
+    "synonyms": [
+      "tqa",
+      "qanun",
+      "qānūn"
+    ]
+  },
+  {
+    "value": "wba",
+    "synonyms": [
+      "wba",
+      "Fagott",
+      "basson",
+      "bassoon",
+      "fagot",
+      "fagote",
+      "fagotto"
+    ]
+  },
+  {
+    "value": "pti",
+    "synonyms": [
+      "pti",
+      "Pauken",
+      "timbal",
+      "timbales",
+      "timpani"
+    ]
+  },
+  {
+    "value": "eta",
+    "synonyms": [
+      "eta",
+      "Zuspielaufnahme",
+      "bande magnétique",
+      "fita magnética",
+      "nastro magnetico",
+      "tape"
+    ]
+  },
+  {
+    "value": "ksi",
+    "synonyms": [
+      "ksi",
+      "Sirenion",
+      "piano eutophone",
+      "sirenion"
+    ]
+  },
+  {
+    "value": "ptg",
+    "synonyms": [
+      "ptg",
+      "gong",
+      "gong chinês",
+      "gong intonato",
+      "tuned gong"
+    ]
+  },
+  {
+    "value": "kgl",
+    "synonyms": [
+      "kgl",
+      "Glockenspiel",
+      "glockenspiel"
+    ]
+  },
+  {
+    "value": "ecs",
+    "synonyms": [
+      "ecs",
+      "Computer-Musik-Station",
+      "computerized musical station",
+      "estação informática musical",
+      "postazione informatica musicale",
+      "station informatique musicale"
+    ]
+  },
+  {
+    "value": "bah",
+    "synonyms": [
+      "bah",
+      "Alphorn",
+      "alphorn",
+      "cor des Alpes",
+      "corno delle Alpi",
+      "corno dos Alpes",
+      "trompa de los Alpes"
+    ]
+  },
+  {
+    "value": "bbh",
+    "synonyms": [
+      "bbh",
+      "Bersaglieri-Horn",
+      "bersag horn",
+      "biucolo"
+    ]
+  },
+  {
+    "value": "tguf_r",
+    "synonyms": [
+      "tguf_r",
+      "baixo elétrico",
+      "basso elettrico",
+      "electric bass guitar",
+      "gitare électrique basse"
+    ]
+  },
+  {
+    "value": "mmc",
+    "synonyms": [
+      "mmc",
+      "Monochord",
+      "monochord",
+      "monocorde",
+      "monocordio",
+      "monocordo",
+      "monocórdio"
+    ]
+  },
+  {
+    "value": "bca",
+    "synonyms": [
+      "bca",
+      "carnyx",
+      "lituus"
+    ]
+  },
+  {
+    "value": "ptl",
+    "synonyms": [
+      "ptl",
+      "triangle",
+      "triangolo",
+      "triángulo",
+      "triângulo"
+    ]
+  },
+  {
+    "value": "ptt",
+    "synonyms": [
+      "ptt",
+      "Tomtom",
+      "tom",
+      "tom-tom"
+    ]
+  },
+  {
+    "value": "mme",
+    "synonyms": [
+      "mme",
+      "Melodica",
+      "melodica",
+      "melódica",
+      "mélodica"
+    ]
+  },
+  {
+    "value": "pvi",
+    "synonyms": [
+      "pvi",
+      "Vibraphon",
+      "vibrafone",
+      "vibrafono",
+      "vibraphone",
+      "vibráfono"
+    ]
+  },
+  {
+    "value": "mgh",
+    "synonyms": [
+      "mgh",
+      "Glasharmonika",
+      "armónica de cristal",
+      "glassharmonika",
+      "harmonica de verre"
+    ]
+  },
+  {
+    "value": "psl",
+    "synonyms": [
+      "psl",
+      "slit-drum",
+      "tambor de hendidura",
+      "tambor de madeira",
+      "tambour de bois à fente",
+      "tamburo a fessura"
+    ]
+  },
+  {
+    "value": "tkt",
+    "synonyms": [
+      "tkt",
+      "Koto",
+      "koto"
+    ]
+  },
+  {
+    "value": "bsh",
+    "synonyms": [
+      "bsh",
+      "Schofar",
+      "chofar",
+      "shofar",
+      "שופר"
+    ]
+  },
+  {
+    "value": "bvbd",
+    "synonyms": [
+      "bvbd",
+      "flicorno tenore",
+      "saxhorn ténor"
+    ]
+  },
+  {
+    "value": "vunk",
+    "synonyms": [
+      "vunk",
+      "medium voice",
+      "voce media",
+      "voix moyenne",
+      "voz media",
+      "voz média"
+    ]
+  },
+  {
+    "value": "vvg",
+    "synonyms": [
+      "vvg",
+      "vagans"
+    ]
+  },
+  {
+    "value": "pza",
+    "synonyms": [
+      "pza",
+      "zarb"
+    ]
+  },
+  {
+    "value": "phb",
+    "synonyms": [
+      "phb",
+      "campanella",
+      "campanilla",
+      "cloches à main",
+      "handbell",
+      "sineta"
+    ]
+  },
+  {
+    "value": "kst",
+    "synonyms": [
+      "kst",
+      "Spinett",
+      "espineta",
+      "spinet",
+      "spinetta"
+    ]
+  },
+  {
+    "value": "wcl",
+    "synonyms": [
+      "wcl",
+      "Klarinette",
+      "clarinet",
+      "clarinete",
+      "clarinette",
+      "clarinetto"
+    ]
+  },
+  {
+    "value": "wga",
+    "synonyms": [
+      "wga",
+      "flabiol",
+      "galoubet",
+      "tabor pipe"
+    ]
+  },
+  {
+    "value": "wna",
+    "synonyms": [
+      "wna",
+      "nay",
+      "ney"
+    ]
+  },
+  {
+    "value": "tbl",
+    "synonyms": [
+      "tbl",
+      "Balalaika",
+      "balalaica",
+      "balalaika",
+      "балалайка"
+    ]
+  },
+  {
+    "value": "msw",
+    "synonyms": [
+      "msw",
+      "Stempelflöte",
+      "flauta de émbolo",
+      "flauta de êmbolo",
+      "flauto a coulisse",
+      "flûte à coulisse",
+      "swanee whistle"
+    ]
+  },
+  {
+    "value": "w",
+    "synonyms": [
+      "w",
+      "Legni",
+      "Woodwinds"
+    ]
+  },
+  {
+    "value": "tch",
+    "synonyms": [
+      "tch",
+      "chitarrone",
+      "guitarrón"
+    ]
+  },
+  {
+    "value": "wclg",
+    "synonyms": [
+      "wclg",
+      "bathyphone"
+    ]
+  },
+  {
+    "value": "pdr",
+    "synonyms": [
+      "pdr",
+      "Trommel",
+      "drum",
+      "tambor",
+      "tambour",
+      "tamburo"
+    ]
+  },
+  {
+    "value": "mhg",
+    "synonyms": [
+      "mhg",
+      "Drehleier",
+      "ghironda",
+      "hurdy-gurdy",
+      "sanfona",
+      "vielle à roue",
+      "zanfona"
+    ]
+  },
+  {
+    "value": "kun",
+    "synonyms": [
+      "kun",
+      "Tasteninstrument",
+      "clavier",
+      "keyboard",
+      "tastiera",
+      "teclado"
+    ]
+  },
+  {
+    "value": "mha",
+    "synonyms": [
+      "mha",
+      "Mundharmonika",
+      "armonica",
+      "armónica",
+      "harmonica",
+      "harmónica"
+    ]
+  },
+  {
+    "value": "pun",
+    "synonyms": [
+      "pun",
+      "percusión",
+      "percussion",
+      "percussioni",
+      "percussions",
+      "percussão"
+    ]
+  },
+  {
+    "value": "plj",
+    "synonyms": [
+      "plj",
+      "loo-jon",
+      "lujon"
+    ]
+  },
+  {
+    "value": "kch",
+    "synonyms": [
+      "kch",
+      "chordette"
+    ]
+  },
+  {
+    "value": "wfa",
+    "synonyms": [
+      "wfa",
+      "Liebesflöte",
+      "flauta de amor",
+      "flauto d\u0027amore",
+      "flûte d\u0027amour"
+    ]
+  },
+  {
+    "value": "btbf",
+    "synonyms": [
+      "btbf",
+      "bass trombone",
+      "trombone baixo"
+    ]
+  },
+  {
+    "value": "tps",
+    "synonyms": [
+      "tps",
+      "psalterium",
+      "psaltery",
+      "psaltérion",
+      "salterio",
+      "saltério",
+      "гусли"
+    ]
+  },
+  {
+    "value": "ksp",
+    "synonyms": [
+      "ksp",
+      "Streichklavier",
+      "cembalo ad arco",
+      "harmonicorde",
+      "sostenente piano"
+    ]
+  },
+  {
+    "value": "wob",
+    "synonyms": [
+      "wob",
+      "Oboe",
+      "hautbois",
+      "oboe",
+      "oboé"
+    ]
+  },
+  {
+    "value": "wsn",
+    "synonyms": [
+      "wsn",
+      "surna",
+      "surnāy",
+      "zurna"
+    ]
+  },
+  {
+    "value": "psn",
+    "synonyms": [
+      "psn",
+      "Sirene",
+      "siren",
+      "sirena",
+      "sirene",
+      "sirène"
+    ]
+  },
+  {
+    "value": "mcb",
+    "synonyms": [
+      "mcb",
+      "Cristal Baschet",
+      "cristal Baschet"
+    ]
+  },
+  {
+    "value": "mjh",
+    "synonyms": [
+      "mjh",
+      "Maultrommel",
+      "arpa de boca",
+      "berimbau",
+      "guimbarde",
+      "jew\u0027s harp",
+      "scacciapensieri"
+    ]
+  },
+  {
+    "value": "ptr",
+    "synonyms": [
+      "ptr",
+      "pandeireta",
+      "pandereta",
+      "tambour de basque",
+      "tambourine",
+      "tamburello"
+    ]
+  },
+  {
+    "value": "sgu",
+    "synonyms": [
+      "sgu",
+      "gusla",
+      "gusle",
+      "guzla"
+    ]
+  },
+  {
+    "value": "psm",
+    "synonyms": [
+      "psm",
+      "crepitaculum",
+      "sistre",
+      "sistro",
+      "sistrum"
+    ]
+  },
+  {
+    "value": "wfg",
+    "synonyms": [
+      "wfg",
+      "Flageolett",
+      "flageolet",
+      "flagioletto",
+      "flajolé"
+    ]
+  },
+  {
+    "value": "pun__s",
+    "synonyms": [
+      "pun__s",
+      "electronic percussion",
+      "percusión electrónica",
+      "percussion électronique",
+      "percussione elettronica",
+      "percussão electrónica"
+    ]
+  },
+  {
+    "value": "tbo",
+    "synonyms": [
+      "tbo",
+      "bouzouki"
+    ]
+  },
+  {
+    "value": "wpi",
+    "synonyms": [
+      "wpi",
+      "flautim",
+      "flautín",
+      "ottavino",
+      "piccolo"
+    ]
+  },
+  {
+    "value": "o",
+    "synonyms": [
+      "o",
+      "Orchestras, ensembles",
+      "Orchestre, complessi"
+    ]
+  },
+  {
+    "value": "vct",
+    "synonyms": [
+      "vct",
+      "contratenor",
+      "contre-ténor",
+      "controtenore",
+      "countertenor"
+    ]
+  },
+  {
+    "value": "pca",
+    "synonyms": [
+      "pca",
+      "castagnette",
+      "castagnettes",
+      "castanets",
+      "castanholas",
+      "castañuelas"
+    ]
+  },
+  {
+    "value": "pfc",
+    "synonyms": [
+      "pfc",
+      "crótalos de dedos",
+      "cymbales digitales",
+      "finger cymbals",
+      "piattini"
+    ]
+  },
+  {
+    "value": "pss",
+    "synonyms": [
+      "pss",
+      "escultura sonora",
+      "sculpture sonore",
+      "sound sculpture"
+    ]
+  },
+  {
+    "value": "qch",
+    "synonyms": [
+      "qch",
+      "chef de choeur",
+      "choir conductor, chorus master",
+      "director de coro",
+      "direttore di coro",
+      "maestro do coro"
+    ]
+  },
+  {
+    "value": "pnv",
+    "synonyms": [
+      "pnv",
+      "nail violin",
+      "violino de ferro",
+      "violino di ferro",
+      "violon de fer",
+      "violín de hierro"
+    ]
+  },
+  {
+    "value": "tcz",
+    "synonyms": [
+      "tcz",
+      "cobza"
+    ]
+  },
+  {
+    "value": "mwh",
+    "synonyms": [
+      "mwh",
+      "Pfeife",
+      "apito",
+      "fischietto",
+      "sifflet",
+      "silbato",
+      "whistle"
+    ]
+  },
+  {
+    "value": "pli",
+    "synonyms": [
+      "pli",
+      "lithophone",
+      "litofono",
+      "litófono"
+    ]
+  },
+  {
+    "value": "whp",
+    "synonyms": [
+      "whp",
+      "Hornpfeife",
+      "albogue",
+      "hornpipe",
+      "pibgorn"
+    ]
+  },
+  {
+    "value": "wdb",
+    "synonyms": [
+      "wdb",
+      "Kontrafagott",
+      "contrabajon",
+      "contrafagote",
+      "contrebasson",
+      "controfagotto",
+      "double bassoon"
+    ]
+  },
+  {
+    "value": "sba",
+    "synonyms": [
+      "sba",
+      "baritón",
+      "baryton",
+      "viola bastarda"
+    ]
+  },
+  {
+    "value": "vun__y",
+    "synonyms": [
+      "vun__y",
+      "stimme - ethnisch",
+      "voce - etnica",
+      "voice - ethnic",
+      "voix - ethnique",
+      "voz - etnica"
+    ]
+  },
+  {
+    "value": "pcg",
+    "synonyms": [
+      "pcg",
+      "Conga",
+      "conga"
+    ]
+  },
+  {
+    "value": "tlu",
+    "synonyms": [
+      "tlu",
+      "Laute",
+      "alaúde",
+      "laúd",
+      "liuto",
+      "lute",
+      "luth"
+    ]
+  },
+  {
+    "value": "cmi",
+    "synonyms": [
+      "cmi",
+      "choeur mixte",
+      "coro misto",
+      "coro mixto",
+      "gemischter Chor",
+      "mixed choir"
+    ]
+  },
+  {
+    "value": "pfl",
+    "synonyms": [
+      "pfl",
+      "Flexaton",
+      "flexaton",
+      "flexatone",
+      "flexatono"
+    ]
+  },
+  {
+    "value": "kvg",
+    "synonyms": [
+      "kvg",
+      "Virginal",
+      "virginal",
+      "virginale"
+    ]
+  },
+  {
+    "value": "kzz",
+    "synonyms": [
+      "kzz",
+      "Tastenistrument - andere",
+      "clavier - autre",
+      "keyboard - other",
+      "tastiera - altro",
+      "teclado - otro",
+      "teclado - outro"
+    ]
+  },
+  {
+    "value": "zab",
+    "synonyms": [
+      "zab",
+      "acrobat",
+      "acrobata",
+      "acrobate",
+      "acróbata"
+    ]
+  },
+  {
+    "value": "bvbg",
+    "synonyms": [
+      "bvbg",
+      "flicorno contrabasso in sib"
+    ]
+  },
+  {
+    "value": "tsi",
+    "synonyms": [
+      "tsi",
+      "sitar",
+      "sitār"
+    ]
+  },
+  {
+    "value": "pse",
+    "synonyms": [
+      "pse",
+      "objecto sonoro",
+      "objet sonore",
+      "oggetto sonoro",
+      "sound-effect instrument"
+    ]
+  },
+  {
+    "value": "oun",
+    "synonyms": [
+      "oun",
+      "Orchester",
+      "orchestra",
+      "orchestre",
+      "orquesta",
+      "orquestra"
+    ]
+  },
+  {
+    "value": "beu",
+    "synonyms": [
+      "beu",
+      "Euphonium",
+      "bombardino",
+      "eufonio",
+      "eufónio",
+      "euphonium"
+    ]
+  },
+  {
+    "value": "wra",
+    "synonyms": [
+      "wra",
+      "Rackett",
+      "cervelas",
+      "cervelato",
+      "cervellato",
+      "racket",
+      "rackett"
+    ]
+  },
+  {
+    "value": "wclf",
+    "synonyms": [
+      "wclf",
+      "bass clarinet",
+      "clarinete baixo",
+      "clarinette basse",
+      "clarinetto basso"
+    ]
+  },
+  {
+    "value": "kps",
+    "synonyms": [
+      "kps",
+      "clavier à cordes pincées",
+      "plucked string keyboard",
+      "tastiere a corde pizzicate",
+      "teclado de cordas beliscadas",
+      "teclado de cuerda punteada"
+    ]
+  },
+  {
+    "value": "vms",
+    "synonyms": [
+      "vms",
+      "meio-soprano",
+      "mezzo-soprano",
+      "mezzosoprano"
+    ]
+  },
+  {
+    "value": "pag",
+    "synonyms": [
+      "pag",
+      "agogo",
+      "agogò",
+      "agogó",
+      "agogô"
+    ]
+  },
+  {
+    "value": "mco",
+    "synonyms": [
+      "mco",
+      "Basso Continuo",
+      "baixo contínuo",
+      "bajo continuo",
+      "basse continue",
+      "basso continuo",
+      "continuo"
+    ]
+  },
+  {
+    "value": "phh",
+    "synonyms": [
+      "phh",
+      "Hi-Hat",
+      "cymbales charleston",
+      "hi hat",
+      "hi-hat",
+      "piatti a pedale"
+    ]
+  },
+  {
+    "value": "btu",
+    "synonyms": [
+      "btu",
+      "Tuba",
+      "tuba"
+    ]
+  },
+  {
+    "value": "bbb",
+    "synonyms": [
+      "bbb",
+      "bariton",
+      "bombardino",
+      "saxhorn baryton"
+    ]
+  },
+  {
+    "value": "k",
+    "synonyms": [
+      "k",
+      "Keyboard",
+      "tastiere"
+    ]
+  },
+  {
+    "value": "bhh",
+    "synonyms": [
+      "bhh",
+      "Jagdhorn",
+      "cor de chasse",
+      "corno da caccia",
+      "hunting horn",
+      "trompa de caza",
+      "trompa de caça"
+    ]
+  },
+  {
+    "value": "pcy",
+    "synonyms": [
+      "pcy",
+      "cymbal",
+      "cymbale",
+      "piatti",
+      "platillos",
+      "pratos"
+    ]
+  },
+  {
+    "value": "kca",
+    "synonyms": [
+      "kca",
+      "Carillon",
+      "beiaard",
+      "carillon",
+      "carillón",
+      "carrilhão"
+    ]
+  },
+  {
+    "value": "pwh",
+    "synonyms": [
+      "pwh",
+      "chicote",
+      "fouet",
+      "frusta",
+      "látigo",
+      "whip"
+    ]
+  },
+  {
+    "value": "eos",
+    "synonyms": [
+      "eos",
+      "Oszillator",
+      "oscilador",
+      "oscillateur",
+      "oscillator",
+      "oscillatore"
+    ]
+  },
+  {
+    "value": "ptb",
+    "synonyms": [
+      "ptb",
+      "tabor",
+      "tamboril",
+      "tamborim",
+      "tambourin",
+      "tamburino"
+    ]
+  },
+  {
+    "value": "pds",
+    "synonyms": [
+      "pds",
+      "bateria",
+      "batería",
+      "batteria",
+      "batterie",
+      "drums"
+    ]
+  },
+  {
+    "value": "stm",
+    "synonyms": [
+      "stm",
+      "Trompetengeige",
+      "tromba marina",
+      "trombeta marina",
+      "trombeta marinha",
+      "trompette marine",
+      "trumpet marine"
+    ]
+  },
+  {
+    "value": "sln",
+    "synonyms": [
+      "sln",
+      "Lira da Gamba",
+      "lira da gamba",
+      "lirone",
+      "lyra"
+    ]
+  },
+  {
+    "value": "tlf",
+    "synonyms": [
+      "tlf",
+      "alaúde",
+      "laúd",
+      "liuto",
+      "lute",
+      "lute"
+    ]
+  },
+  {
+    "value": "wdv",
+    "synonyms": [
+      "wdv",
+      "dvoinice",
+      "dvojnice"
+    ]
+  },
+  {
+    "value": "tha",
+    "synonyms": [
+      "tha",
+      "Harfe",
+      "arpa",
+      "harp",
+      "harpa",
+      "harpe"
+    ]
+  },
+  {
+    "value": "vso",
+    "synonyms": [
+      "vso",
+      "Sopran",
+      "cantus",
+      "soprano"
+    ]
+  },
+  {
+    "value": "kor__r",
+    "synonyms": [
+      "kor__r",
+      "electric organ",
+      "organo elettrico",
+      "orgue électrique",
+      "órgão elétrico"
+    ]
+  },
+  {
+    "value": "sfi",
+    "synonyms": [
+      "sfi",
+      "fiddle, viol",
+      "viella",
+      "vihuela de arco",
+      "viola",
+      "vièle"
+    ]
+  },
+  {
+    "value": "pji",
+    "synonyms": [
+      "pji",
+      "cascabel",
+      "grelots",
+      "guizos",
+      "jingles",
+      "sonagli"
+    ]
+  },
+  {
+    "value": "wobd",
+    "synonyms": [
+      "wobd",
+      "oboe tenore",
+      "tenor oboe"
+    ]
+  },
+  {
+    "value": "p",
+    "synonyms": [
+      "p",
+      "Percussion",
+      "Percussioni"
+    ]
+  },
+  {
+    "value": "wmu",
+    "synonyms": [
+      "wmu",
+      "museta",
+      "musette",
+      "oboe pícolo"
+    ]
+  },
+  {
+    "value": "wdi",
+    "synonyms": [
+      "wdi",
+      "didgeridoo",
+      "didjeridu"
+    ]
+  },
+  {
+    "value": "spo",
+    "synonyms": [
+      "spo",
+      "kit",
+      "pochette",
+      "sordino"
+    ]
+  },
+  {
+    "value": "tal",
+    "synonyms": [
+      "tal",
+      "archilaúd",
+      "archiluth",
+      "archlute",
+      "arciliuto",
+      "arquialaúde"
+    ]
+  },
+  {
+    "value": "pcr",
+    "synonyms": [
+      "pcr",
+      "crash",
+      "crash cymbal",
+      "cymbale suspendue",
+      "piatto sospeso",
+      "pratos de choque"
+    ]
+  },
+  {
+    "value": "mbo",
+    "synonyms": [
+      "mbo",
+      "Drehorgel",
+      "barrel organ",
+      "organillo",
+      "organo di barberia",
+      "orgue à manivelle",
+      "realejo"
+    ]
+  },
+  {
+    "value": "cre",
+    "synonyms": [
+      "cre",
+      "Sprechchor",
+      "choeur parlé",
+      "coro falado",
+      "coro recitante",
+      "reciting choir"
+    ]
+  },
+  {
+    "value": "wmo",
+    "synonyms": [
+      "wmo",
+      "armonica",
+      "gaita de beiços",
+      "mouth organ",
+      "orgue à bouche",
+      "shô",
+      "órgano de boca"
+    ]
+  },
+  {
+    "value": "pbb",
+    "synonyms": [
+      "pbb",
+      "boo-bams",
+      "boobams"
+    ]
+  },
+  {
+    "value": "tko",
+    "synonyms": [
+      "tko",
+      "Harfengitarre",
+      "arpa-liuto",
+      "harpa-alaúde",
+      "kora"
+    ]
+  },
+  {
+    "value": "oga",
+    "synonyms": [
+      "oga",
+      "Gamelan",
+      "gamelan",
+      "gamelán",
+      "gamelão"
+    ]
+  },
+  {
+    "value": "bta",
+    "synonyms": [
+      "bta",
+      "tuba"
+    ]
+  },
+  {
+    "value": "tzz",
+    "synonyms": [
+      "tzz",
+      "cordes pincées - autre",
+      "dedilhado – outros",
+      "instrumento de cuerda punteada - otro",
+      "pizzicati - altro",
+      "strings, plucked - other"
+    ]
+  },
+  {
+    "value": "kfp",
+    "synonyms": [
+      "kfp",
+      "Hammerklavier",
+      "fortepiano",
+      "pianoforte"
+    ]
+  },
+  {
+    "value": "pwo",
+    "synonyms": [
+      "pwo",
+      "caixa chinesa",
+      "caja china",
+      "wood blocks",
+      "woodblock",
+      "woodblocks"
+    ]
+  },
+  {
+    "value": "bcu",
+    "synonyms": [
+      "bcu",
+      "buzina",
+      "cornu"
+    ]
+  },
+  {
+    "value": "mck",
+    "synonyms": [
+      "mck",
+      "Schachtbrett",
+      "chekker",
+      "eschiquier"
+    ]
+  },
+  {
+    "value": "sdb",
+    "synonyms": [
+      "sdb",
+      "Kontrabass",
+      "contrabaixo",
+      "contrabajo",
+      "contrabbasso",
+      "contrebasse",
+      "double bass"
+    ]
+  },
+  {
+    "value": "tgu",
+    "synonyms": [
+      "tgu",
+      "chitarra",
+      "guitar",
+      "guitare",
+      "guitarra"
+    ]
+  },
+  {
+    "value": "kco",
+    "synonyms": [
+      "kco",
+      "Orgelklavier",
+      "clavecin organisé",
+      "claviorgan",
+      "claviorgano",
+      "claviorganum",
+      "claviórgano",
+      "claviórgão"
+    ]
+  },
+  {
+    "value": "pxy",
+    "synonyms": [
+      "pxy",
+      "Xylophon",
+      "xilofone",
+      "xilofono",
+      "xilófono",
+      "xylophone"
+    ]
+  },
+  {
+    "value": "mtf",
+    "synonyms": [
+      "mtf",
+      "Stimmgabel",
+      "diapason",
+      "diapasão",
+      "diapasón",
+      "tuning-fork"
+    ]
+  },
+  {
+    "value": "pfd",
+    "synonyms": [
+      "pfd",
+      "caccavella",
+      "friction drum",
+      "sarronca",
+      "tambor de fricción",
+      "tambour à friction"
+    ]
+  },
+  {
+    "value": "esp",
+    "synonyms": [
+      "esp",
+      "Raumklang-Anlage",
+      "dispositif spatial",
+      "dispositivo espacial",
+      "dispositivo spaziale",
+      "space device"
+    ]
+  },
+  {
+    "value": "kor__s",
+    "synonyms": [
+      "kor__s",
+      "electronic organ"
+    ]
+  },
+  {
+    "value": "bbu",
+    "synonyms": [
+      "bbu",
+      "Signalhorn",
+      "bugle",
+      "clairon",
+      "corneta",
+      "corneta natural",
+      "corno segnale"
+    ]
+  },
+  {
+    "value": "pgu",
+    "synonyms": [
+      "pgu",
+      "Güiro",
+      "guiro",
+      "güiro",
+      "reco-reco"
+    ]
+  },
+  {
+    "value": "bol",
+    "synonyms": [
+      "bol",
+      "Olifant",
+      "bucina",
+      "cor d\u0027olifant",
+      "olifante",
+      "oliphant"
+    ]
+  },
+  {
+    "value": "eli",
+    "synonyms": [
+      "eli",
+      "Live-elektronik",
+      "dispositif électronique temps réel",
+      "live electronic"
+    ]
+  },
+  {
+    "value": "vcv",
+    "synonyms": [
+      "vcv",
+      "Knabenstimme",
+      "child voice",
+      "voce bianca",
+      "voix d\u0027enfant",
+      "voz branca",
+      "voz de niño"
+    ]
+  },
+  {
+    "value": "bho",
+    "synonyms": [
+      "bho",
+      "Horn",
+      "cor",
+      "corno",
+      "horn",
+      "trompa"
+    ]
+  },
+  {
+    "value": "khm",
+    "synonyms": [
+      "khm",
+      "Harmonium",
+      "armonio",
+      "harmonium",
+      "harmónio"
+    ]
+  },
+  {
+    "value": "eea",
+    "synonyms": [
+      "eea",
+      "dispositif électroacoustique",
+      "dispositivo electroacústico",
+      "dispositivo elettroacustico",
+      "dispositivo elétrico-acústico",
+      "electro-acoustic device",
+      "elektroakustisches Gerät"
+    ]
+  },
+  {
+    "value": "obi",
+    "synonyms": [
+      "obi",
+      "Jazzorchester",
+      "big band"
+    ]
+  },
+  {
+    "value": "wsr",
+    "synonyms": [
+      "wsr",
+      "Sarrusophon",
+      "sarrusofone",
+      "sarrusofono",
+      "sarrusophone",
+      "sarrusófono"
+    ]
+  },
+  {
+    "value": "tbb",
+    "synonyms": [
+      "tbb",
+      "barbitos",
+      "barbitón",
+      "lira"
+    ]
+  },
+  {
+    "value": "zel",
+    "synonyms": [
+      "zel",
+      "light engineer",
+      "tecnico delle luci",
+      "técnico de luzes"
+    ]
+  },
+  {
+    "value": "tlg",
+    "synonyms": [
+      "tlg",
+      "guitarra-lira",
+      "lira chitarra",
+      "lira-guitarra",
+      "lyre-guitar",
+      "lyre-guitare"
+    ]
+  },
+  {
+    "value": "psp",
+    "synonyms": [
+      "psp",
+      "Sandblock",
+      "carta vetrata",
+      "lija",
+      "lixa",
+      "papier de verre",
+      "sandpaper"
+    ]
+  },
+  {
+    "value": "czz",
+    "synonyms": [
+      "czz",
+      "Chor - andere",
+      "choeur - autre",
+      "choir - other",
+      "coro - altro",
+      "coro - otro",
+      "coro - outro"
+    ]
+  },
+  {
+    "value": "sli",
+    "synonyms": [
+      "sli",
+      "Lira da Braccio",
+      "lira da braccio"
+    ]
+  },
+  {
+    "value": "pcw",
+    "synonyms": [
+      "pcw",
+      "Viehschelle",
+      "campana",
+      "campanaccio",
+      "cencerro",
+      "cloche de vache",
+      "cowbell"
+    ]
+  },
+  {
+    "value": "kpf__r",
+    "synonyms": [
+      "kpf__r",
+      "electric piano",
+      "piano elétrico",
+      "piano électrique",
+      "pianoforte elettrico"
+    ]
+  },
+  {
+    "value": "mla",
+    "synonyms": [
+      "mla",
+      "Lamellophon",
+      "lamellaphone",
+      "lamellophone",
+      "lamelofone",
+      "lamelófono",
+      "zanza"
+    ]
+  },
+  {
+    "value": "wun__y",
+    "synonyms": [
+      "wun__y",
+      "bois - ethnique",
+      "holzbläser - ethnisch",
+      "instrumento de viento madera - étnico",
+      "legni - etnico",
+      "madeiras - étnico",
+      "woodwind - ethnic"
+    ]
+  },
+  {
+    "value": "q",
+    "synonyms": [
+      "q",
+      "Conductors",
+      "Direttori"
+    ]
+  },
+  {
+    "value": "wbp",
+    "synonyms": [
+      "wbp",
+      "bagpipe",
+      "conamusa",
+      "cornemuse",
+      "gaita",
+      "gaita de foles"
+    ]
+  },
+  {
+    "value": "zda",
+    "synonyms": [
+      "zda",
+      "bailarino",
+      "bailarín",
+      "ballerino",
+      "dancer",
+      "danseur"
+    ]
+  },
+  {
+    "value": "zes",
+    "synonyms": [
+      "zes",
+      "Toningenieur",
+      "ingeniero de audio",
+      "ingénieur du son",
+      "sound engineer",
+      "tecnico del suono",
+      "técnico de som"
+    ]
+  },
+  {
+    "value": "vcs",
+    "synonyms": [
+      "vcs",
+      "Knabensopran",
+      "child soprano",
+      "soprano - criança",
+      "soprano enfant",
+      "soprano voce bianca"
+    ]
+  },
+  {
+    "value": "ofu",
+    "synonyms": [
+      "ofu",
+      "Sinfonieorchester",
+      "full orchestra",
+      "orchestra sinfonica",
+      "orchestre symphonique",
+      "orquesta sinfónica",
+      "orquestra sinfónica"
+    ]
+  },
+  {
+    "value": "thg",
+    "synonyms": [
+      "thg",
+      "Hawaiische Gitar",
+      "chitarra hawaiana",
+      "guitare hawaïenne",
+      "guitarra havaiana",
+      "guitarra hawaiana",
+      "hawaiian guitar"
+    ]
+  },
+  {
+    "value": "pun__y",
+    "synonyms": [
+      "pun__y",
+      "percusión - étnico",
+      "percussion - ethnic",
+      "percussioni - etnico",
+      "percussions - ethnique",
+      "percussão - étnico",
+      "perkussion - ethnisch"
+    ]
+  },
+  {
+    "value": "pwm",
+    "synonyms": [
+      "pwm",
+      "eolífono",
+      "macchina del vento",
+      "machine à vent",
+      "máquina de vento",
+      "wind machine"
+    ]
+  },
+  {
+    "value": "sar",
+    "synonyms": [
+      "sar",
+      "Arpeggione",
+      "arpeggione"
+    ]
+  },
+  {
+    "value": "bcb",
+    "synonyms": [
+      "bcb",
+      "Bassposaune",
+      "cimbasso"
+    ]
+  },
+  {
+    "value": "wsu",
+    "synonyms": [
+      "wsu",
+      "Sordun",
+      "courtaut",
+      "sordone",
+      "sordun"
+    ]
+  },
+  {
+    "value": "kmp",
+    "synonyms": [
+      "kmp",
+      "melopiano"
+    ]
+  },
+  {
+    "value": "val",
+    "synonyms": [
+      "val",
+      "Alt",
+      "alto",
+      "altus",
+      "contralto"
+    ]
+  },
+  {
+    "value": "s",
+    "synonyms": [
+      "s",
+      "Archi",
+      "Strings, bowed"
+    ]
+  },
+  {
+    "value": "zzz",
+    "synonyms": [
+      "zzz",
+      "executante - outro",
+      "interprete - altro",
+      "interprète - autre",
+      "intérprete - otro",
+      "performer - other"
+    ]
+  },
+  {
+    "value": "cch",
+    "synonyms": [
+      "cch",
+      "Kinderchor",
+      "children\u0027s choir",
+      "choeur d\u0027enfants",
+      "coro di voci bianche",
+      "coro infantil",
+      "escolanía"
+    ]
+  },
+  {
+    "value": "kcl",
+    "synonyms": [
+      "kcl",
+      "Clavichord",
+      "clavichord",
+      "clavicorde",
+      "clavicordio",
+      "clavicordo",
+      "clavicórdio"
+    ]
+  },
+  {
+    "value": "tmd",
+    "synonyms": [
+      "tmd",
+      "mandola",
+      "mandore"
+    ]
+  },
+  {
+    "value": "ema",
+    "synonyms": [
+      "ema",
+      "Ondes Martenot",
+      "ondas Martenot",
+      "onde Martenot",
+      "ondes Martenot"
+    ]
+  },
+  {
+    "value": "bkb",
+    "synonyms": [
+      "bkb",
+      "Klappenhorn",
+      "bugle de llaves",
+      "bugle à clefs",
+      "corneta de chaves",
+      "cornetta a chiavi",
+      "keyed bugle"
+    ]
+  },
+  {
+    "value": "c",
+    "synonyms": [
+      "c",
+      "Choruses",
+      "Cori"
+    ]
+  },
+  {
+    "value": "pra",
+    "synonyms": [
+      "pra",
+      "  רעשן‎  ",
+      "Ratsche",
+      "cega-rega",
+      "crécelle",
+      "matraca",
+      "raganella",
+      "ratchet"
+    ]
+  },
+  {
+    "value": "wdp",
+    "synonyms": [
+      "wdp",
+      "doppione"
+    ]
+  },
+  {
+    "value": "ope",
+    "synonyms": [
+      "ope",
+      "Schlagzeugensemble",
+      "grupo de percussão",
+      "orchestra di percussioni",
+      "orchestre de percussions",
+      "orquesta de percusión",
+      "percussion orchestra"
+    ]
+  },
+  {
+    "value": "bsx",
+    "synonyms": [
+      "bsx",
+      "Salpinx",
+      "salpinx"
+    ]
+  },
+  {
+    "value": "pmb",
+    "synonyms": [
+      "pmb",
+      "Marimba",
+      "marimba"
+    ]
+  },
+  {
+    "value": "vhc",
+    "synonyms": [
+      "vhc",
+      "haute-contre"
+    ]
+  },
+  {
+    "value": "pbo",
+    "synonyms": [
+      "pbo",
+      "bongo",
+      "bongos",
+      "bongó",
+      "bongós"
+    ]
+  },
+  {
+    "value": "pxr",
+    "synonyms": [
+      "pxr",
+      "Xylorimba",
+      "xilomarimba",
+      "xylorimba"
+    ]
+  },
+  {
+    "value": "wcr",
+    "synonyms": [
+      "wcr",
+      "Krummhorn",
+      "cromorne",
+      "cromorno"
+    ]
+  },
+  {
+    "value": "wvu",
+    "synonyms": [
+      "wvu",
+      "voce umana",
+      "vox",
+      "vox humana"
+    ]
+  },
+  {
+    "value": "wfi",
+    "synonyms": [
+      "wfi",
+      "fife",
+      "fifre",
+      "piffero",
+      "pífano",
+      "pífaro"
+    ]
+  },
+  {
+    "value": "ost",
+    "synonyms": [
+      "ost",
+      "Streichorchester",
+      "orchestra d\u0027archi",
+      "orchestre à cordes",
+      "orquesta de cuerdas",
+      "orquestra de cordas",
+      "string orchestra"
+    ]
+  },
+  {
+    "value": "eun",
+    "synonyms": [
+      "eun",
+      "electronic",
+      "electrónica",
+      "electrónico",
+      "elettronico",
+      "instrument électronique"
+    ]
+  },
+  {
+    "value": "kce",
+    "synonyms": [
+      "kce",
+      "Celesta",
+      "celesta",
+      "célesta"
+    ]
+  },
+  {
+    "value": "tbi",
+    "synonyms": [
+      "tbi",
+      "biwa"
+    ]
+  },
+  {
+    "value": "vcl",
+    "synonyms": [
+      "vcl",
+      "contratenor altus"
+    ]
+  },
+  {
+    "value": "eme",
+    "synonyms": [
+      "eme",
+      "meta-Instrument",
+      "meta-instrument",
+      "meta-instrumento",
+      "metastrumento",
+      "méta-instrument"
+    ]
+  },
+  {
+    "value": "pmd",
+    "synonyms": [
+      "pmd",
+      "caja",
+      "military drum",
+      "tambor militar",
+      "tambour militaire",
+      "tamburo militare"
+    ]
+  },
+  {
+    "value": "bph",
+    "synonyms": [
+      "bph",
+      "Posthorn",
+      "cornet de poste",
+      "corneta de posta",
+      "corneta de postilhão",
+      "cornetta da postiglione",
+      "post horn"
+    ]
+  },
+  {
+    "value": "sdf",
+    "synonyms": [
+      "sdf",
+      "contrabbasso a cinque corde",
+      "contrebasse à cinq cordes",
+      "five-string double bass"
+    ]
+  },
+  {
+    "value": "eds",
+    "synonyms": [
+      "eds",
+      "Digital-Raumklang-Anlage",
+      "digital space device",
+      "dispositivo espacial digital",
+      "dispositivo spaziale digitale"
+    ]
+  },
+  {
+    "value": "wobe",
+    "synonyms": [
+      "wobe",
+      "heckelfone",
+      "heckelfono",
+      "heckelfón",
+      "heckelphon",
+      "heckelphone"
+    ]
+  },
+  {
+    "value": "vunl",
+    "synonyms": [
+      "vunl",
+      "low voice",
+      "tiefe stimme",
+      "voce grave",
+      "voix grave",
+      "voz baja",
+      "voz grave"
+    ]
+  },
+  {
+    "value": "wpo",
+    "synonyms": [
+      "wpo",
+      "Schalmei",
+      "bombarda",
+      "bombarde",
+      "pommer"
+    ]
+  },
+  {
+    "value": "svgf",
+    "synonyms": [
+      "svgf",
+      "basse de viole"
+    ]
+  },
+  {
+    "value": "mmi",
+    "synonyms": [
+      "mmi",
+      "Mirliton",
+      "mirliton",
+      "mirlitón"
+    ]
+  },
+  {
+    "value": "btrj",
+    "synonyms": [
+      "btrj",
+      "clarintrompete",
+      "high trumpet",
+      "trompete aguda"
+    ]
+  },
+  {
+    "value": "mss",
+    "synonyms": [
+      "mss",
+      "Klangskulptur",
+      "scultura sonora",
+      "sound sculpture"
+    ]
+  },
+  {
+    "value": "ely",
+    "synonyms": [
+      "ely",
+      "Blaswandler",
+      "liricon",
+      "lyricon"
+    ]
+  },
+  {
+    "value": "tma",
+    "synonyms": [
+      "tma",
+      "bandolim",
+      "mandolin",
+      "mandolina",
+      "mandoline",
+      "mandolino"
+    ]
+  },
+  {
+    "value": "wpp",
+    "synonyms": [
+      "wpp",
+      "Panflöte",
+      "flauta de Pan",
+      "flauta de pan",
+      "flauto di pan",
+      "flûte de pan",
+      "panpipes",
+      "syrinx"
+    ]
+  },
+  {
+    "value": "bzz",
+    "synonyms": [
+      "bzz",
+      "Blechblasinstrumente - andere",
+      "brass - other",
+      "cuivre - autre",
+      "metais - outros",
+      "metales - otros",
+      "ottoni - altro"
+    ]
+  },
+  {
+    "value": "wre",
+    "synonyms": [
+      "wre",
+      "Blockflöte",
+      "flauta",
+      "flauta de pico",
+      "flauto a becco",
+      "flûte à bec",
+      "recorder"
+    ]
+  },
+  {
+    "value": "pad",
+    "synonyms": [
+      "pad",
+      "arabian drum",
+      "darabukke",
+      "darbouka",
+      "darbuka",
+      "derbake"
+    ]
+  },
+  {
+    "value": "oie",
+    "synonyms": [
+      "oie",
+      "complesso strumentale",
+      "conjunto instrumental",
+      "ensemble instrumental",
+      "instrumental ensemble",
+      "instrumentalensemble"
+    ]
+  },
+  {
+    "value": "vwo",
+    "synonyms": [
+      "vwo",
+      "voce femminile",
+      "voix de femme",
+      "voz de mujer",
+      "voz feminina",
+      "woman\u0027s voice"
+    ]
+  },
+  {
+    "value": "prt",
+    "synonyms": [
+      "prt",
+      "roto-toms",
+      "rototoms"
+    ]
+  },
+  {
+    "value": "pvs",
+    "synonyms": [
+      "pvs",
+      "queixada",
+      "vibra-slap",
+      "vibraslap"
+    ]
+  },
+  {
+    "value": "svg",
+    "synonyms": [
+      "svg",
+      "Viola Da Gamba",
+      "viol",
+      "viola da gamba",
+      "viola de gamba",
+      "viole de gambe"
+    ]
+  },
+  {
+    "value": "mgt",
+    "synonyms": [
+      "mgt",
+      "glass trumpet",
+      "trompette de verre"
+    ]
+  },
+  {
+    "value": "pir",
+    "synonyms": [
+      "pir",
+      "intonarumori"
+    ]
+  },
+  {
+    "value": "ect",
+    "synonyms": [
+      "ect",
+      "Computer-Zuspielaufnahme",
+      "bande réalisée par ordinateur, sons fixés",
+      "computerized tape",
+      "fita computorizada",
+      "nastro realizzato da computer"
+    ]
+  },
+  {
+    "value": "bdx",
+    "synonyms": [
+      "bdx",
+      "Duplexinstrument",
+      "dublophone",
+      "duplex"
+    ]
+  },
+  {
+    "value": "tct",
+    "synonyms": [
+      "tct",
+      "Zitole",
+      "cistre",
+      "citola",
+      "citole"
+    ]
+  },
+  {
+    "value": "weh",
+    "synonyms": [
+      "weh",
+      "cor anglais",
+      "corne inglês",
+      "corno inglese",
+      "corno inglés",
+      "english horn"
+    ]
+  },
+  {
+    "value": "m",
+    "synonyms": [
+      "m",
+      "Miscellaneous, other, unspecified instruments",
+      "Miscellani, altri, strumenti non specificati"
+    ]
+  },
+  {
+    "value": "bht",
+    "synonyms": [
+      "bht",
+      "Fanfaren-Trompete",
+      "buisine",
+      "herald\u0027s trumpet",
+      "tromba dritta",
+      "trombeta direita"
+    ]
+  },
+  {
+    "value": "zac",
+    "synonyms": [
+      "zac",
+      "acteur enfant",
+      "actor niño",
+      "ator - criança",
+      "attore bambino",
+      "child actor"
+    ]
+  },
+  {
+    "value": "obr",
+    "synonyms": [
+      "obr",
+      "Brassband",
+      "banda de viento metal",
+      "brass band",
+      "fanfara",
+      "fanfare",
+      "fanfarra"
+    ]
+  },
+  {
+    "value": "btbg",
+    "synonyms": [
+      "btbg",
+      "contrabass trombone",
+      "trombone contrabaixo"
+    ]
+  },
+  {
+    "value": "sve",
+    "synonyms": [
+      "sve",
+      "contrabaixo de viola",
+      "violone",
+      "violón"
+    ]
+  },
+  {
+    "value": "moc",
+    "synonyms": [
+      "moc",
+      "Okarina",
+      "ocarina"
+    ]
+  },
+  {
+    "value": "wbh",
+    "synonyms": [
+      "wbh",
+      "basset-horn",
+      "bassetthorn",
+      "cor de basset",
+      "corno di bassetto"
+    ]
+  },
+  {
+    "value": "scr",
+    "synonyms": [
+      "scr",
+      "Rotta",
+      "crota",
+      "crotta",
+      "crwth",
+      "rota"
+    ]
+  },
+  {
+    "value": "mpo",
+    "synonyms": [
+      "mpo",
+      "Harmonieinstrument",
+      "instrument harmonique",
+      "instrumento harmónico",
+      "instrumento polifónico",
+      "polyphonic instrument",
+      "strumento armonico"
+    ]
+  },
+  {
+    "value": "mun",
+    "synonyms": [
+      "mun",
+      "Instrument oder Singstimme",
+      "instrument or voice",
+      "instrument ou voix",
+      "instrumento o voz",
+      "instrumento ou voz, não especificado",
+      "strumento o voce"
+    ]
+  },
+  {
+    "value": "svlj",
+    "synonyms": [
+      "svlj",
+      "quartgeige"
+    ]
+  },
+  {
+    "value": "kun__y",
+    "synonyms": [
+      "kun__y",
+      "clavier - ethnique",
+      "keyboard - ethnic",
+      "tastenistrument - ethnisch",
+      "tastiera - etnico",
+      "teclado - étnico"
+    ]
+  },
+  {
+    "value": "pgo",
+    "synonyms": [
+      "pgo",
+      "gong",
+      "tam-tam"
+    ]
+  },
+  {
+    "value": "oja",
+    "synonyms": [
+      "oja",
+      "Jazzband",
+      "banda de jazz",
+      "complesso jazz",
+      "ensemble de jazz",
+      "grupo de jazz",
+      "jazz band"
+    ]
+  },
+  {
+    "value": "wclj",
+    "synonyms": [
+      "wclj",
+      "clarinette piccolo",
+      "clarinetto piccolo",
+      "piccolo clarinet"
+    ]
+  },
+  {
+    "value": "bch",
+    "synonyms": [
+      "bch",
+      "Stierhorn",
+      "corno",
+      "corno di toro",
+      "cow horn"
+    ]
+  },
+  {
+    "value": "vre",
+    "synonyms": [
+      "vre",
+      "Sprechrolle",
+      "narrador",
+      "reciting voice",
+      "voce recitante",
+      "voix parlée"
+    ]
+  },
+  {
+    "value": "pst",
+    "synonyms": [
+      "pst",
+      "steel drum",
+      "tambor de metal",
+      "tambores metálicos de Trinidad y Tobago",
+      "tambour d\u0027acier",
+      "tamburo di ferro"
+    ]
+  },
+  {
+    "value": "kcy",
+    "synonyms": [
+      "kcy",
+      "Claviziterium",
+      "claveciterio",
+      "claviciterio",
+      "clavicytherium"
+    ]
+  },
+  {
+    "value": "emu",
+    "synonyms": [
+      "emu",
+      "Multimedia Gerät",
+      "dispositif multimédia",
+      "dispositivo multimedial",
+      "dispositivo multimediale",
+      "dispositivo multimédia",
+      "multimedial device"
+    ]
+  },
+  {
+    "value": "wsh",
+    "synonyms": [
+      "wsh",
+      "shakuhachi"
+    ]
+  },
+  {
+    "value": "tsh",
+    "synonyms": [
+      "tsh",
+      "shamisen"
+    ]
+  },
+  {
+    "value": "wun",
+    "synonyms": [
+      "wun",
+      "bois",
+      "holzbläser",
+      "instrumento de viento madera",
+      "legni",
+      "madeiras",
+      "woodwind"
+    ]
+  },
+  {
+    "value": "bwt",
+    "synonyms": [
+      "bwt",
+      "Wagnertuba",
+      "tuba Wagner",
+      "tuba wagneriana",
+      "wagner tuba"
+    ]
+  },
+  {
+    "value": "bopg",
+    "synonyms": [
+      "bopg",
+      "contrabass ophicleide",
+      "oficleide contrabaixo"
+    ]
+  },
+  {
+    "value": "btug",
+    "synonyms": [
+      "btug",
+      "contrabass tuba",
+      "tuba contrabaixo"
+    ]
+  },
+  {
+    "value": "szz",
+    "synonyms": [
+      "szz",
+      "archi - altro",
+      "cordas - outro",
+      "cordes frottées - autre",
+      "instrumento de cuerda frotada - otro",
+      "strings, bowed - other"
+    ]
+  },
+  {
+    "value": "vunj",
+    "synonyms": [
+      "vunj",
+      "high voice",
+      "hohe stimme",
+      "voce acuta",
+      "voix haute",
+      "voz aguda",
+      "voz alta"
+    ]
+  },
+  {
+    "value": "kba",
+    "synonyms": [
+      "kba",
+      "Bandoneon",
+      "bandoneon",
+      "bandonéon"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sun",
+      "archi",
+      "cordas, friccionadas",
+      "cordes frottées",
+      "instrumento de cuerda frotada",
+      "strings, bowed"
+    ]
+  },
+  {
+    "value": "mbx",
+    "synonyms": [
+      "mbx",
+      "Spieldose",
+      "boîte à musique",
+      "caixa de música",
+      "caja de música",
+      "musical box",
+      "scatola musicale"
+    ]
+  },
+  {
+    "value": "bvbc",
+    "synonyms": [
+      "bvbc",
+      "althorn",
+      "flicorno contralto",
+      "saxhorn alto",
+      "tenor horn"
+    ]
+  },
+  {
+    "value": "pte",
+    "synonyms": [
+      "pte",
+      "Tempelblock",
+      "bloque de templo",
+      "temple block"
+    ]
+  },
+  {
+    "value": "bun",
+    "synonyms": [
+      "bun",
+      "Blechbläser",
+      "brass",
+      "cuivre",
+      "metais",
+      "metales",
+      "ottoni"
+    ]
+  },
+  {
+    "value": "wch",
+    "synonyms": [
+      "wch",
+      "chalumeau",
+      "charamela"
+    ]
+  },
+  {
+    "value": "psw",
+    "synonyms": [
+      "psw",
+      "Rute",
+      "cepillo",
+      "fouet de verges",
+      "rute",
+      "switch whip",
+      "vergas"
+    ]
+  },
+  {
+    "value": "kpf__s",
+    "synonyms": [
+      "kpf__s",
+      "electronic piano",
+      "piano eletrónico",
+      "piano elettronico",
+      "piano électronique"
+    ]
+  },
+  {
+    "value": "ptc",
+    "synonyms": [
+      "ptc",
+      "chapeau chinois",
+      "chapéu chinês",
+      "chinesco",
+      "mezzaluna",
+      "turkish crescent"
+    ]
+  },
+  {
+    "value": "sbu",
+    "synonyms": [
+      "sbu",
+      "Bumbass",
+      "basse de flandre",
+      "bumbass",
+      "bumbassa"
+    ]
+  },
+  {
+    "value": "wcm",
+    "synonyms": [
+      "wcm",
+      "ciaramella",
+      "dulzaina",
+      "oboé pastoril"
+    ]
+  },
+  {
+    "value": "b",
+    "synonyms": [
+      "b",
+      "Brass instruments",
+      "Ottoni"
+    ]
+  },
+  {
+    "value": "vrc",
+    "synonyms": [
+      "vrc",
+      "reciting child\u0027s voice",
+      "récitant enfant",
+      "voce bianca recitante",
+      "voz falada - criança"
+    ]
+  },
+  {
+    "value": "eco",
+    "synonyms": [
+      "eco",
+      "Computer",
+      "computador",
+      "computer",
+      "ordenador",
+      "ordinateur"
+    ]
+  },
+  {
+    "value": "zmi",
+    "synonyms": [
+      "zmi",
+      "mime",
+      "mimo",
+      "mímico"
+    ]
+  },
+  {
+    "value": "pzz",
+    "synonyms": [
+      "pzz",
+      "percusión - otro",
+      "percussion - other",
+      "percussioni - altro",
+      "percussions - autre",
+      "percussão - outros"
+    ]
+  },
+  {
+    "value": "och",
+    "synonyms": [
+      "och",
+      "Kammerorchester",
+      "chamber orchestra",
+      "orchestra da camera",
+      "orchestre de chambre",
+      "orquesta de cámara",
+      "orquestra de câmara"
+    ]
+  },
+  {
+    "value": "bvba",
+    "synonyms": [
+      "bvba",
+      "flicorno sopranino",
+      "petit bugle"
+    ]
+  },
+  {
+    "value": "tbj",
+    "synonyms": [
+      "tbj",
+      "Banjo",
+      "banjo",
+      "banyo"
+    ]
+  },
+  {
+    "value": "vca",
+    "synonyms": [
+      "vca",
+      "alto enfant",
+      "child alto",
+      "contralto - criança",
+      "contralto voce bianca"
+    ]
+  },
+  {
+    "value": "osb",
+    "synonyms": [
+      "osb",
+      "steel band",
+      "steelband"
+    ]
+  },
+  {
+    "value": "pbd",
+    "synonyms": [
+      "pbd",
+      "bass drum",
+      "bombo",
+      "grancassa",
+      "grosse caisse"
+    ]
+  },
+  {
+    "value": "cun",
+    "synonyms": [
+      "cun",
+      "Chor",
+      "choeur",
+      "choir",
+      "coro"
+    ]
+  },
+  {
+    "value": "tun",
+    "synonyms": [
+      "tun",
+      "cordes pincées",
+      "dedilhado",
+      "instrumento de cuerda punteada",
+      "pizzicati",
+      "strings, plucked"
+    ]
+  },
+  {
+    "value": "tud",
+    "synonyms": [
+      "tud",
+      "\u0027ud",
+      "oud"
+    ]
+  },
+  {
+    "value": "zwp",
+    "synonyms": [
+      "zwp",
+      "Statist",
+      "comparsa",
+      "extra",
+      "figurant",
+      "figurante",
+      "walk-on part"
+    ]
+  },
+  {
+    "value": "wbaj",
+    "synonyms": [
+      "wbaj",
+      "fagottino",
+      "tenoroon"
+    ]
+  },
+  {
+    "value": "zas",
+    "synonyms": [
+      "zas",
+      "acteur muet",
+      "ator mudo",
+      "attore muto",
+      "silent actor"
+    ]
+  },
+  {
+    "value": "mui__y",
+    "synonyms": [
+      "mui__y",
+      "instrument - ethnic",
+      "instrument - ethnique",
+      "instrument - ethnisch",
+      "instrumento - étnico"
+    ]
+  },
+  {
+    "value": "qzz",
+    "synonyms": [
+      "qzz",
+      "conductor - other",
+      "directeur - autre",
+      "director - otro",
+      "direttore - altro",
+      "maestro - outro"
+    ]
+  },
+  {
+    "value": "vzz",
+    "synonyms": [
+      "vzz",
+      "voce - altro",
+      "voice - other",
+      "voix - autre",
+      "voz - otra",
+      "voz - outra"
+    ]
+  },
+  {
+    "value": "wfl",
+    "synonyms": [
+      "wfl",
+      "Flöte",
+      "flauta",
+      "flauta transversal",
+      "flauto",
+      "flute",
+      "flûte"
+    ]
+  },
+  {
+    "value": "tpi",
+    "synonyms": [
+      "tpi",
+      "pipa"
+    ]
+  },
+  {
+    "value": "sob",
+    "synonyms": [
+      "sob",
+      "Oktobass",
+      "octabajo",
+      "octobass",
+      "octobasse",
+      "octobasso",
+      "ottobasso"
+    ]
+  },
+  {
+    "value": "pbr",
+    "synonyms": [
+      "pbr",
+      "bronte",
+      "bronté"
+    ]
+  },
+  {
+    "value": "mah",
+    "synonyms": [
+      "mah",
+      "aeolian harp",
+      "arpa eolia",
+      "arpa eólica",
+      "harpa eólica",
+      "harpe éolienne",
+      "Äolsharfe"
+    ]
+  },
+  {
+    "value": "z",
+    "synonyms": [
+      "z",
+      "Altri esecutori",
+      "Other performers"
+    ]
+  },
+  {
+    "value": "vte",
+    "synonyms": [
+      "vte",
+      "tenor",
+      "tenore",
+      "ténor"
+    ]
+  },
+  {
+    "value": "tth",
+    "synonyms": [
+      "tth",
+      "Theorbe",
+      "theorbo",
+      "théorbe",
+      "tiorba"
+    ]
+  },
+  {
+    "value": "qlc",
+    "synonyms": [
+      "qlc",
+      "director de luzes",
+      "direttore delle luci",
+      "light conductor"
+    ]
+  },
+  {
+    "value": "qce",
+    "synonyms": [
+      "qce",
+      "director de live electronic",
+      "direttore di live electronic",
+      "live electronic conductor"
+    ]
+  },
+  {
+    "value": "wge",
+    "synonyms": [
+      "wge",
+      "Gemshorn",
+      "cor de chamois",
+      "corno di camoscio",
+      "gemscorno",
+      "gemshorn"
+    ]
+  },
+  {
+    "value": "vun__w",
+    "synonyms": [
+      "vun__w",
+      "recorded voice",
+      "voce registrata",
+      "voix enregistrée",
+      "voz grabada",
+      "voz gravada"
+    ]
+  },
+  {
+    "value": "esy",
+    "synonyms": [
+      "esy",
+      "sintetizador",
+      "sintetizzatore",
+      "synthesizer",
+      "synthétiseur"
+    ]
+  },
+  {
+    "value": "svd",
+    "synonyms": [
+      "svd",
+      "Liebesgeige",
+      "viola d\u0027amore",
+      "viola de amor",
+      "viole d\u0027amour"
+    ]
+  },
+  {
+    "value": "bse",
+    "synonyms": [
+      "bse",
+      "Serpent",
+      "serpent",
+      "serpentone",
+      "serpentão",
+      "serpentón"
+    ]
+  },
+  {
+    "value": "bsr",
+    "synonyms": [
+      "bsr",
+      "sarrusophone"
+    ]
+  },
+  {
+    "value": "tun__y",
+    "synonyms": [
+      "tun__y",
+      "cordes pincées - ethnique",
+      "dedilhado - étnico",
+      "instrumento de cuerda punteada - étnico",
+      "pizzicati - etnico",
+      "strings, plucked - ethnic"
+    ]
+  },
+  {
+    "value": "kor",
+    "synonyms": [
+      "kor",
+      "organ",
+      "organo",
+      "organum",
+      "orgel",
+      "orgue",
+      "órgano",
+      "órgão"
+    ]
+  },
+  {
+    "value": "spv",
+    "synonyms": [
+      "spv",
+      "pardessus de viole",
+      "quinton",
+      "quintone"
+    ]
+  },
+  {
+    "value": "sva",
+    "synonyms": [
+      "sva",
+      "Bratsche",
+      "alto",
+      "viola",
+      "viola de arco"
+    ]
+  },
+  {
+    "value": "svc",
+    "synonyms": [
+      "svc",
+      "cello",
+      "violoncelle",
+      "violoncello",
+      "violoncelo",
+      "violonchelo"
+    ]
+  },
+  {
+    "value": "pbl",
+    "synonyms": [
+      "pbl",
+      "Glocke",
+      "bells",
+      "campanas",
+      "campane",
+      "cloches",
+      "sinos tubolares"
+    ]
+  },
+  {
+    "value": "pan",
+    "synonyms": [
+      "pan",
+      "anvil",
+      "bigorna",
+      "enclume",
+      "incudine"
+    ]
+  },
+  {
+    "value": "bvbb",
+    "synonyms": [
+      "bvbb",
+      "bugle",
+      "flicorno soprano",
+      "flugelhorn",
+      "flügelhorn"
+    ]
+  },
+  {
+    "value": "owi",
+    "synonyms": [
+      "owi",
+      "blasorchester",
+      "conjunto de sopros",
+      "orchestra di fiati",
+      "orchestre de vents",
+      "orquesta de vientos",
+      "wind orchestra"
+    ]
+  },
+  {
+    "value": "btb",
+    "synonyms": [
+      "btb",
+      "Posaune",
+      "trombone",
+      "trombone à coulisse",
+      "trombón"
+    ]
+  },
+  {
+    "value": "vma",
+    "synonyms": [
+      "vma",
+      "man\u0027s voice",
+      "voce maschile",
+      "voix d\u0027homme",
+      "voz de hombre",
+      "voz masculina"
+    ]
+  },
+  {
+    "value": "btr",
+    "synonyms": [
+      "btr",
+      "Trompete",
+      "tromba",
+      "trompeta",
+      "trompete",
+      "trompette",
+      "trumpet"
+    ]
+  },
+  {
+    "value": "bun__y",
+    "synonyms": [
+      "bun__y",
+      "Blechbläser - ethnisch",
+      "brass - ethnic",
+      "cuivre - ethnique",
+      "metais - étnico",
+      "metales - étrnico",
+      "ottoni - etnico"
+    ]
+  },
+  {
+    "value": "zaw",
+    "synonyms": [
+      "zaw",
+      "actress",
+      "actrice",
+      "actriz",
+      "atriz",
+      "attrice"
+    ]
+  },
+  {
+    "value": "pha",
+    "synonyms": [
+      "pha",
+      "hammer",
+      "marteau",
+      "martello",
+      "martelo",
+      "martillo"
+    ]
+  },
+  {
+    "value": "wpod",
+    "synonyms": [
+      "wpod",
+      "tenora"
+    ]
+  },
+  {
+    "value": "oco",
+    "synonyms": [
+      "oco",
+      "Combo",
+      "combo"
+    ]
+  },
+  {
+    "value": "tpx",
+    "synonyms": [
+      "tpx",
+      "phorminx"
+    ]
+  },
+  {
+    "value": "pbp",
+    "synonyms": [
+      "pbp",
+      "campane a lastra",
+      "cloches-plaques",
+      "metal bells plate",
+      "placa de metal"
+    ]
+  },
+  {
+    "value": "tih",
+    "synonyms": [
+      "tih",
+      "Irish harp",
+      "arpa céltica",
+      "arpa irlandese",
+      "harpe celtique"
+    ]
+  },
+  {
+    "value": "pcb",
+    "synonyms": [
+      "pcb",
+      "cabaca",
+      "cabaza",
+      "cabaça",
+      "calabaza",
+      "calebasse"
+    ]
+  },
+  {
+    "value": "wro",
+    "synonyms": [
+      "wro",
+      "rothfono",
+      "rothophone"
+    ]
+  },
+  {
+    "value": "svp",
+    "synonyms": [
+      "svp",
+      "viola pomposa"
+    ]
+  },
+  {
+    "value": "vctc",
+    "synonyms": [
+      "vctc",
+      "contratenor altus"
+    ]
+  },
+  {
+    "value": "vrm",
+    "synonyms": [
+      "vrm",
+      "reciting man\u0027s voice",
+      "récitant homme",
+      "voce recitante uomo",
+      "voz falada - homem"
+    ]
+  },
+  {
+    "value": "sny",
+    "synonyms": [
+      "sny",
+      "Nyckelharpa",
+      "keyed fiddle",
+      "nyckelharpa",
+      "viella a tasti",
+      "violino de teclas",
+      "violín de llaves",
+      "симфония"
+    ]
+  },
+  {
+    "value": "khp",
+    "synonyms": [
+      "khp",
+      "Cembalo",
+      "clave",
+      "clavecin",
+      "clavicembalo",
+      "cravo",
+      "harpsichord"
+    ]
+  },
+  {
+    "value": "pcv",
+    "synonyms": [
+      "pcv",
+      "Holzstäbe",
+      "claves"
+    ]
+  },
+  {
+    "value": "mwd",
+    "synonyms": [
+      "mwd",
+      "Blasinstrument",
+      "aerofone",
+      "instrument à vent",
+      "instrumento de viento",
+      "strumento a fiato",
+      "wind instrument"
+    ]
+  },
+  {
+    "value": "mml",
+    "synonyms": [
+      "mml",
+      "Melodieinstrument",
+      "instrument mélodique",
+      "instrumento melódico",
+      "melodic instrument",
+      "strumento melodico"
+    ]
+  },
+  {
+    "value": "vrw",
+    "synonyms": [
+      "vrw",
+      "reciting woman\u0027s voice",
+      "récitante",
+      "voce recitante donna",
+      "voz falada - mulher"
+    ]
+  },
+  {
+    "value": "eth",
+    "synonyms": [
+      "eth",
+      "Theremin",
+      "teremin",
+      "theremin",
+      "thereminovox",
+      "theremín"
+    ]
+  },
+  {
+    "value": "tzi",
+    "synonyms": [
+      "tzi",
+      "cithare",
+      "cítara",
+      "zither"
+    ]
+  },
+  {
+    "value": "tvi",
+    "synonyms": [
+      "tvi",
+      "vihuela"
+    ]
+  },
+  {
+    "value": "psc",
+    "synonyms": [
+      "psc",
+      "cymbale cloutée",
+      "piatto chiodato",
+      "prato jazz",
+      "sizzle cymbals"
+    ]
+  },
+  {
+    "value": "kac",
+    "synonyms": [
+      "kac",
+      "Akkordeon",
+      "accordion",
+      "accordéon",
+      "acordeão",
+      "acordeón",
+      "fisarmonica"
+    ]
+  },
+  {
+    "value": "bop",
+    "synonyms": [
+      "bop",
+      "Ophikleide",
+      "figle",
+      "oficleide",
+      "ophicleide",
+      "ophicleïde"
+    ]
+  },
+  {
+    "value": "pme",
+    "synonyms": [
+      "pme",
+      "metallofono",
+      "metallophone",
+      "metalofone",
+      "metalofóno",
+      "métallophone"
+    ]
+  },
+  {
+    "value": "bvbi",
+    "synonyms": [
+      "bvbi",
+      "corneto agudo",
+      "oktav kornett",
+      "petit saxhorn suraigu",
+      "piccolo cornett"
+    ]
+  },
+  {
+    "value": "oun__y",
+    "synonyms": [
+      "oun__y",
+      "orchester - ethnisch",
+      "orchestra - ethnic",
+      "orchestra - etnica",
+      "orchestre - ethnique",
+      "orquesta - étnico"
+    ]
+  }
+]

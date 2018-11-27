@@ -1,0 +1,43 @@
+{
+  "id": "47b8fa59-031e-444d-8ac7-9be5f5194175",
+  "name": "hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi! Everyday I try to learn as much as possible about music. Try me if you don\u0027t believe it!"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Salut! Je suis DOREMUS Bot! Tous les jours j\u0027essaie d\u0027apprendre informations sur la musique classique!"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Hey ciao. Ogni giorno cerco di imparare il più possibile sulla musica classica. Mettimi alla prova se non ci credi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530955828,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

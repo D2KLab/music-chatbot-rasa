@@ -1,0 +1,160 @@
+slots:
+  date-period:
+    type: text
+  geo-city:
+    type: text
+  doremus-artist:
+    type: text
+  doremus-instrument:
+    type: text
+  doremus-genre:
+    type: text
+  number:
+    type: text
+  doremus-strictly:
+    type: text
+  discover-artist:
+    type: float
+    min_value: 0
+    max_value: 10
+  works-by-followup:
+    type: float
+    min_value: 0
+    max_value: 10
+  requested_slot:
+    type: unfeaturized
+
+intents:
+ - Default Fallback Intent
+ - Default Welcome Intent
+ - discover-artist
+ - find-artist
+ - find-performance
+ - hello
+ - help
+ - reset
+ - works-by - no
+ - works-by - yes
+ - works-by-artist
+ - works-by-genre
+ - works-by-instrument
+ - works-by-years
+ - works-by
+
+entities:
+  - date-period
+  - geo-city
+  - doremus-artist
+  - doremus-instrument
+  - doremus-genre
+  - number
+  - doremus-strictly
+
+templates:
+ utter_input_unknown:
+  - "I didnt get that. Can you say it again?"
+  - "I missed what you said. Say it again?"
+  - "Sorry, could you say that again?"
+  - "Sorry, can you say that again?"
+  - "Can you say that again?"
+  - "Sorry, I didnt get that."
+  - "Sorry, what was that?"
+  - "One more time?"
+  - "What was that?"
+  - "Say that again?"
+  - "I didnt get that."
+  - "I missed that."
+ utter_input_welcome:
+  - "Hi!"
+  - "Hello!"
+  - "Good day!"
+  - "Greetings!"
+  - "Hi! Everyday I try to learn as much as possible about music. Try me if you dont believe it!"
+ utter_discover_artist:
+  - "Discovering Artist..." 
+ utter_discover_artist_follow_up_doremus_artist:
+
+  - "Ok! Who is the artist?"
+  - "Which artist?"
+  - "Can you tell me the name of the artist?"
+ utter_find_artist:
+  - "finding artist..."
+ utter_find_performance:
+  - "finding performance..."
+ utter_find_performance_follow_up_date_period:
+  - "In which period?"
+  - "When?"
+ utter_help:
+  - "I can do a lot of things... For example, ask me \"Give me 2 works by Mozart!\", or... \"Tell me something about Vivaldi\", or... \"Are there any events next week?\". Start now if you want! Find more example here: https://github.com/D2KLab/music-chatbot/blob/master/README.md#bot-features"
+ utter_reset:
+  - "Bye! I hope to chat with you again really soon!"
+  - "See you later!"
+  - "Okay, see you!"
+  - "Bye bye. Call me when you need!"
+ utter_works_by_works_by_no:
+  - "ok!"
+ utter_works_by_works_by_yes:
+  - "Ok, tell me what"
+ utter_works_by_artist:
+  - "Perfect! Do you want to add something?"
+ utter_works_by_artist_follow_up_doremus_artist:
+
+  - "Sure! Who is the artist?"
+ utter_works_by_genre:
+  - "Ok! Est-ce que tu veux ajouter quelque chose?"
+  - "Perfect! Do you want to add something?"
+ utter_works_by_genre_follow_up_doremus_genre:
+
+  - "Ok! Just tell me the genre, please"
+ utter_works_by_instrument:
+  - "Perfect! Do you want to add something?"
+ utter_works_by_instrument_follow_up_doremus_instrument:
+  - "Ok! Just tell me the instrument"
+ utter_works_by_years:
+  - "Perfect! Do you want to add something?"
+
+ utter_works_by_years_follow_up_date_period:
+  - "Ok! Whats the composition period?"
+  - "All right! Tell me the composition period"
+ utter_works_by:
+  - "Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period."
+  - "Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period."
+  - "No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period."
+
+
+actions:
+  - action.input_unknown
+  - utter_input_unknown
+  - action.input_welcome
+  - utter_input_welcome
+  - action.discover_artist
+  - utter_discover_artist
+  - utter_discover_artist_follow_up_doremus_artist
+  - action.find_artist
+  - utter_find_artist
+  - action.find_performance
+  - utter_find_performance
+  - utter_find_performance_follow_up_date_period
+  - action.help
+  - utter_help
+  - action.reset
+  - utter_reset
+  - action.works_by_works_by_no
+  - utter_works_by_works_by_no
+  - action.works_by_works_by_yes
+  - utter_works_by_works_by_yes
+  - action.works_by_artist
+  - utter_works_by_artist
+  - utter_works_by_artist_follow_up_doremus_artist
+  - action.works_by_genre
+  - utter_works_by_genre
+  - utter_works_by_genre_follow_up_doremus_genre
+  - action.works_by_instrument
+  - utter_works_by_instrument
+  - utter_works_by_instrument_follow_up_doremus_instrument
+  - action.works_by_years
+  - utter_works_by_years
+  - utter_works_by_years_follow_up_date_period
+  - action.works_by
+  - utter_works_by
+

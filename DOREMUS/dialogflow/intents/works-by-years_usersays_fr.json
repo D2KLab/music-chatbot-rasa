@@ -1,0 +1,136 @@
+[
+  {
+    "id": "d6d1aa9e-4f08-4f16-9804-21289fafbf65",
+    "data": [
+      {
+        "text": "Les oeuvres composées ",
+        "userDefined": false
+      },
+      {
+        "text": "en 1787",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603513
+  },
+  {
+    "id": "1c8a7a8a-7a14-43bd-a008-587e4a3cc45e",
+    "data": [
+      {
+        "text": "En 1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603513
+  },
+  {
+    "id": "bc50e344-59fb-45cb-b2bc-f30aa53ebfa2",
+    "data": [
+      {
+        "text": "L\u0027année de composition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603329
+  },
+  {
+    "id": "08cd9f68-8e36-4e75-8a7e-becca9042d2e",
+    "data": [
+      {
+        "text": "1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603513
+  },
+  {
+    "id": "180cf170-87ab-41b0-a91f-ba3f672b6d74",
+    "data": [
+      {
+        "text": "Une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "année",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de composition, ",
+        "userDefined": false
+      },
+      {
+        "text": "1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603513
+  },
+  {
+    "id": "aaeff668-f308-45eb-b38e-8f2c142d1244",
+    "data": [
+      {
+        "text": "L\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "année",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de composition, ",
+        "userDefined": false
+      },
+      {
+        "text": "1786",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603513
+  },
+  {
+    "id": "c9f52de9-4e51-4a50-8411-9f6bf6d04380",
+    "data": [
+      {
+        "text": "Une année",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de composition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525603329
+  }
+]

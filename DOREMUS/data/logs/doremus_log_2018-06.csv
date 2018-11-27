@@ -1,0 +1,758 @@
+timestamp,platform,user,channel,intent,confidence,lang,rawMessage,cleanMessage,response
+2018-6-14 16:03:35,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-14 18:19:49,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 13:59:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.75,en,"Tell me one work by Beethoven","Tell me one work by Beethoven","You told me few filters. Do you want to add something?"
+2018-6-16 14:05:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.7300000190734863,en,"Tell me one work by Beethoven","Tell me one work by Beethoven","You told me few filters. Do you want to add something?"
+2018-6-16 14:05:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks!","Ok tell me what"
+2018-6-16 14:06:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:06:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:06:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.7300000190734863,en,"Tell me one work by Beethoven","Tell me one work by Beethoven","Sure! Do you want to add some filters?"
+2018-6-16 14:06:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks!","Ok tell me what"
+2018-6-16 14:06:41,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8799999952316284,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:06:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:07:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,0.7699999809265137,en,"Nor it's OK","No it's ok!","Ok tell me what"
+2018-6-16 14:09:54,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:10:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.7300000190734863,en,"Tell me one work by Beethoven","Tell me one work by Beethoven","Ok! Do you want to add some filters?"
+2018-6-16 14:10:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks!","Ok tell me what"
+2018-6-16 14:10:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:10:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:12:19,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:12:32,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.7300000190734863,en,"Tell me one work by Beethoven","Tell me one work by Beethoven!","No problem! Do you want to add some filters?"
+2018-6-16 14:12:52,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:14:47,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:14:53,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:15:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Beethoven","Give me 2 works by Beethoven!","Sure! Do you want to add some filters?"
+2018-6-16 14:19:29,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:19:39,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Beethoven","Give me 2 works by Beethoven!","Ok! Do you want to add some filters?"
+2018-6-16 14:24:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Beethoven","Give me 2 works by Beethoven!","Ok! Do you want to add some filters?"
+2018-6-16 14:27:49,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:27:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Beethoven","Give me 2 works by Beethoven","Ok! Do you want to add some filters?"
+2018-6-16 14:27:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks","Ok tell me what"
+2018-6-16 14:28:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Beethoven","Give me one work by Beethoven","Sure! Do you want to add some filters?"
+2018-6-16 14:28:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks","Ok tell me what"
+2018-6-16 14:28:18,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:28:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:28:43,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Beethoven","Give me one work by Beethoven","No problem! Do you want to add some filters?"
+2018-6-16 14:28:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks","Ok tell me what"
+2018-6-16 14:28:52,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:28:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:28:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No it's om","No it's ok",<result_card>
+2018-6-16 14:29:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Mozart","Give me one work by Mozart","No problem! Do you want to add some filters?"
+2018-6-16 14:29:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks","Ok tell me what"
+2018-6-16 14:29:32,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:29:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:29:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No it's om","No it's ok",<result_card>
+2018-6-16 14:30:06,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Vivaldi","Give me one work by Vivaldi","Ok! Do you want to add some filters?"
+2018-6-16 14:30:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes thanks","Yes thanks","Ok tell me what"
+2018-6-16 14:30:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"An instrument","An instrument","Ok! Just tell me the instrument"
+2018-6-16 14:30:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Violin","Violin","Perfect! Do you want to add something?"
+2018-6-16 14:30:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No it's om","No it's ok",<result_card>
+2018-6-16 14:33:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.800000011920929,en,"Give me one work by Beethoven but just the one written for piano clarinet or violin","Give me one work by Beethoven but just the one written for piano clarinet or violin",<result_card>
+2018-6-16 14:33:47,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.800000011920929,en,"Give me one work by Beethoven but just the one written for piano clarinet or violin","Give me one work by Beethoven but just the one written for piano clarinet or violin",<result_card>
+2018-6-16 14:36:11,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8100000023841858,en,"Give me one work by Beethoven but just the one written for piano clarinet and violin","Give me one work by Beethoven but just the one written for piano clarinet and violin",<result_card>
+2018-6-16 14:36:32,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.800000011920929,en,"Give me one work by Beethoven but just the one written for piano clarinet or violin","Give me one work by Beethoven but just the one written for piano clarinet or violin",<result_card>
+2018-6-16 14:37:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.800000011920929,en,"Give me one work by Beethoven but just the one written for piano clarinet or violin","Give me one work by Beethoven but just the one written for piano clarinet or violin",<result_card>
+2018-6-16 14:38:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9800000190734863,en,"Give me six works by Beethoven but just the ones written for piano clarinet and violin","Give me six works by Beethoven but just the ones written for piano clarinet and violin",<result_card>
+2018-6-16 14:38:49,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9800000190734863,en,"Give me six works by Beethoven but just the ones written for piano clarinet and violin","Give me six works by Beethoven but just the ones written for piano clarinet and violin",<result_card>
+2018-6-16 14:40:51,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Tell me something about Vivaldi","Tell me something about Vivaldi",<result_card>
+2018-6-16 14:41:30,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Tell me something about Beethoven","Tell me something about Beethoven",<result_card>
+2018-6-16 14:41:39,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Tell me something about Mozart","Tell me something about Mozart",<result_card>
+2018-6-16 14:47:11,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:47:30,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.949999988079071,en,"Find me the artists who wrote more arias","Find me the artists who wrote more arias",<result_card>
+2018-6-16 14:47:57,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8500000238418579,en,"Find me the artist who wrote more arias","Find me the artist who wrote more arias",<result_card>
+2018-6-16 14:49:48,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-16 14:49:59,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8500000238418579,en,"Find me the artist who wrote more arias","Find me the artist who wrote more arias",<result_card>
+2018-6-16 14:51:04,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8500000238418579,en,"Find me the artist who wrote more arias","Find me the artist who wrote more arias",<result_card>
+2018-6-16 14:51:28,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8500000238418579,en,"Find me the artist who wrote more arias","Find me the artist who wrote more arias",<result_card>
+2018-6-16 16:18:15,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find me one artist born in Paris","Find me one artist born in Paris",<result_card>
+2018-6-16 16:18:36,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find me one artist born in Palermo","Find me one artist born in Palermo",<result_card>
+2018-6-16 16:19:08,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8999999761581421,en,"Find me one artist born in Caltanissetta","Find me one artist born in Caltanissetta",<result_card>
+2018-6-16 16:19:31,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.7300000190734863,en,"Find me on artist born in sENNA","Find me on artist born in Enna",<result_card>
+2018-6-16 16:21:52,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8999999761581421,en,"Find me one artist born in CaBana","Find me one artist born in Catania",<result_card>
+2018-6-16 16:22:40,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.7799999713897705,en,"find me an artist born in Nice","find me an artist born in Nice",<result_card>
+2018-6-16 16:23:09,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.7799999713897705,en,"Find me an artist born in Venice","Find me an artist born in Venice",<result_card>
+2018-6-16 16:23:34,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"find me one artist born in Paris","find me one artist born in Paris",<result_card>
+2018-6-18 10:54:46,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-18 10:55:04,slack,U9PUY35FD,DA0A1ALET,works-by,0.9700000286102295,en,"Tell me 2 works by Beethoven","Tell me 2 works by Beethoven","No problem! Do you want to add some filters?"
+2018-6-18 10:55:10,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-21 11:44:25,fb,1978551662217032,1978551662217032,hello,1,en,"Hello","Hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-21 11:44:47,fb,1978551662217032,1978551662217032,works-by,0.9100000262260437,en,"Give me 5 works about Beethoven","Give me 5 works about Beethoven","Ok! Do you want to add some filters?"
+2018-6-21 11:45:06,fb,1978551662217032,1978551662217032,works-by - no,1,en,"No","No",<result_card>
+2018-6-21 11:45:49,fb,1978551662217032,1978551662217032,find-performance,0.6200000047683716,en,"What are the upcoming performances","What are the upcoming performances?","In which period?"
+2018-6-21 11:46:00,fb,1978551662217032,1978551662217032,find-performance,1,en,"next week","next week",<result_card>
+2018-6-22 08:20:44,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8500000238418579,en,"Are there any events in these days","Are there any events in these days?","In which period?"
+2018-6-22 08:23:57,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Are there any events in the next month","Are there any events in the next month?",<result_card>
+2018-6-22 08:24:19,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.9100000262260437,en,"Are there any events in the 26th of June","Are there any events in the 26th of June?",<result_card>
+2018-6-22 08:24:56,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8799999952316284,en,"Are there any events on June 26th","Are there any events on June 26?",<result_card>
+2018-6-22 08:25:25,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.9100000262260437,en,"Are there any events in the 26th of June","Are there any events in the 26th of June?",<result_card>
+2018-6-22 08:33:02,slack,U9PUY35FD,DA0A1ALET,find-performance,0.9100000262260437,en,"Find me 2 performances for tomorrow","Find me 2 performances for tomorrow","In which period?"
+2018-6-22 08:33:11,slack,U9PUY35FD,DA0A1ALET,find-performance,1,en,"Tomorrow","Tomorrow","When?"
+2018-6-22 08:45:09,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7300000190734863,en,"are there any events in Lyon","are there any events in Lyon?","In which period?"
+2018-6-22 08:45:17,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"next month","next month",<result_card>
+2018-6-22 08:45:33,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8399999737739563,en,"are there any events in London next week?=","are there any events in London next week?=",<result_card>
+2018-6-22 08:47:46,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7400000095367432,en,"Are there any events in Paris","Are there any events in Paris?","In which period?"
+2018-6-22 08:47:57,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Next week","Next week!",<result_card>
+2018-6-22 08:48:24,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.800000011920929,en,"Find me 2 events in Paris","Find me 2 events in Paris?","When?"
+2018-6-22 08:48:30,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Next week","Next week",<result_card>
+2018-6-22 08:49:07,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8899999856948853,en,"Find me 2 events in Paris this week","Find me 2 events in Paris this week?",<result_card>
+2018-6-22 08:50:43,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Find me 2 performances between 25/06/2018 and 28/06/2018","Find me 2 performances between 25/06/2018 and 28/06/2018",<result_card>
+2018-6-22 08:50:54,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8199999928474426,en,"Find me 2 performances between July 25 and July 28","Find me 2 performances between july 25 and july 28",<result_card>
+2018-6-22 08:53:50,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Jonathan Dove","Talk me about Jonathan Dove",<result_card>
+2018-6-22 08:54:13,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8199999928474426,en,"Find me 2 performances between July 25 and July 28","Find me 2 performances between july 25 and july 28",<result_card>
+2018-6-22 08:54:16,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.8199999928474426,en,"Find me 2 performances between July 25 and July 28","Find me 2 performances between july 25 and july 28",<result_card>
+2018-6-22 08:59:26,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 08:59:52,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninof",<result_card>
+2018-6-22 09:00:00,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-22 09:00:09,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 09:00:13,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 09:00:16,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-22 09:01:09,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7300000190734863,en,"Talk me about Racmaninov","Talk me about Racmaninov","Ok! Who is the artist?"
+2018-6-22 09:01:34,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7300000190734863,en,"Talk me about Racmaninov","Talk me about Racmaninov","Ok! Who is the artist?"
+2018-6-22 09:01:44,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-22 09:02:08,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Racmaninoff",<result_card>
+2018-6-22 09:02:39,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7300000190734863,en,"Talk me about Racmaninof","Talk me about Racmaninof","Ok! Who is the artist?"
+2018-6-22 09:02:48,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7300000190734863,en,"Talk me about Racmaninof","Talk me about Racmaninof","Which artist?"
+2018-6-22 09:08:09,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7300000190734863,en,"Talk me about Racmaninof","Talk me about Racmaninof","Ok! Who is the artist?"
+2018-6-22 09:09:08,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 09:10:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"now give me 2 of his works","now give me 2 of his works","No problem! Do you want to add some filters?"
+2018-6-22 09:10:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"yes","yes!","Ok tell me what"
+2018-6-22 09:11:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"instrument","instrument","Ok! Just tell me the instrument"
+2018-6-22 09:11:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"only works for clarinet","only works for clarinet","Perfect! Do you want to add something?"
+2018-6-22 09:11:18,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:13:03,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 09:13:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"now give me 2 of his works","now give me 2 of his works","Sure! Do you want to add some filters?"
+2018-6-22 09:13:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the instrument","yes the instrument","Ok! Just tell me the instrument"
+2018-6-22 09:13:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"clarinet","clarinet","Perfect! Do you want to add something?"
+2018-6-22 09:13:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:13:52,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 09:13:58,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"now give me 2 of his works","now give me 2 of his works","Ok! Do you want to add some filters?"
+2018-6-22 09:14:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:28:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Piccinini","Give me 2 works by Piccinini","No problem! Do you want to add some filters?"
+2018-6-22 09:28:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:29:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Niccolo Piccinini","Give me 2 works by Niccolò Piccinini","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:30:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Niccolo Piccinini","Give me 2 works by Niccoló Piccinini","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:30:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Niccolo Piccinini","Give me 2 works by Niccoló Piccinini","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:30:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:30:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Mantilla","Give me 2 works by Latilla","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:30:31,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:33:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by Debussi","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:34:08,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by Debusy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:34:11,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:34:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:35:43,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:35:53,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"yes the composition period","yes the composition period!","Ok! What's the composition period?"
+2018-6-22 09:36:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:36:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:37:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me ten works by Debussy","Give me ten works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:37:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"yes","yes","Ok tell me what"
+2018-6-22 09:37:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8700000047683716,en,"the composition period","the composition period","Ok! What's the composition period?"
+2018-6-22 09:37:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:37:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"nope","nope",<result_card>
+2018-6-22 09:38:06,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by Debussy","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:38:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9900000095367432,en,"Give me the works by Debussy","Give me the works by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:38:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"composed between 1890 and 1900","composed between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:38:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"yes","yes","Ok tell me what"
+2018-6-22 09:38:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"the genre","the genre","Ok! Just tell me the genre please"
+2018-6-22 09:38:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"musique de chambre","musique de chambre","Quel genre?"
+2018-6-22 09:38:57,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Give me the works by Debussy","Give me the works by Debussy","Ok! Just tell me the genre please"
+2018-6-22 09:39:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Give me the works by DebussyGive me the works by DebussyGive me the works by DebussyGive me the works by Debussy","Give me the works by DebussyGive me the works by DebussyGive me the works by DebussyGive me the works by Debussy","Ok! Just tell me the genre please"
+2018-6-22 09:39:03,slack,U9Q3FND6E,D9ZCG8VCM,hello,0.8327407658797797,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:39:05,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:39:07,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9900000095367432,en,"Give me the works by Debussy","Give me the works by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:39:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8500000238418579,en,"Give me the works by Debussy composed between 1890 and 1900 of genre muskie dew chamber","Give me the works by Debussy composed between 1890 and 1900 of genre musique de chambre",<result_card>
+2018-6-22 09:40:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8500000238418579,en,"Give me the works by Debussy composed between 1890 and 1900 of genre melodic","Give me the works by Debussy composed between 1890 and 1900 of genre melodie",<result_card>
+2018-6-22 09:40:47,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9700000286102295,en,"Give me 2 melodic works by Debussy composed between 1890 and 1900","Give me 2 melodic works by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:46:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 melodies by Debussy composed between 1890 and 1900","Give me 2 melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:46:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 concertos by Debussy composed between 1890 and 1900","Give me 2 concertos by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:46:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 melodies by Debussy","Give me 2 melodies by Debussy",<result_card>
+2018-6-22 09:46:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6600000262260437,en,"Give me 2 concertos by Debussy","Give me 2 concertos by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:46:53,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:47:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 concerts by Debussy composed between 1890 and 1900","Give me 2 concerts by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:48:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 concerts by Debussy","Give me 2 concerts by Debussy",<result_card>
+2018-6-22 09:48:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:48:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 melodies by Debussy composed between 1890 and 1900","Give me 2 melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:48:24,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:48:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 concerts by Debussy","Give me 2 concerts by Debussy",<result_card>
+2018-6-22 09:48:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 concerts","Give me 2 concerts","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:48:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"yes","yes","Ok tell me what"
+2018-6-22 09:48:47,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"artist","artist","Sure! Who is the artist?"
+2018-6-22 09:48:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Debussy","debussy","Perfect! Do you want to add something?"
+2018-6-22 09:48:49,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 09:49:08,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 works by Debussy","Give me 2 works by Debussy","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:49:17,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 concerts by Debussy","Give me 2 concerts by Debussy",<result_card>
+2018-6-22 09:49:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 10 concerts by Debussy","Give me 10 concerts by Debussy",<result_card>
+2018-6-22 09:49:45,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 melodies by Debussy","Give me 2 melodies by Debussy",<result_card>
+2018-6-22 09:49:53,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me 2 concerts by Debussy","Give me 2 concerts by Debussy",<result_card>
+2018-6-22 09:50:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me 2 concerts by Debussy composed between 1890 and 1900","Give me 2 concerts by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:50:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.5099999904632568,en,"Give me the melodies by Debussy composed between 1890 and 1900","Give me the melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 09:50:44,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.5799999833106995,en,"Give me the melodies","Give me the melodies","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:50:48,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:51:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9300000071525574,en,"Give me some works by Debussy","Give me some works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:51:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Yes the genre","Yes the genre","Ok! Just tell me the genre please"
+2018-6-22 09:51:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melodic","melodie","Perfect! Do you want to add something?"
+2018-6-22 09:51:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"yes also the composition period","yes also the composition period","Ok! What's the composition period?"
+2018-6-22 09:51:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:51:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-22 09:52:59,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:53:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9300000071525574,en,"Give me some works by Debussy","Give me some works by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:53:07,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the genre please","yes the genre please","Ok! Just tell me the genre please"
+2018-6-22 09:53:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melodic","melodie","Perfect! Do you want to add something?"
+2018-6-22 09:53:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes also the composition year","yes also the composition year","Ok! What's the composition period?"
+2018-6-22 09:53:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:53:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thakns",<result_card>
+2018-6-22 09:58:27,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 09:58:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Debussy","give me 2 works by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:58:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the genre","yes the genre","Ok! Just tell me the genre please"
+2018-6-22 09:58:40,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melody","melody","Perfect! Do you want to add something?"
+2018-6-22 09:58:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"yes the composition period","yes the composition period","Ok! What's the composition period?"
+2018-6-22 09:58:51,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 09:58:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-22 09:59:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"Give me some works by Debussy","Give me some works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 09:59:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the genre","yes the genre","Ok! Just tell me the genre please"
+2018-6-22 09:59:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melody","melody","Perfect! Do you want to add something?"
+2018-6-22 09:59:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"yes the composition period","yes the composition period","All right! Tell me the composition period"
+2018-6-22 09:59:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 10:00:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-22 10:01:02,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Debussy","give me 2 works by debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:01:11,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the genre","yes the genre","Ok! Just tell me the genre please"
+2018-6-22 10:01:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melody","melody","Perfect! Do you want to add something?"
+2018-6-22 10:01:18,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8600000143051147,en,"the composition period","the composition period","Ok! What's the composition period?"
+2018-6-22 10:01:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 10:01:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-22 10:01:49,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Debussy","give me 2 works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:01:57,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the genre","yes the genre","Ok! Just tell me the genre please"
+2018-6-22 10:01:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melody","melody","Perfect! Do you want to add something?"
+2018-6-22 10:02:04,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"yes the composition period","yes the composition period","Ok! What's the composition period?"
+2018-6-22 10:02:08,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"between 1890 and 1900","between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 10:02:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-22 10:06:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:10:01,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:11:33,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:11:47,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Debussy","give me 2 works by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:11:59,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:12:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Debussy","give me 2 works by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:12:33,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:12:40,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"yes the composition year","yes the composition year","Ok! What's the composition period?"
+2018-6-22 10:12:47,slack,U9Q3FND6E,D9ZCG8VCM,hello,0.8327407658797797,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:13:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"salute","salut","Ok! What's the composition period?"
+2018-6-22 10:13:50,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:13:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"salute","salut","Ok! What's the composition period?"
+2018-6-22 10:13:57,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"salute","salut","All right! Tell me the composition period"
+2018-6-22 10:14:06,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:14:53,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"salut","salut","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:15:13,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"salut","salut","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:15:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvres de Debussy","donne-moi deux oeuvres de debussy","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:15:35,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-22 10:15:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8899999856948853,fr,"donne-moi deux mélodies de Debussy","donne-moi deux melodies de debussy","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:16:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-22 10:17:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvres de Debussy","donne-moi deux œuvres de debussy","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:17:32,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-22 10:18:39,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9300000071525574,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux mélodies de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:18:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-22 10:20:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux mélodies de Vivaldi",<result_card>
+2018-6-22 10:20:20,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:20:24,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:20:27,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9300000071525574,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux mélodies de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:20:31,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-22 10:23:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:25:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:26:22,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:26:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:27:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9399999976158142,en,"give me 2 melody by Vivaldi","give me 2 melody by vivaldi",<result_card>
+2018-6-22 10:32:26,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:32:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:32:53,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:33:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Mozart","give me 2 works by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:33:59,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:34:02,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:34:05,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:34:15,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonsoir","bonsoir","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:36:11,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:36:27,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:37:19,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:39:57,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:40:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:40:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:40:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:41:01,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:42:39,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:42:49,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.9700000286102295,en,"tell me 2 works by Vivaldi","tell me 2 works by Vivaldi","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 10:43:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 10:43:40,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:43:45,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:45:12,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:45:18,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:45:22,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:45:27,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:45:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:49:50,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:50:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux mélodies de Vivaldi","donne-moi deux melodies de Vivaldi",<result_card>
+2018-6-22 10:50:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvres de Vivaldi","donne-moi deux oeuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:50:21,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-22 10:56:16,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 10:56:19,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 10:56:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvres de Vivaldi","donne-moi deux oeuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 10:56:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-22 11:34:58,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"tell me something about Debussy","tell me something about debussy",<result_card>
+2018-6-22 11:35:25,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.7900000214576721,en,"find me an artist born in Saint-Germain-en-Laye","find me an artist born in Saint-Germain-en-Laye",<result_card>
+2018-6-22 11:40:52,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8899999856948853,en,"Find an artist born between 1860 and 1870 who wrote more works for piano","Find an artist born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:42:03,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find an artist born between 1862 and 1873 who wrote more works for piano","Find an artist born between 1862 and 1873 who wrote more works for piano",<result_card>
+2018-6-22 11:42:37,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find an artist born in 1862","Find an artist born in 1862",<result_card>
+2018-6-22 11:43:01,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find one artist born in 1862","Find one artist born in 1862",<result_card>
+2018-6-22 11:43:28,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.8999999761581421,en,"Find one artist born in 1862 who wrote more melody","Find one artist born in 1862 who wrote more melody",<result_card>
+2018-6-22 11:43:45,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find one artist born in 1862 who wrote more works for piano","Find one artist born in 1862 who wrote more works for piano",<result_card>
+2018-6-22 11:45:18,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.9399999976158142,en,"Find one artist born between 1860 and 1870 who wrote more melodies","Find one artist born between 1860 and 1870 who wrote more melodies",<result_card>
+2018-6-22 11:45:34,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find one artist born between 1860 and 1870 who wrote more works for piano","Find one artist born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:45:59,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find an artist born between 1861 and 1870 who wrote more works for piano","Find an artist born between 1861 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:46:08,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find one artist born between 1861 and 1870 who wrote more works for piano","Find one artist born between 1861 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:46:27,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,0.9300000071525574,en,"Find one artist born between 1861 and 1870 who wrote more concertos","Find one artist born between 1861 and 1870 who wrote more concertos",<result_card>
+2018-6-22 11:47:24,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find an artist born between 1860 and 1870 who wrote more works for piano","Find an artist born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:48:12,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 11:52:06,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7799999713897705,en,"find me some performances in Paris","find me some performances in Paris!","In which period?"
+2018-6-22 11:52:13,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"this week","this week",<result_card>
+2018-6-22 11:54:16,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7799999713897705,en,"Find me some performances in Paris","Find me some performances in Paris","In which period?"
+2018-6-22 11:54:21,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Hit","Hi!","When?"
+2018-6-22 11:54:41,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7400000095367432,en,"Are there any events in Paris","Are there any events in Paris?","When?"
+2018-6-22 11:54:51,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Mmhh... next week","Mmhh... next week",<result_card>
+2018-6-22 11:55:23,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Jonathan Dove","Talk me about Jonathan Dove!",<result_card>
+2018-6-22 11:55:40,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"OK so talk me about Rachmaninoff","Ok so talk me about Rachmaninoff",<result_card>
+2018-6-22 11:56:24,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Racmaninoff",<result_card>
+2018-6-22 11:56:44,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-22 11:56:56,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Now give me two of his works","Now give me two of his works","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 11:57:02,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-22 11:57:30,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find three artists born between 1860 and 1870 who wrote more works for piano","Find three artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-22 12:00:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6000000238418579,en,"Tell me the melodies by Debussy composed during 1890","Tell me the melodies by Debussy composed during 1890",<result_card>
+2018-6-22 12:01:43,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6000000238418579,en,"Tell me the melodies by Debussy composed during 1890","Tell me the melodies by Debussy composed during 1890",<result_card>
+2018-6-22 12:02:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy composed between 1860 and 1870","Tell me the melodies by Debussy composed between 1860 and 1870",<result_card>
+2018-6-22 12:02:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy composed between 1890 and 1900","Tell me the melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-22 12:03:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 12:03:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes","Yes!","Ok tell me what"
+2018-6-22 12:03:35,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-22 12:03:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Melody","Melody","Perfect! Do you want to add something?"
+2018-6-22 12:03:45,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Yes the composition year","Yes the composition year","All right! Tell me the composition period"
+2018-6-22 12:03:52,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Between 1890 and 1900","Between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-22 12:03:58,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-22 12:04:07,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Bonjour!","Bonjour!","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 12:04:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:04:25,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour!","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:07:00,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour!","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:07:06,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"hello","hello!","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:07:11,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour!","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:07:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvres de Vivaldi","donne-moi deux oeuvres de Vivoldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 12:07:41,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.5799999833106995,fr,"Oui pour genre merci","Oui pour genre merci","Quel genre?"
+2018-6-22 12:07:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Musique de chambre","Musique de chambre","Quel genre?"
+2018-6-22 12:11:27,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"ballade","ballade","Veux-tu ajouter quelque chose?"
+2018-6-22 12:11:31,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-22 12:12:03,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 12:12:06,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 12:12:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux œuvre de Vivaldi","donne-moi deux oeuvred de Vivoldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-22 12:12:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-22 12:12:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"simonie","sinfonie","Quel genre?"
+2018-6-22 12:12:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-22 12:13:02,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 12:15:26,google_assistant,-,-,works-by,1,en,"Give me one works by Mozart","Give me one works by Mozart","Uhm... you told me few filters. Do you want to add something?"
+2018-6-22 12:16:35,google_assistant,-,-,works-by,1,en,"No thanks","No thanks","Yes! I tell you some titles. ...Quintettes. Piano vents. Si bémol majeur. KV 452a. "
+2018-6-22 12:26:32,fb,2151734871534023,2151734871534023,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 12:26:44,fb,2151734871534023,2151734871534023,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-22 13:27:11,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 13:27:20,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 13:27:41,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 13:27:43,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 13:27:56,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me 2 works by Mozart","give me 2 works by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 13:28:00,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 13:28:15,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 13:28:20,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 13:28:39,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"tell me something about Rachmaninoff","tell me something about Rachmaninoff",<result_card>
+2018-6-22 13:29:33,fb,2087558941257771,2087558941257771,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 14:42:54,fb,1779333318817780,1779333318817780,discover-artist,0.6299999952316284,en,"Ok great do you speak french","Om great do you speak french",<result_card>
+2018-6-22 14:47:54,fb,1779333318817780,1779333318817780,works-by,1,en,"Give me 3 works composed by Bach","Give me 3 works composed by Bach","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 14:48:05,fb,1779333318817780,1779333318817780,works-by - no,1,en,"no","no",<result_card>
+2018-6-22 14:49:06,fb,1779333318817780,1779333318817780,discover-artist,1,fr,"dis-moi quelque chose à propos de Pierre Boulez","dis-moi quelque chose à propos de Pierre Boulez",<result_card>
+2018-6-22 14:49:46,fb,1779333318817780,1779333318817780,works-by,0.8399999737739563,fr,"Donnes-moi 3 oeuvres écrites par Pierre Boulez","Donnes-moi 3 œuvres écrites par Pierre Boulez",<result_card>
+2018-6-22 15:07:44,fb,1779333318817780,1779333318817780,hello,1,en,"Hello","Hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 15:08:59,fb,1779333318817780,1779333318817780,find-performance,0.8500000238418579,en,"Tell me one event in Paris in the next month","Tell me one event in Paris in the next month",<result_card>
+2018-6-22 15:09:20,fb,1779333318817780,1779333318817780,find-performance,0.7799999713897705,en,"Tell me one event in Paris tonight","Tell me one event in Paris tonight","In which period?"
+2018-6-22 15:09:34,fb,1779333318817780,1779333318817780,find-performance,1,en,"next week","next week",<result_card>
+2018-6-22 15:10:17,fb,1779333318817780,1779333318817780,find-performance,0.7300000190734863,en,"tell me one event at the Philharmonie de Paris next week","tell me one event at the Philharmonic dew Paris next week",<result_card>
+2018-6-22 15:10:50,fb,1779333318817780,1779333318817780,find-performance,0.8199999928474426,en,"Tell me 3 events at the Philharmonie de Paris this month","Tell me 3 events at the Philharmonic dew Paris this month",<result_card>
+2018-6-22 15:12:33,fb,1779333318817780,1779333318817780,discover-artist,0.7599999904632568,en,"give me the next event at the Philharmonie de Paris","give me the next event at the Philharmonic dew Paris",<result_card>
+2018-6-22 15:13:12,fb,1779333318817780,1779333318817780,find-performance,0.949999988079071,en,"Give me 3 events at the Philharmonie de paris in September","Give me 3 events at the Philharmonic dew pares in September",<result_card>
+2018-6-22 15:16:19,fb,1779333318817780,1779333318817780,discover-artist,0.7599999904632568,en,"Give me an event at the Philharmonie de Paris with Mozart","Give me an event at the Philharmonic dew Paris with Mozart",<result_card>
+2018-6-22 20:29:16,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-22 20:29:38,slack,U9PUY35FD,DA0A1ALET,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-22 20:29:55,slack,U9PUY35FD,DA0A1ALET,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-22 20:30:15,slack,U9PUY35FD,DA0A1ALET,works-by,0.9599999785423279,en,"Give me 2 of his works","Give me 2 of his works","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-22 20:30:24,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-22 20:30:48,slack,U9PUY35FD,DA0A1ALET,find-performance,0.9100000262260437,en,"Propose me an event for tomorrow","Propose me an event for tomorrow","In which period?"
+2018-6-22 20:31:03,slack,U9PUY35FD,DA0A1ALET,find-performance,1,en,"Next week","Next week",<result_card>
+2018-6-22 21:19:07,slack,U9PUY35FD,DA0A1ALET,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-23 08:58:03,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 08:58:12,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7200000286102295,en,"are there any events in Paris","are there any events in Paris","In which period?"
+2018-6-23 08:58:16,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"this week","this week",<result_card>
+2018-6-23 08:58:43,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"talk me about John Dove","talk me about John Dove",<result_card>
+2018-6-23 08:59:17,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.9900000095367432,en,"find me some performances in two weeks","find me some performances in two weeks",<result_card>
+2018-6-23 09:00:00,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.949999988079071,en,"find me some performances in the next two weeks","find me some performances in the next two weeks",<result_card>
+2018-6-23 09:04:18,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Okay now talk me about Rachmaninoff","Okay now talk me about Rachmaninoff",<result_card>
+2018-6-23 09:04:29,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-23 09:04:49,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Racmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-23 09:05:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Now give me two of his works","Now give me two of his works","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 09:05:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-23 09:05:45,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-23 09:07:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy composed between 1890 and 1900","Tell me the melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-23 09:07:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussi","Give me one work by Debussy",<result_card>
+2018-6-23 09:07:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-23 09:07:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-23 09:07:35,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Melody","Melody","Perfect! Do you want to add something?"
+2018-6-23 09:07:41,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"Yes the composition period","Yes the composition period","Ok! What's the composition period?"
+2018-6-23 09:07:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Between 1890 and 1900","Between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-23 09:07:50,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-23 09:07:59,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 09:08:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivoldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 09:08:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.7799999713897705,fr,"Oui merci le genre","Oui merci le genre","Quel genre?"
+2018-6-23 09:08:39,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Sinfonie","Sinfonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 09:08:44,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"Non merci","Non merci",<result_card>
+2018-6-23 09:09:19,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 09:09:40,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.949999988079071,en,"Find me som perfomances in the next twoo weeks","Find me some performances in the next two weeks",<result_card>
+2018-6-23 09:11:06,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.949999988079071,en,"Find me som perfomances in the next twoo weesk","Find me some performances in the next two wees","In which period?"
+2018-6-23 09:11:17,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"boh","bog","When?"
+2018-6-23 09:11:21,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"boh","bog","In which period?"
+2018-6-23 09:11:30,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"next week","next week",<result_card>
+2018-6-23 18:06:29,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:06:45,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:07:42,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7200000286102295,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-6-23 18:08:04,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Next week","Next week",<result_card>
+2018-6-23 18:08:48,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.949999988079071,en,"Find me som perfomances in the next twoo weeks","Find me some performances in the next two weeks",<result_card>
+2018-6-23 18:09:33,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-23 18:11:00,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-23 18:11:15,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:11:20,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-23 18:11:27,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Racmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-23 18:11:39,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7400000095367432,en,"Talk me about Racmoninoff","Talk me about Racmoninoff","Ok! Who is the artist?"
+2018-6-23 18:11:52,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rakmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-23 18:12:30,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Tell me something about Rachmaninov","Tell me something about Rachmaninov",<result_card>
+2018-6-23 18:12:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Now give me 2 of his works","Now give me 2 of his works","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:13:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-23 18:14:08,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find three artists born between 1860 and 1870 who wrote more works for piano","Find three artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-23 18:14:49,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy composed between 1890 and 1900","Tell me the melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-23 18:15:15,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy",<result_card>
+2018-6-23 18:15:53,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:16:26,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:16:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy composed between 1890 and 1900","Tell me the melodies by Debussy composed between 1890 and 1900",<result_card>
+2018-6-23 18:16:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:17:59,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-23 18:18:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-23 18:18:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Melody","Melody","Perfect! Do you want to add something?"
+2018-6-23 18:18:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Yes the composition year","Yes the composition year","Ok! What's the composition period?"
+2018-6-23 18:18:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Between 1890 and 1900","Between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-23 18:18:32,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-23 18:19:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:22:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivoldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:23:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivadli","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:24:04,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8799999952316284,fr,"Done-moi deux oeuvres de Vivadli","Done-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:24:18,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivadli","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:24:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-23 18:24:30,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Sinfonie","Sidonie","Quel genre?"
+2018-6-23 18:24:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Sinfonie","Sidonie","Quel genre?"
+2018-6-23 18:24:45,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Sinfonie","Sidonie","Quel genre?"
+2018-6-23 18:24:48,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 18:24:52,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"aria","aria","Veux-tu ajouter quelque chose?"
+2018-6-23 18:24:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-23 18:27:08,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:27:16,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:27:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:27:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 18:27:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 18:28:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 18:28:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonnie","sinfonnie","Quel genre?"
+2018-6-23 18:28:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"fsadfadsa","fsadfadsa","Quel genre?"
+2018-6-23 18:28:46,slack,U9Q3FND6E,D9ZCG8VCM,hello,0.8327407658797797,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:29:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:29:13,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 18:29:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 18:29:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"la sinfonie","la simonie","Quel genre?"
+2018-6-23 18:30:54,slack,U9Q3FND6E,D9ZCG8VCM,hello,0.8327407658797797,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:31:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:31:36,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-23 18:31:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Sinfonie","Sidonie","Quel genre?"
+2018-6-23 18:32:42,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-23 18:34:09,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:34:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de Vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:34:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 18:34:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"aria","aria","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 18:36:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:36:30,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:36:55,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:37:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 18:37:02,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 18:37:06,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"aria","aria","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 18:37:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-23 18:40:57,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonojour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:41:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:41:13,fb,2151734871534023,2151734871534023,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 18:41:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 18:41:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"melodie","mélodie","Veux-tu ajouter quelque chose?"
+2018-6-23 18:41:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-23 18:41:45,fb,2151734871534023,2151734871534023,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 18:41:56,fb,2151734871534023,2151734871534023,works-by - yes,1,fr,"Oui","Oui","Bien sur! Quoi?"
+2018-6-23 18:42:02,fb,2151734871534023,2151734871534023,works-by-something,1,fr,"Le genre","Le genre","Quel genre?"
+2018-6-23 18:42:07,fb,2151734871534023,2151734871534023,works-by-something,1,fr,"Sinfonie","Sinfonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 18:42:20,fb,2151734871534023,2151734871534023,works-by - no,0.8700000047683716,fr,"No merci","No merci",<result_card>
+2018-6-23 18:42:24,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 18:45:21,fb,2087558941257771,2087558941257771,discover-artist,1,en,"Talk me about Vivaldi","Talk me about Vivaldi",<result_card>
+2018-6-23 18:47:43,google_assistant,-,-,works-by,0.6600000262260437,en,"give me four words by Mozart","give me four words by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:48:23,google_assistant,-,-,works-by,0.9300000071525574,en,"give me for works by Mozart","give me for works by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:49:46,google_assistant,-,-,works-by,0.6600000262260437,en,"give me four words by Beethoven","give me four words by Beethoven","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:50:16,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Since all thy vows false maid. Sonatines. Sonates. Violoncelle, piano. Fa majeur. Op. 5, no 1. 11 bagatelles. "
+2018-6-23 18:51:52,google_assistant,-,-,works-by,0.9300000071525574,en,"give me for works by Mozart","give me for works by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:52:09,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Benedicite angeli. Divertimentos. 6 quatuors. Vorrei spiegarvi oh Dio. Zerfliesset heut' geliebte Brüder. "
+2018-6-23 18:53:26,google_assistant,-,-,works-by,1,en,"give me one work by Mozart","give me one work by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:53:38,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Benedicite angeli. "
+2018-6-23 18:54:39,google_assistant,-,-,works-by,0.8899999856948853,en,"hello give me for works by Mozart","hello give me for works by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:54:59,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Benedicite angeli. Divertimentos. 6 quatuors. Vorrei spiegarvi oh Dio. Zerfliesset heut' geliebte Brüder. "
+2018-6-23 18:56:10,google_assistant,-,-,works-by,0.6600000262260437,en,"give me three words by Vivaldi","give me three words by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:58:36,google_assistant,-,-,works-by,0.9800000190734863,en,"give me pics works by Vivaldi","give me pics works by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 18:59:10,google_assistant,-,-,works-by,0.75,en,"tell me to works by Mozart","tell me to works by Mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 19:00:21,google_assistant,-,-,works-by,1,en,"no thanks","no thanks","Yes! I tell you some titles. ...6 quatuors. Sonatensatz. Divertimentos. Quintettes. Piano vents. Si bémol majeur. KV 452a. Sonates. Violon, piano. La majeur. KV 526a. "
+2018-6-23 19:00:57,google_assistant,-,-,works-by,0.6600000262260437,en,"give me two words by Vivaldi","give me two words by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 19:01:37,google_assistant,-,-,works-by,1,en,"give me two works by Vivaldi","give me two works by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 19:02:27,google_assistant,-,-,works-by,1,en,"no thanks","no thanks","Yes! I tell you some titles. ...Concertos. Concerto fatto per la Solennità della S. Lingua di S. Antonio in Padua. "
+2018-6-23 20:14:54,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 20:15:09,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de Vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:15:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 20:15:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 20:15:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"aria","aria","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 20:15:26,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-23 20:15:45,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de Vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:15:52,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 20:16:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 20:16:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.87241328996981,fr,"non","non","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 20:16:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-23 20:16:24,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 20:16:27,slack,U9PUY35FD,DA0A1ALET,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:16:50,slack,U9PUY35FD,DA0A1ALET,works-by,0.8899999856948853,fr,"Donne-moi deux ouvres de Mozart","Donne-moi deux ouvres de Mozart","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:16:54,slack,U9PUY35FD,DA0A1ALET,works-by - yes,1,fr,"Oui","Oui","Bien sur! Quoi?"
+2018-6-23 20:16:57,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,fr,"Le genre","Le genre","Quel genre?"
+2018-6-23 20:17:08,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,fr,"Sinfonie","Sidonie","Quel genre?"
+2018-6-23 20:17:36,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 20:17:52,slack,U9PUY35FD,DA0A1ALET,works-by,0.9800000190734863,en,"Tell me 2 works by Mozart","Tell me 2 works by Mozart","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 20:17:55,google_assistant,-,-,works-by,1,en,"give me two works by Vivaldi","give me two works by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 20:17:55,slack,U9PUY35FD,DA0A1ALET,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-23 20:17:58,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-23 20:18:03,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Sinfony","Sinfony","Ok! Just tell me the genre please"
+2018-6-23 20:18:09,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Aria","Aria","Perfect! Do you want to add something?"
+2018-6-23 20:18:21,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-23 20:18:48,google_assistant,-,-,works-by,1,en,"no thanks","no thanks","Yes! I tell you some titles. ...Concertos. Concerto fatto per la Solennità della S. Lingua di S. Antonio in Padua. "
+2018-6-23 20:20:03,slack,U9PUY35FD,DA0A1ALET,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-23 20:21:41,slack,U9PUY35FD,DA0A1ALET,works-by,1,en,"Tell me 2 arias by Mozart","Tell me 2 arias by Mozart",<result_card>
+2018-6-23 20:22:34,slack,U9PUY35FD,DA0A1ALET,works-by,0.9800000190734863,en,"Tell me 2 works by Mozart","Tell me 2 works by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-23 20:22:39,slack,U9PUY35FD,DA0A1ALET,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-23 20:22:54,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-23 20:23:13,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Symphony","Symphony","Perfect! Do you want to add something?"
+2018-6-23 20:23:20,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-23 20:24:08,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:24:39,google_assistant,-,-,find-performance,1,en,"next week","next week","Yes! ...Le Monstre du labyrinthe at Philharmonie de Paris. "
+2018-6-23 20:25:56,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"salut","salut","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:26:16,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8999999761581421,fr,"donne-moi deux ouvres de Vivaldi","donne-moi deux ouvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:26:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 20:26:25,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","sinfonie","Veux-tu ajouter quelque chose?"
+2018-6-23 20:26:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non","non",<result_card>
+2018-6-23 20:27:07,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:27:18,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"donne-moi deux oeuvres de Vivaldi","donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:27:23,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 20:27:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 20:27:52,slack,U9Q3FND6E,D9ZCG8VCM,hello,0.8327407658797797,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:28:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.8999999761581421,fr,"donne-moi deux ouvres de Vivaldi","donne-moi deux ouvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:28:10,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"oui le genre","oui le genre","Quel genre?"
+2018-6-23 20:28:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"sinfonie","simonie","Quel genre?"
+2018-6-23 20:28:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"salut","salute","Ok! Just tell me the genre please"
+2018-6-23 20:28:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"symphony","symphony","Perfect! Do you want to add something?"
+2018-6-23 20:28:40,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no","no",<result_card>
+2018-6-23 20:29:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.949999988079071,fr,"donne-moi deux sinfonies de Vivaldi","donne-moi deux simonies de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:29:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.949999988079071,fr,"donne-moi deux sinfonie de Vivaldi","donne-moi deux simonie de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:33:18,slack,U9PUY35FD,DA0A1ALET,hello,1,fr,"Salut","Salut","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-23 20:34:18,slack,U9PUY35FD,DA0A1ALET,works-by,0.8999999761581421,fr,"Donne-moi deux ouvres de Vivaldi","Donne-moi deux ouvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-23 20:34:21,slack,U9PUY35FD,DA0A1ALET,works-by - yes,1,fr,"Oui","Oui","Bien sur! Quoi?"
+2018-6-23 20:34:25,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,fr,"Le genre","Le genre","Quel genre?"
+2018-6-23 20:34:31,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,fr,"Symphonie","Symphonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-23 20:34:35,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,fr,"No","No",<result_card>
+2018-6-24 10:13:09,slack,U9PUY35FD,DA0A1ALET,works-by,0.9599999785423279,en,"Tell me 2 works by Beethoven","Tell me 2 works by Beethoven","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-24 10:13:33,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Yes the genre","Yes the genre","Ok! Just tell me the genre please"
+2018-6-24 10:13:52,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Aria","Aria","Perfect! Do you want to add something?"
+2018-6-24 10:13:55,slack,U9PUY35FD,DA0A1ALET,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-24 10:13:59,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-24 10:14:05,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Symphony","Symphony","Perfect! Do you want to add something?"
+2018-6-24 10:14:07,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-24 10:14:27,slack,U9PUY35FD,DA0A1ALET,works-by,1,en,"Tell me 2 symphonies by Beethoven","Tell me 2 symphonies by Beethoven",<result_card>
+2018-6-24 10:14:56,slack,U9PUY35FD,DA0A1ALET,works-by,1,en,"Tell me 2 arias by Mozart","Tell me 2 arias by Mozart",<result_card>
+2018-6-24 10:15:17,slack,U9PUY35FD,DA0A1ALET,works-by,1,en,"Tell me 2 symphonies by Mozart","Tell me 2 symphonies by Mozart",<result_card>
+2018-6-24 10:15:44,slack,U9PUY35FD,DA0A1ALET,works-by,1,en,"Tell me 2 operas by Mozart","Tell me 2 operas by Mozart",<result_card>
+2018-6-24 10:16:11,slack,U9PUY35FD,DA0A1ALET,works-by,0.9599999785423279,en,"Tell me 2 works by Mozart","Tell me 2 works by Mozart","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-24 10:16:18,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Yes the genre","Yes the genre","Ok! Just tell me the genre please"
+2018-6-24 10:16:23,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Opera","Opera","Perfect! Do you want to add something?"
+2018-6-24 10:16:30,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Yes the genre","Yes the genre","Ok! Just tell me the genre please"
+2018-6-24 10:16:37,slack,U9PUY35FD,DA0A1ALET,works-by-something,1,en,"Aria","Aria","Perfect! Do you want to add something?"
+2018-6-24 10:16:41,slack,U9PUY35FD,DA0A1ALET,works-by - no,1,en,"No","No",<result_card>
+2018-6-24 14:53:32,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-24 14:54:09,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.6000000238418579,en,"Are there any event in Paris","Are there any event in Paris","In which period?"
+2018-6-24 14:54:12,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Next week","Next week",<result_card>
+2018-6-24 14:54:27,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-24 14:55:26,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,0.7400000095367432,en,"Talk me about Racmaninof","Talk me about Racmaninof","Ok! Who is the artist?"
+2018-6-24 14:55:31,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Racmaninoff","Rachmaninoff",<result_card>
+2018-6-24 14:57:22,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"now give me two of his works","now give me two of his works","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-24 14:57:27,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-24 14:57:45,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-24 14:58:01,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-24 15:02:39,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-24 15:02:40,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-24 15:02:54,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6399999856948853,en,"now give me 2 of his melodies composed between 1890 and 1900","now give me 2 of his melodies composed between 1890 and 1900",<result_card>
+2018-6-24 15:04:33,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-24 15:04:35,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-24 15:04:44,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.7699999809265137,en,"now give me his melodies composed between 1890 and 1900","now give me his melodies composed between 1890 and 1900",<result_card>
+2018-6-24 15:05:00,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-24 15:05:05,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy",<result_card>
+2018-6-24 15:05:14,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me one work by Debussy","Give me one work by Debussy",<result_card>
+2018-6-24 15:06:23,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-24 15:06:35,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Debussy","Talk me about Debussy",<result_card>
+2018-6-24 15:06:52,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"now give me his melodies composed between 1890 and 1900","now give me his melodies composed between 1890 and 1900",<result_card>
+2018-6-24 15:07:01,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"give me one work by Debussy","give me one work by Debussy","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-24 15:07:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by - yes,1,en,"Yes","Yes","Ok tell me what"
+2018-6-24 15:07:44,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"The genre","The genre","Ok! Just tell me the genre please"
+2018-6-24 15:07:46,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"melody","melody","Perfect! Do you want to add something?"
+2018-6-24 15:07:51,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Yes the composition year","Yes the composition year","Ok! What's the composition period?"
+2018-6-24 15:08:03,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Between 1890 and 1900","Between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-24 15:08:06,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"no thanks","no thanks",<result_card>
+2018-6-24 15:08:12,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-24 15:08:19,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-24 15:08:28,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-24 15:08:34,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Simphonie","Symphonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-24 15:08:38,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"non merci","non merci",<result_card>
+2018-6-24 15:13:08,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:40:02,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:40:54,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:40:57,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:40:59,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:41:01,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:41:01,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:41:03,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 08:42:10,fb,2087558941257771,2087558941257771,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 09:32:53,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 09:33:23,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7300000190734863,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-6-25 09:33:36,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"This week","This week",<result_card>
+2018-6-25 09:34:09,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,0.7300000190734863,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-6-25 09:34:12,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Next week","Next week",<result_card>
+2018-6-25 09:34:47,slack,U9Q3FND6E,D9ZCG8VCM,find-performance,1,en,"Find me som perfomances in the next twoo weeks","Find me some performances in the next two weeks",<result_card>
+2018-6-25 09:35:17,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-25 09:35:52,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Racmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-25 09:36:21,slack,U9Q3FND6E,D9ZCG8VCM,discover-artist,1,en,"Talk me about Rachmaninov","Talk me about Rachmaninov",<result_card>
+2018-6-25 09:36:41,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Now give me two of his works","Now give me two of his works","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 09:36:51,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-25 09:37:39,slack,U9Q3FND6E,D9ZCG8VCM,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-25 09:39:45,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 09:40:00,slack,U9Q3FND6E,D9ZCG8VCM,works-by,0.6299999952316284,en,"Tell me the melodies by Debussy","Tell me the melodies by Debussy","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 09:40:12,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,0.8899999856948853,en,"Yes the composition period","Yes the composition period","Ok! What's the composition period?"
+2018-6-25 09:40:20,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,en,"Between 1890 and 1900","Between 1890 and 1900","Perfect! Do you want to add something?"
+2018-6-25 09:40:24,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-25 09:41:00,slack,U9Q3FND6E,D9ZCG8VCM,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-25 09:41:29,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,fr,"Donne-moi deux oeuvres de Vivaldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-25 09:41:44,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-25 09:41:51,slack,U9Q3FND6E,D9ZCG8VCM,works-by-something,1,fr,"Symphonie","Symphonie","Veux-tu ajouter quelque chose?"
+2018-6-25 09:42:06,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,fr,"Non merci","Non merci",<result_card>
+2018-6-25 09:42:25,fb,2087558941257771,2087558941257771,discover-artist,1,en,"Talk me about Vivaldi","Talk me about Vivaldi",<result_card>
+2018-6-25 09:44:48,google_assistant,-,-,works-by,1,en,"give me two works by Vivaldi","give me two works by Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 09:45:52,google_assistant,-,-,works-by,1,en,"no thanks","no thanks","Yes! I tell you some titles. ...Concertos. Concerto fatto per la Solennità della S. Lingua di S. Antonio in Padua. "
+2018-6-25 09:46:36,google_assistant,-,-,find-performance,1,en,"this week","this week","Yes! ...Le Monstre du labyrinthe at Philharmonie de Paris. "
+2018-6-25 15:23:48,slack,U0YPLPDJM,DA4F0FVEK,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 15:23:57,slack,U0YPLPDJM,DA4F0FVEK,works-by,1,en,"give me 5 works by mozart","give me 5 works by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 15:24:05,slack,U0YPLPDJM,DA4F0FVEK,works-by - no,1,en,"no","no",<result_card>
+2018-6-25 15:51:07,socket,08371f06-0e32-de2d-0233-087f08294c03,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 15:51:20,socket,2b334ecc-f9a9-0644-7307-f3131d058901,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 15:51:56,socket,2b334ecc-f9a9-0644-7307-f3131d058901,socket,works-by,1,en,"Give me 3 works by mozart with violin","Give me 3 works by Mozart with violin",<result_card>
+2018-6-25 15:54:19,socket,08371f06-0e32-de2d-0233-087f08294c03,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 15:59:30,socket,b17d8b2b-f7a5-0d21-7dfa-fe3d86dd566e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 16:01:03,socket,08371f06-0e32-de2d-0233-087f08294c03,socket,works-by,0.6499999761581421,en,"show me works by Mozart","show me works by Mozart","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 16:01:06,socket,08371f06-0e32-de2d-0233-087f08294c03,socket,discover-artist,0.6200000047683716,en,"who is Mozart","who is Mozart",<result_card>
+2018-6-25 16:35:03,socket,e842865f-f974-1942-4804-89538bc49303,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 16:35:12,socket,e842865f-f974-1942-4804-89538bc49303,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 16:35:30,socket,e842865f-f974-1942-4804-89538bc49303,socket,works-by,1,en,"Tell me 2 works","Tell me 2 works","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 16:35:54,socket,e842865f-f974-1942-4804-89538bc49303,socket,works-by - no,1,en,"No","No",<result_card>
+2018-6-25 16:36:23,socket,e842865f-f974-1942-4804-89538bc49303,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 18:22:00,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 18:22:18,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-25 18:22:26,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,works-by,1,en,"Give me 2 works by Mozart","Give me 2 works by Mozart","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-25 18:22:36,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,works-by-something,1,en,"Yes the instrument","Yes the instrument","Ok! Just tell me the instrument"
+2018-6-25 18:22:38,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,works-by-something,1,en,"clarinet","clarinet","Perfect! Do you want to add something?"
+2018-6-25 18:22:45,socket,e1ed0163-9627-598e-2417-8c3531f2ec47,socket,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-25 20:58:12,socket,37107693-c325-b294-4503-132ff66c8992,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-26 06:35:35,google_assistant,-,-,find-performance,1,en,"Are there any events this week ?","Are there any events this week ?","Yes! ...Le Monstre du labyrinthe at Grande salle Pierre Boulez - Philharmonie. "
+2018-6-26 08:20:16,google_assistant,-,-,find-performance,1,en,"next week","next week","Sorry... I didn't find anything!"
+2018-6-26 08:20:54,google_assistant,-,-,find-performance,0.7300000190734863,en,"what are the events in Paris in September","what are the events in Paris in September","Yes! ...Orchestre de Paris / Daniel Harding at Philharmonie de Paris. "
+2018-6-26 08:21:30,google_assistant,-,-,find-performance,0.8899999856948853,en,"Give me 3 events in Paris first week of september","Give me 3 events in Paris first week of september","Sorry... I didn't find anything!"
+2018-6-26 08:22:10,google_assistant,-,-,find-performance,0.8899999856948853,en,"Give me 3 events in Paris in September","Give me 3 events in Paris in September","Yes! ...Orchestre de Paris / Daniel Harding at Philharmonie de Paris. Stockhausen / Inori, at Philharmonie de Paris. Le Ring de poche, at Philharmonie de Paris. "
+2018-6-26 08:58:27,google_assistant,-,-,find-performance,0.6200000047683716,en,"what is the next event in paris this week","what is the next event in paris this week","Yes! ...Le Monstre du labyrinthe at Philharmonie de Paris. "
+2018-6-26 10:47:45,socket,37107693-c325-b294-4503-132ff66c8992,socket,hello,1,en,"Hello","Hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-26 10:47:45,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by,1,en,"Give me two works by Vivaldi","Give me two works by Vivaldi","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 10:48:03,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by-something,1,en,"Yes the instrument","Yes the instrument","Ok! Just tell me the instrument"
+2018-6-26 10:48:13,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by-something,1,en,"Piano and Violin","Piano and Violin","Perfect! Do you want to add something?"
+2018-6-26 10:48:17,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by - no,1,en,"No","No",<result_card>
+2018-6-26 10:48:51,socket,37107693-c325-b294-4503-132ff66c8992,socket,find-performance,0.7300000190734863,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-6-26 10:48:55,socket,37107693-c325-b294-4503-132ff66c8992,socket,find-performance,1,en,"This week","This week",<result_card>
+2018-6-26 10:49:26,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by,1,en,"Give me 2 works by Vivaldi","Give me 2 works by Vivaldi","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 10:49:50,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by-something,1,en,"Yes the instrument piano and violin","Yes the instrument piano and violin","Perfect! Do you want to add something?"
+2018-6-26 10:49:54,socket,37107693-c325-b294-4503-132ff66c8992,socket,works-by - no,1,en,"No","No",<result_card>
+2018-6-26 12:39:51,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-26 12:40:40,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,find-performance,0.7300000190734863,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-6-26 12:40:45,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,find-performance,1,en,"This week","This week",<result_card>
+2018-6-26 12:41:01,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,discover-artist,1,en,"Talk me about Racmaninoff","Talk me about Rachmaninoff",<result_card>
+2018-6-26 12:41:56,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by,1,en,"Now give me 2 of his works","Now give me 2 of his works","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 12:42:01,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by - no,1,en,"No","No",<result_card>
+2018-6-26 12:42:15,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-26 12:42:29,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by,1,fr,"Donne-moi deux oeuvres de Vivoldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-26 12:42:37,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by - no,1,fr,"Non","Non",<result_card>
+2018-6-26 12:42:46,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-26 12:43:00,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by,0.8199999928474426,fr,"Donne mois deux oeuvres de Vivoldi","Donne mois deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-26 12:43:13,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-26 12:43:18,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by-something,1,fr,"Symphonie","Symphonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-26 12:43:23,socket,43a02d8c-15e4-1a82-a13f-765ce15024bb,socket,works-by - no,1,fr,"Non","Non",<result_card>
+2018-6-26 12:44:30,fb,1978551662217032,1978551662217032,discover-artist,1,en,"Talk me about Vivaldi","Talk me about Vivaldi",<result_card>
+2018-6-26 12:45:13,fb,1978551662217032,1978551662217032,discover-artist,1,en,"Tell me about Vivaldi","Tell me about Vivaldi",<result_card>
+2018-6-26 12:46:27,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-26 13:02:07,google_assistant,-,-,works-by,1,en,"give me 3 works by mozart","give me 3 works by mozart","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:02:44,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Sonates. Sonatensatz. Sonates. Violon piano. La majeur. KV 526a. "
+2018-6-26 13:22:33,google_assistant,-,-,works-by,0.6000000238418579,en,"give me two words from mother","give me two words from mother","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:23:27,google_assistant,-,-,works-by,1,en,"no","no","Yes! I tell you some titles. ...Suites. Fremde sind wir. "
+2018-6-26 13:26:46,google_assistant,-,-,works-by,0.6000000238418579,en,"give me two words from mother","give me two words from mother","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:31:38,google_assistant,-,-,works-by,1,en,"Give me two works from Vivaldi","Give me two works from Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:31:50,google_assistant,-,-,works-by,1,en,"No","No","Yes! I tell you some titles. ...Concertos. Concertos. "
+2018-6-26 13:32:33,slack,U9Q3FND6E,D9ZCG8VCM,works-by,1,en,"Give me two works from Vivaldi","Give me two works from Vivaldi","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:32:37,slack,U9Q3FND6E,D9ZCG8VCM,works-by - no,1,en,"No thanks","No thanks",<result_card>
+2018-6-26 13:33:40,google_assistant,-,-,works-by,1,en,"Give me two works from Vivaldi","Give me two works from Vivaldi","Uhm... sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 13:33:52,google_assistant,-,-,find-performance,0.8399999737739563,en,"Are there any events in Paris this week?","Are there any events in Paris this week?","Yes! ...Le Monstre du labyrinthe at Philharmonie de Paris. "
+2018-6-26 13:34:11,google_assistant,-,-,works-by,0.9200000166893005,en,"Give me two works from Vivaldi for violin","Give me two works from Vivaldi for violin","Yes! I tell you some titles. ...Concerto per la Santissima Assontione di Maria Vergine en ut majeur. Concerto fatto per la Solennità della S. Lingua di S. Antonio in Padua. "
+2018-6-26 15:01:32,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,find-performance,0.7300000190734863,en,"Are there any events in paris","Are there any events in pares","In which period?"
+2018-6-26 15:01:38,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,find-performance,1,en,"This week","This week",<result_card>
+2018-6-26 15:02:19,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,discover-artist,1,en,"Tell me about Rachmaninov","Tell me about Rachmaninov",<result_card>
+2018-6-26 15:03:08,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by,1,en,"Now give me 2 of his works","Now give me 2 of his works","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-26 15:03:21,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by - no,1,en,"No","No",<result_card>
+2018-6-26 15:04:11,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-6-26 15:04:42,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-26 15:05:02,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by,1,fr,"Donne-moi deux oeuvres de Vivoldi","Donne-moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-26 15:05:17,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-6-26 15:05:23,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by-something,1,fr,"Symphonie","Symphonie","Ok! Est-ce que tu veux ajouter quelque chose?"
+2018-6-26 15:05:27,socket,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,socket,works-by - no,1,fr,"No","No",<result_card>
+2018-6-26 15:06:12,fb,1978551662217032,1978551662217032,discover-artist,1,en,"Talk me about Vivaldo","Talk me about Vivaldi",<result_card>
+2018-6-26 15:07:26,google_assistant,-,-,find-performance,1,en,"this week","this week","Yes! ...Le Monstre du labyrinthe at Philharmonie de Paris. "
+2018-6-26 15:59:44,socket,a24fc77f-91a0-704c-c714-7070f7aea65e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-27 10:01:46,socket,a24fc77f-91a0-704c-c714-7070f7aea65e,socket,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-27 10:03:11,socket,a24fc77f-91a0-704c-c714-7070f7aea65e,socket,works-by,0.8600000143051147,en,"show me 3 works by mozart","show me 3 works by Mozart","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-6-27 11:32:34,socket,635caa99-94bd-87b3-135e-d60dc18cb994,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-27 11:32:49,socket,635caa99-94bd-87b3-135e-d60dc18cb994,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-28 09:03:00,socket,667ceb08-37ad-5137-4a86-3f739db26a5d,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-29 12:35:34,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-29 12:35:41,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-6-29 12:35:43,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-6-29 12:36:06,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,works-by,0.5199999809265137,fr,"donnes moi une chason de mozart","donnes moi une chanson de Mozart","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-29 12:36:13,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,works-by - no,1,fr,"non","non",<result_card>
+2018-6-29 12:36:21,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,works-by-something,0.75,fr,"chanson","chanson","Veux-tu ajouter quelque chose?"
+2018-6-29 12:36:31,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,works-by,0.699999988079071,fr,"donne moi une oeuvre de mozart","donne moi une œuvre de Mozart","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-6-29 12:36:37,socket,d766565b-4af3-99ea-8b6d-27ee512c0402,socket,works-by - no,1,fr,"non","non",<result_card>
+2018-6-29 16:00:20,socket,08726b64-6e09-3d71-e03e-483081f938bf,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"

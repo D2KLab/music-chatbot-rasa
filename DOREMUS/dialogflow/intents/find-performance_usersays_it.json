@@ -1,0 +1,266 @@
+[
+  {
+    "id": "27595bfc-3e36-430b-a83c-edf7a3b9539f",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "tre",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " eventi!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "c58c2c16-d162-4e65-8084-a5ae5640a10f",
+    "data": [
+      {
+        "text": "Dimmi qualche evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "f6fe9940-a795-43c2-944b-c092d8afd011",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " evento!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "014cde23-e746-490a-b79a-c323db28eadd",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " evento pianificato per il ",
+        "userDefined": false
+      },
+      {
+        "text": "3 Gennaio",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Parigi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "1a1bad7a-4c9e-4d9d-93fc-a00c333ac59d",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " evento a ",
+        "userDefined": false
+      },
+      {
+        "text": "Parigi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "il mese prossimo",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "4b25d729-db33-4c90-bace-0178f5fc567f",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " evento ",
+        "userDefined": false
+      },
+      {
+        "text": "in questi giorni",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "7b21f9cb-161e-4c8d-8e8b-4b3a6dd0b324",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " evento a ",
+        "userDefined": false
+      },
+      {
+        "text": "Parigi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525270607
+  },
+  {
+    "id": "2a44f0a6-fc68-4464-98c1-4ce3fe198b7a",
+    "data": [
+      {
+        "text": "Proponimi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " evento a ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "cfc8decf-7854-4de2-9345-3fa8071e3719",
+    "data": [
+      {
+        "text": "Dammi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " eventi per ",
+        "userDefined": false
+      },
+      {
+        "text": "il mese prossimo",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  },
+  {
+    "id": "9702850d-d80b-48bf-9b25-b8ca7ccfccf4",
+    "data": [
+      {
+        "text": "C\u0027è qualche performance ",
+        "userDefined": false
+      },
+      {
+        "text": "il mese prossimo",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270607
+  }
+]

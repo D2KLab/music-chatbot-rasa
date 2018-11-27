@@ -1,0 +1,105 @@
+{
+  "id": "6de5c89a-4786-46e2-a973-b091d86249dc",
+  "name": "works-by",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "works-by-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f064697-3db3-44bd-a9c9-54e9e5c4f481",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "8a0f3b37-ebe1-440a-af01-5c41a5eb05c7",
+          "required": false,
+          "dataType": "@doremus-artist",
+          "name": "doremus-artist",
+          "value": "$doremus-artist",
+          "isList": false
+        },
+        {
+          "id": "89971a0e-38ac-4150-8a99-3a8db854f06b",
+          "required": false,
+          "dataType": "@doremus-instrument",
+          "name": "doremus-instrument",
+          "value": "$doremus-instrument",
+          "isList": true
+        },
+        {
+          "id": "d068de01-e4f3-4023-8a33-19cc26a4087c",
+          "required": false,
+          "dataType": "@doremus-strictly",
+          "name": "doremus-strictly",
+          "value": "$doremus-strictly",
+          "isList": false
+        },
+        {
+          "id": "c5db91f9-49b1-444e-9dd7-3e3f5fab9bc9",
+          "required": false,
+          "dataType": "@doremus-genre",
+          "name": "doremus-genre",
+          "value": "$doremus-genre",
+          "isList": false
+        },
+        {
+          "id": "d7be903b-f700-4c13-a005-7e3581b0a580",
+          "required": false,
+          "dataType": "@doremus-artist-prev",
+          "name": "doremus-artist-prev",
+          "value": "#discover-artist.doremus-artist",
+          "isList": false
+        },
+        {
+          "id": "7c357cbe-779c-4dea-a1d6-b81955084cce",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",
+            "Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",
+            "No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Tu n\u0027as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Non hai specificato molti filtri! Vuoi aggiungere qualcosa?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529852747,
+  "fallbackIntent": false,
+  "events": []
+}

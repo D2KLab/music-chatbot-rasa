@@ -1,0 +1,122 @@
+[
+  {
+    "id": "e4a067fb-caaa-4e54-93ff-7884e100f80a",
+    "data": [
+      {
+        "text": "sûrement pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615287
+  },
+  {
+    "id": "01bac2d7-42c3-482f-82a6-548dfd4eb3d7",
+    "data": [
+      {
+        "text": "non",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1525615287
+  },
+  {
+    "id": "8021538c-aaab-4dd9-a1ed-163980d64d45",
+    "data": [
+      {
+        "text": "pas vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615287
+  },
+  {
+    "id": "b103b5c6-baf7-488f-a512-a802afa15797",
+    "data": [
+      {
+        "text": "je ne suis pas d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525615287
+  },
+  {
+    "id": "1481f3d0-77d0-4512-8437-e5a3a6be9ccb",
+    "data": [
+      {
+        "text": "ne le fais pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525615287
+  },
+  {
+    "id": "7828e2dd-5776-4eda-a1a3-88c82a7225bc",
+    "data": [
+      {
+        "text": "je n\u0027en veux pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615287
+  },
+  {
+    "id": "ea74331e-5948-417b-9450-86f0a6453894",
+    "data": [
+      {
+        "text": "ça ne m\u0027intéresse pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615287
+  },
+  {
+    "id": "a3b345d7-de3e-444c-b4ae-34bd0ee51a1e",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525615287
+  },
+  {
+    "id": "d284d222-bf82-4fd4-b973-c3e9f7d77a0b",
+    "data": [
+      {
+        "text": "je ne crois pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497436840
+  },
+  {
+    "id": "12c5cab1-192a-46eb-a828-a818cb8949f9",
+    "data": [
+      {
+        "text": "non merci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1525615287
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "6c84abe5-792e-442a-ba3e-d4818eb60328",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instrument",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  },
+  {
+    "id": "2c5b4204-7008-4d33-b072-9cb77e0ccc1d",
+    "data": [
+      {
+        "text": "ok for ",
+        "userDefined": false
+      },
+      {
+        "text": "saxophone",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "piano",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  },
+  {
+    "id": "8b55537f-c434-4d07-a51e-d2896d15e0b1",
+    "data": [
+      {
+        "text": "yes the ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  },
+  {
+    "id": "68ad7c19-1b32-479c-95d4-ffcc1b9f7327",
+    "data": [
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  },
+  {
+    "id": "e605ae66-6dd3-497b-aed3-8db15ba40f67",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instrument",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  },
+  {
+    "id": "733688d7-c969-4ff2-a1fa-3aa260d91074",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524841209
+  }
+]

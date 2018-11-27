@@ -1,0 +1,107 @@
+[
+  {
+    "id": "fe0dd708-87f6-47de-bdb7-4512b548b409",
+    "data": [
+      {
+        "text": "Parle-moi de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456499
+  },
+  {
+    "id": "00733659-e486-481b-8310-516dccbcf4fd",
+    "data": [
+      {
+        "text": "Dis-moi quelque chose ",
+        "userDefined": false
+      },
+      {
+        "text": "à",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " propos de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mozart",
+        "alias": "doremus-artist",
+        "meta": "@doremus-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456499
+  },
+  {
+    "id": "4d7d9257-7075-409b-88ad-0a75c0aac32d",
+    "data": [
+      {
+        "text": "Parle-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " artiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456499
+  },
+  {
+    "id": "410ae8a9-4dd8-4918-964a-70a506ea6c5c",
+    "data": [
+      {
+        "text": "Parle-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525456499
+  }
+]

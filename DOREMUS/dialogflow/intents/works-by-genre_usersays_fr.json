@@ -1,0 +1,297 @@
+[
+  {
+    "id": "3efee696-d607-4d95-b6f3-839e723c8d01",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600933
+  },
+  {
+    "id": "5f52df38-c0bc-4633-8557-50399d90f448",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre, ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458684
+  },
+  {
+    "id": "468bb60e-014b-40fd-bbba-43480cdf000b",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600933
+  },
+  {
+    "id": "01524441-d416-44cb-b019-86c9eed0803a",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "le",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458684
+  },
+  {
+    "id": "d5f28bd0-6cbe-41c0-8a5d-3596f3f2b9b3",
+    "data": [
+      {
+        "text": "Je voudrais ajouter le genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600933
+  },
+  {
+    "id": "1b4a3529-cdd5-4f1b-b143-7c247db7464b",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458684
+  },
+  {
+    "id": "8a617b84-d167-4639-8b24-730092967423",
+    "data": [
+      {
+        "text": "Sinfonie",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529778946
+  },
+  {
+    "id": "44d559f2-9805-4932-a3b9-1fc529664c60",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600625
+  },
+  {
+    "id": "107768f3-132f-48c8-af1a-6a2cb426082d",
+    "data": [
+      {
+        "text": "Aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525603368
+  },
+  {
+    "id": "d2ffb116-2d8a-4146-b03b-ff07fd75ca37",
+    "data": [
+      {
+        "text": "Je voudrais ajouter ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525458684
+  },
+  {
+    "id": "56ab7be5-5aa6-4b48-af7a-9e8b76d67c58",
+    "data": [
+      {
+        "text": "Oui le genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600933
+  },
+  {
+    "id": "9c9ff549-e74d-43a0-bc0f-610c7cb9c0b7",
+    "data": [
+      {
+        "text": "Musique de chambre",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529669341
+  },
+  {
+    "id": "40b9f25d-62fd-4e6c-b49d-fc977f5238ae",
+    "data": [
+      {
+        "text": "Le",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525600625
+  },
+  {
+    "id": "3bbaee09-3770-4c37-ad63-4a8242043a55",
+    "data": [
+      {
+        "text": "Je voudrais ajouter ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genre, ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525458684
+  },
+  {
+    "id": "8ba7739e-d1af-4f07-9c70-b4bb9b24b51a",
+    "data": [
+      {
+        "text": "Oui ",
+        "userDefined": false
+      },
+      {
+        "text": "juste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458684
+  }
+]

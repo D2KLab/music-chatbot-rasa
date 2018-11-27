@@ -1,0 +1,41 @@
+{
+  "id": "aeaff3e6-acf3-4264-a8d1-39833b50a16f",
+  "name": "reset",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Au revoir! J\u0027espère vous revoir bientôt.",
+            "D\u0027accord, appelez-moi quand vous avez besoin."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bye! I hope to chat with you again really soon!",
+            "See you later!",
+            "Okay, see you!",
+            "Bye bye. Call me when you need!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531048095,
+  "fallbackIntent": false,
+  "events": []
+}

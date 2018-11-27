@@ -1,0 +1,453 @@
+[
+  {
+    "id": "090c7904-107f-4c41-a300-fd5f124f203e",
+    "data": [
+      {
+        "text": "Which performances there are ",
+        "userDefined": false
+      },
+      {
+        "text": "in these days",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "3db745ef-1639-45bc-95bf-d7a15d2c5bee",
+    "data": [
+      {
+        "text": "Find me ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " event ",
+        "userDefined": false
+      },
+      {
+        "text": "on July",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "1032b441-f26d-4061-8276-2e003f214ea4",
+    "data": [
+      {
+        "text": "There is ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " performance ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "24a3deff-96a7-4849-afa2-fb0397dc38a1",
+    "data": [
+      {
+        "text": "There is ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " performance ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "7fbe1e02-45b6-41e0-9ec5-4ebd47c3d094",
+    "data": [
+      {
+        "text": "Find ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " event ",
+        "userDefined": false
+      },
+      {
+        "text": "on January",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "552317be-1d45-4794-9ec7-8df351007246",
+    "data": [
+      {
+        "text": "is there an event ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "7f4c8754-121b-451d-b26d-b032efacce12",
+    "data": [
+      {
+        "text": "Are there any events scheduled ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "ce01bdcb-9142-4cdb-965b-8de3cb46c51c",
+    "data": [
+      {
+        "text": "Are there any events ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "b09f82d0-f8f9-4b20-8dd4-7031545b1d25",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " events happened ",
+        "userDefined": false
+      },
+      {
+        "text": "during July 2016",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "71e385ab-462c-4a78-a108-4d814ff7d89e",
+    "data": [
+      {
+        "text": "propose me ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " event ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "ec1eca99-13c1-4fca-9014-ac18d0a53c4f",
+    "data": [
+      {
+        "text": "Which performances can you propose me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "e4ce59d1-ce8f-498f-bf3b-303b0409fd95",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " performances ",
+        "userDefined": false
+      },
+      {
+        "text": "from January 2017 and March 2018",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "9f332453-48e3-43f2-887b-e582aa6fc739",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "some",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " performances ",
+        "userDefined": false
+      },
+      {
+        "text": "in these days",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "4de38725-694b-46f7-b0b7-e065d3373fac",
+    "data": [
+      {
+        "text": "Find me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " events scheduled ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "96ccfb5d-eac2-4bad-a158-7e40bbd580ad",
+    "data": [
+      {
+        "text": "Propose me ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " performance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  },
+  {
+    "id": "e4c0ddd0-25b2-40fe-98f2-510bfaf5e38e",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " events happened ",
+        "userDefined": false
+      },
+      {
+        "text": "between May 2015 and May 2016",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529657150
+  }
+]

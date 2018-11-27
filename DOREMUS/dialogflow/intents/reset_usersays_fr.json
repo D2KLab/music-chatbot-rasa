@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6b65eaed-2f43-4df4-97e7-1ef52384624e",
+    "data": [
+      {
+        "text": "au revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  },
+  {
+    "id": "71abb9dc-2c5e-4e24-9ce6-5183d3e165c1",
+    "data": [
+      {
+        "text": "ça ne fait rien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  },
+  {
+    "id": "0bea63b3-36d3-42c0-95a8-57702716b566",
+    "data": [
+      {
+        "text": "recommençons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  },
+  {
+    "id": "69c72839-ff4b-44f8-9aa0-ea48d0095790",
+    "data": [
+      {
+        "text": "cela ne fait rien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  },
+  {
+    "id": "35f7b73a-6ff2-451a-9f7d-f0c88b795f3e",
+    "data": [
+      {
+        "text": "à",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bientôt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  },
+  {
+    "id": "1e8df478-a69e-4b44-a137-397c47d3f826",
+    "data": [
+      {
+        "text": "à plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531048095
+  }
+]

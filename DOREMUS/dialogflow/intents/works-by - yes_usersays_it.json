@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4a31cd4d-040c-421c-adf6-e73cb0c60406",
+    "data": [
+      {
+        "text": "fallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "5254afc3-55ee-43e7-9d37-6a61090be234",
+    "data": [
+      {
+        "text": "certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "0c4bac45-d03b-4c41-8517-d8a16e7ca5a5",
+    "data": [
+      {
+        "text": "sì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "b854e320-2c41-4d22-bb34-d93d018bea37",
+    "data": [
+      {
+        "text": "d\u0027accordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "fcbdb859-96a1-4fa4-9567-5d60b76803a8",
+    "data": [
+      {
+        "text": "certamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "ad1e4e2e-59c2-4bbd-b0fd-92006384dc73",
+    "data": [
+      {
+        "text": "non importa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "b3550899-40ff-4de3-acc8-30dc3f3a1858",
+    "data": [
+      {
+        "text": "confermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "5efef562-b7a4-4f57-9e11-55598e7fc316",
+    "data": [
+      {
+        "text": "proprio così",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "8df9ffda-c0f9-48a0-a6a8-0c601041e691",
+    "data": [
+      {
+        "text": "buona idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  },
+  {
+    "id": "ccd640db-e6bf-4435-96c1-b3468ff8fec8",
+    "data": [
+      {
+        "text": "esatto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497443931
+  }
+]

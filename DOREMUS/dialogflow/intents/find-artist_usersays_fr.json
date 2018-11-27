@@ -1,0 +1,785 @@
+[
+  {
+    "id": "f5a3d819-5ff9-4a00-9deb-43f563595e75",
+    "data": [
+      {
+        "text": "Trouve-moi les compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "f48f03b4-85ae-4197-acec-8d1545ba5076",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " compositeurs nés a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " qui ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "11a795e2-dfc0-4452-80a5-ec56bf9a3833",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs nés a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "595c9359-6dc2-4a5a-86c1-a75848aa500d",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "0fc132dd-eef5-433b-ad97-76578c772e59",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "e4ea6eec-54f4-4936-9f13-d672fc8081bc",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " écrit plus ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525601768
+  },
+  {
+    "id": "8e4d3f03-a57c-47bb-8f86-ed8b4855f8b4",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "b709adaa-1561-4a26-90bf-591a945caeed",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " compositeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "b6baa3c0-9056-4a21-ad7c-1cdd07fb6270",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "66a40346-37d9-4208-b367-e1c64f89be84",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525601768
+  },
+  {
+    "id": "89ed8594-bdbb-45ec-98ab-71a5031743ca",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "95cd5e92-1af1-43d3-b782-297a22e193eb",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "e099551d-c931-4aaa-9f31-a10c22b0ad90",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeur né ",
+        "userDefined": false
+      },
+      {
+        "text": "à",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "35455bca-efd7-4035-94ba-2881a14e1bda",
+    "data": [
+      {
+        "text": "\n Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " compositeurs qui ont écrit plus ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": true
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinet",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525458252
+  },
+  {
+    "id": "2f87226c-d467-4f38-8849-356adb574d79",
+    "data": [
+      {
+        "text": "Trouve-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs nés ",
+        "userDefined": false
+      },
+      {
+        "text": "à",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "dc128343-ad8c-4ab9-81bf-18af35c8094e",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  },
+  {
+    "id": "ac2ee1f1-b64b-443e-8bac-6d3bb1193ffe",
+    "data": [
+      {
+        "text": "Trouve-moi les ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compositeurs ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres de genre ",
+        "userDefined": false
+      },
+      {
+        "text": "aria",
+        "alias": "doremus-genre",
+        "meta": "@doremus-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525458252
+  },
+  {
+    "id": "c9b1c0fd-cb6f-444d-88e5-a5fa6353a1e2",
+    "data": [
+      {
+        "text": "Trouve-moi les compositeurs nés ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "qui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ont écrit plus oeuvres pour ",
+        "userDefined": false
+      },
+      {
+        "text": "clarinette",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "et",
+        "alias": "doremus-strictly",
+        "meta": "@doremus-strictly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "violin",
+        "alias": "doremus-instrument",
+        "meta": "@doremus-instrument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531054432
+  }
+]
