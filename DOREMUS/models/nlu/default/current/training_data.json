@@ -14,6 +14,390 @@
         "text": "I'm thinking about Mozart... what do you know of him?"
       },
       {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Mozart",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mozart"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Mozart",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mozart"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Jean-Michel Jarre",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Jean-Michel Jarre"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "Zaz",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Zaz"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Mylène Farmer",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mylène Farmer"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Jean-Michel Jarre",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Jean-Michel Jarre"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "opera",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "opera"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "sonata",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "sonata"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "blues",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "blues"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "rock",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "rock"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerts",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerts"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "melodies",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "melodies"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "rock",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "rock"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Symphony",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "Symphony"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "pop",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "pop"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "violin"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "violin"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1900 and 1950",
+            "entity": "date-period"
+          }
+        ],
+        "text": "between 1900 and 1950"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "19th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "19th century"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "19 century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "19 century"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "16th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "16th century"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "16th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "16th century"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "1900-1950",
+            "entity": "date-period"
+          }
+        ],
+        "text": "1900-1950"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "last month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "last month"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "last year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "last year"
+      },
+      {
         "intent": "hello",
         "text": "hello"
       },

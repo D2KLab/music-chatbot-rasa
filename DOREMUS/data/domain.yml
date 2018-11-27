@@ -40,6 +40,10 @@ intents:
  - works-by-instrument
  - works-by-years
  - works-by
+ - inform_period
+ - inform_instrument
+ - inform_genre
+ - inform_artist
 
 entities:
   - date-period
