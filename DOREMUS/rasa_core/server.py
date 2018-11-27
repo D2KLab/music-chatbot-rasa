@@ -357,7 +357,7 @@ def create_app(model_directory,  # type: Text
             # Set the output channel
             out = CollectingOutputChannel()
             # Fetches the appropriate bot response in a json format
-            responses = agent().handle_message(message,
+            responses = agent(). modified_handle_message(message,
                                                output_channel=out,
                                                sender_id=sender_id)
             return jsonify(responses)

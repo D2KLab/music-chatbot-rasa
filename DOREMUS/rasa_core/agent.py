@@ -116,6 +116,42 @@ class Agent(object):
         return processor.handle_message(
                 UserMessage(text_message, output_channel, sender_id))
 
+    def modified_handle_message(
+            self,
+            text_message,  # type: Text
+            message_preprocessor=None,  # type: Optional[Callable[[Text], Text]]
+            output_channel=None,  # type: Optional[OutputChannel]
+            sender_id=UserMessage.DEFAULT_SENDER_ID  # type: Optional[Text]
+    ):
+        # type: (...) -> Optional[List[Text]]
+        """Handle a single message.
+
+        If a message preprocessor is passed, the message will be passed to that
+        function first and the return value is then used as the
+        input for the dialogue engine.
+
+        The return value of this function depends on the ``output_channel``. If
+        the output channel is not set, set to ``None``, or set
+        to ``CollectingOutputChannel`` this function will return the messages
+        the bot wants to respond.
+
+        :Example:
+
+            >>> from rasa_core.agent import Agent
+            >>> agent = Agent.load("examples/restaurantbot/models/dialogue",
+            ... interpreter="examples/restaurantbot/models/nlu/current")
+            >>> agent.handle_message("hello")
+            [u'how can I help you?']
+
+        """
+        # Creates a new processor for the agent and handles
+        # the single message
+        processor = self._create_processor(message_preprocessor)
+        return processor.modified_handle_message(
+                UserMessage(text_message, output_channel, sender_id))
+
+
+
     def start_message_handling(
             self,
             text_message,   # type: Text

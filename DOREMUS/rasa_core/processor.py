@@ -97,6 +97,32 @@ class MessageProcessor(object):
         else:
             return None
 
+    def modified_handle_message(self, message):
+        # type: (UserMessage) -> Optional[List[Text]]
+        """Handle a single message with this processor."""
+
+        # preprocess message if necessary
+        if self.message_preprocessor is not None:
+            message.text = self.message_preprocessor(message.text)
+        # we have a Tracker instance for each user
+        # which maintains conversation state
+        tracker = self._get_tracker(message.sender_id)
+        self._handle_message_with_tracker(message, tracker)
+        #self._predict_and_execute_next_action(message, tracker)
+        # added by Alaa
+        response=self.modified_predict_and_execute_next_action(message, tracker)
+        # save tracker state to continue conversation from this state
+        self._save_tracker(tracker)
+
+        if isinstance(message.output_channel, CollectingOutputChannel):
+            response['fulfillmentMessages']= message.output_channel.messages
+            return response
+            #return message.output_channel.messages
+        else:
+            return None
+
+
+
     def start_message_handling(self, message):
         # type: (UserMessage) -> Dict[Text, Any]
 
@@ -276,7 +302,7 @@ class MessageProcessor(object):
                and num_predicted_actions < self.max_number_of_predictions):
             # this actually just calls the policy's method by the same name
             action = self._get_next_action(tracker)
-
+            
             should_predict_another_action = self._run_action(action,
                                                              tracker,
                                                              dispatcher)
@@ -291,6 +317,48 @@ class MessageProcessor(object):
             if self.on_circuit_break:
                 # call a registered callback
                 self.on_circuit_break(tracker, dispatcher)
+
+
+    def modified_predict_and_execute_next_action(self, message, tracker):
+        # this will actually send the response to the user
+        response={}
+        dispatcher = Dispatcher(message.sender_id,
+                                message.output_channel,
+                                self.domain)
+        # keep taking actions decided by the policy until it chooses to 'listen'
+        should_predict_another_action = True
+        num_predicted_actions = 0
+
+        self._log_slots(tracker)
+
+        # action loop. predicts actions until we hit action listen
+        while (should_predict_another_action
+               and self._should_handle_message(tracker)
+               and num_predicted_actions < self.max_number_of_predictions):
+            # this actually just calls the policy's method by the same name
+            action = self._get_next_action(tracker)
+            if action.name()!="action_listen":
+                response["next_action"]= action.name() 
+            should_predict_another_action = self._run_action(action,
+                                                             tracker,
+                                                             dispatcher)
+            # response["next_action"]= action.name()                                                
+            num_predicted_actions += 1
+
+        if (num_predicted_actions == self.max_number_of_predictions and
+                should_predict_another_action):
+            # circuit breaker was tripped
+            logger.warn(
+                    "Circuit breaker tripped. Stopped predicting "
+                    "more actions for sender '{}'".format(tracker.sender_id))
+            if self.on_circuit_break:
+                # call a registered callback
+                self.on_circuit_break(tracker, dispatcher)
+        
+        # added by Alaa 
+        response["tracker"] = tracker.current_state() 
+        return response   
+
 
     @staticmethod
     def should_predict_another_action(action_name, events):
