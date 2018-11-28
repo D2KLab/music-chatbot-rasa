@@ -11,6 +11,8 @@ class <action_name>(Action):
         index = "<index_name>"
         template = dispatcher.retrieve_template("utter_"+"<action_name>")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -21,7 +23,6 @@ class <action_name>(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -41,7 +42,6 @@ class <action_name>(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))

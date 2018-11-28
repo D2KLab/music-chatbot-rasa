@@ -28,6 +28,24 @@ def out_context_set(action_name,df_directory="dialogflow"):
 
     return contexts
 
+def in_context_set(action_name,df_directory="dialogflow"):
+    intent_directory = df_directory + "/intents/"
+    contexts = []
+    for file in os.listdir(intent_directory):
+        if fnmatch.fnmatchcase(file, "*_usersays_*.json"):
+            continue
+        with open(intent_directory + file, "r", encoding="utf8") as f:
+            try:
+                intent_file = json.load(f)
+                intent = Intent(intent_file)
+                if command_sanitizer(intent.action)==action_name:
+                    for context in intent.context_in:
+                        contexts.append(context)
+            except Exception as e:
+                logger.error("Error in loading {}\nError:{}".format(file,e))
+
+    return contexts
+    
 def check_for_entities(text,slot_type):
         slot = slot_index()
         s_index = slot.index

@@ -12,6 +12,7 @@ import logging
 from common import command_sanitizer
 from common import out_context_set
 from common import intent_index
+from common import in_context_set
 
 
 logger = logging.getLogger(__name__)
@@ -19,6 +20,49 @@ contain = intent_index()
 
 
 
+active_contexts={'works-by-followup': 0}
+entities=["date-period","geo-city","doremus-artist","doremus-instrument",
+"doremus-genre","number","doremus-strictly"]
+
+def contexts_reset(action_name,tracker):
+    events=[]
+    contexts_in = in_context_set(action_name)
+    contexts_out = out_context_set(action_name)
+    if len(contexts_out)==0:
+        contexts_out=[action_name]
+    contexts_in.extend(contexts_out)
+    contexts=contexts_in
+    should_reset=1
+    for context in contexts:
+
+        try:
+            if active_contexts[context]>0:
+                should_reset=0
+                break
+        except:
+            pass        
+
+    if should_reset==1:
+        for entity in entities:
+            try:
+                next(tracker.get_latest_entity_values(entity))
+            except:
+                # no entities for this entity found in the last massage    
+                tracker._set_slot(entity, None)
+                events.append(SlotSet(entity, None))
+
+                  
+
+    for context in active_contexts:
+        active_contexts[context]=0
+
+    for context in contexts_out:
+        active_contexts[context]=1
+    
+    return events  
+
+
+    
 class input_unknown(Action):
     def name(self):
         return 'input_unknown'
@@ -32,6 +76,8 @@ class input_unknown(Action):
         index = "Default_Fallback_Intent"
         template = dispatcher.retrieve_template("utter_"+"input_unknown")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -42,7 +88,6 @@ class input_unknown(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -62,7 +107,6 @@ class input_unknown(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -82,6 +126,8 @@ class input_welcome(Action):
         index = "Default_Welcome_Intent"
         template = dispatcher.retrieve_template("utter_"+"input_welcome")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -92,7 +138,6 @@ class input_welcome(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -112,7 +157,6 @@ class input_welcome(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -132,6 +176,8 @@ class discover_artist(Action):
         index = "discover_artist"
         template = dispatcher.retrieve_template("utter_"+"discover_artist")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -142,7 +188,6 @@ class discover_artist(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -162,7 +207,6 @@ class discover_artist(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -182,6 +226,8 @@ class find_artist(Action):
         index = "find_artist"
         template = dispatcher.retrieve_template("utter_"+"find_artist")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -192,7 +238,6 @@ class find_artist(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -212,7 +257,6 @@ class find_artist(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -232,6 +276,8 @@ class find_performance(Action):
         index = "find_performance"
         template = dispatcher.retrieve_template("utter_"+"find_performance")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -242,7 +288,6 @@ class find_performance(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -262,7 +307,6 @@ class find_performance(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -284,6 +328,8 @@ class help(Action):
         index = "help"
         template = dispatcher.retrieve_template("utter_"+"help")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -294,7 +340,6 @@ class help(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -314,7 +359,6 @@ class help(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -334,6 +378,8 @@ class reset(Action):
         index = "reset"
         template = dispatcher.retrieve_template("utter_"+"reset")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -344,7 +390,6 @@ class reset(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -364,7 +409,6 @@ class reset(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -384,6 +428,8 @@ class works_by_works_by_no(Action):
         index = "works_by___no"
         template = dispatcher.retrieve_template("utter_"+"works_by_works_by_no")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -394,7 +440,6 @@ class works_by_works_by_no(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -414,7 +459,6 @@ class works_by_works_by_no(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -434,6 +478,8 @@ class works_by_works_by_yes(Action):
         index = "works_by___yes"
         template = dispatcher.retrieve_template("utter_"+"works_by_works_by_yes")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -444,7 +490,6 @@ class works_by_works_by_yes(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -464,7 +509,6 @@ class works_by_works_by_yes(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -484,6 +528,8 @@ class works_by_artist(Action):
         index = "works_by_artist"
         template = dispatcher.retrieve_template("utter_"+"works_by_artist")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -494,7 +540,6 @@ class works_by_artist(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -514,7 +559,6 @@ class works_by_artist(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -534,6 +578,8 @@ class works_by_genre(Action):
         index = "works_by_genre"
         template = dispatcher.retrieve_template("utter_"+"works_by_genre")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -544,7 +590,6 @@ class works_by_genre(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -564,7 +609,6 @@ class works_by_genre(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -584,6 +628,8 @@ class works_by_instrument(Action):
         index = "works_by_instrument"
         template = dispatcher.retrieve_template("utter_"+"works_by_instrument")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -594,7 +640,6 @@ class works_by_instrument(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -614,7 +659,6 @@ class works_by_instrument(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -634,6 +678,8 @@ class works_by_years(Action):
         index = "works_by_years"
         template = dispatcher.retrieve_template("utter_"+"works_by_years")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -644,7 +690,6 @@ class works_by_years(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -664,7 +709,6 @@ class works_by_years(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))
@@ -684,6 +728,8 @@ class works_by(Action):
         index = "works_by"
         template = dispatcher.retrieve_template("utter_"+"works_by")
 
+        # reset slots if necessary
+        events=contexts_reset(self.name(),tracker)
         # Checking required parameters
         intent = contain.index[index]
         for entity in intent.entities:
@@ -694,7 +740,6 @@ class works_by(Action):
                     if slot_val is None:
                         logger.info("Uttering the required parameter")
                         dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events = []
                         events.append(SlotSet("requested_slot", slot))
                         return events
                         
@@ -714,7 +759,6 @@ class works_by(Action):
                 modified_text += text[i]
             i += 1
         dispatcher.utter_message(modified_text)
-        events = []
         contexts = out_context_set(self.name)
         for c in contexts:
             events.append(SlotSet(c,1))

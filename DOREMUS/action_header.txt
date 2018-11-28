@@ -12,9 +12,54 @@ import logging
 from common import command_sanitizer
 from common import out_context_set
 from common import intent_index
+from common import in_context_set
 
 
 logger = logging.getLogger(__name__)
 contain = intent_index()
 
 
+
+active_contexts={'works-by-followup': 0}
+entities=["date-period","geo-city","doremus-artist","doremus-instrument",
+"doremus-genre","number","doremus-strictly"]
+
+def contexts_reset(action_name,tracker):
+    events=[]
+    contexts_in = in_context_set(action_name)
+    contexts_out = out_context_set(action_name)
+    if len(contexts_out)==0:
+        contexts_out=[action_name]
+    contexts_in.extend(contexts_out)
+    contexts=contexts_in
+    should_reset=1
+    for context in contexts:
+
+        try:
+            if active_contexts[context]>0:
+                should_reset=0
+                break
+        except:
+            pass        
+
+    if should_reset==1:
+        for entity in entities:
+            try:
+                next(tracker.get_latest_entity_values(entity))
+            except:
+                # no entities for this entity found in the last massage    
+                tracker._set_slot(entity, None)
+                events.append(SlotSet(entity, None))
+
+                  
+
+    for context in active_contexts:
+        active_contexts[context]=0
+
+    for context in contexts_out:
+        active_contexts[context]=1
+    
+    return events  
+
+
+    
