@@ -164,6 +164,20 @@ class get_slot(object):
 
         return string
 
+class entity_types():
+    def __init__(self):
+        self.entity_to_types={}
+        self.build()
+
+    def build(self):
+        with open('entity_types.json', 'r') as outfile:
+            entity_to_types=json.load(outfile)  
+        
+        entities=get_entity("dialogflow").entity_list
+        for entity in entities:
+            if entity not in entity_to_types:
+                entity_to_types[entity]=entity
+        self.entity_to_types=entity_to_types
 
 class get_action(object):
     def __init__(self,intent):

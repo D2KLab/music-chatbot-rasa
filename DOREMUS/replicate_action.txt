@@ -13,8 +13,13 @@ class <action_name>(Action):
 
         # reset slots if necessary
         events=contexts_reset(self.name(),tracker)
+        
+        # standardize the slots
+        events.extend(transform_slots_to_standard(tracker))
+        
         # Checking required parameters
         intent = contain.index[index]
+        
         for entity in intent.entities:
             if entity.required == True:
                 slot = entity.name
