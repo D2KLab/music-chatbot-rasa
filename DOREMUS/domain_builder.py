@@ -176,7 +176,7 @@ class entity_types():
         entities=get_entity("dialogflow").entity_list
         for entity in entities:
             if entity not in entity_to_types:
-                entity_to_types[entity]=entity
+                entity_to_types[entity]=None
         self.entity_to_types=entity_to_types
 
 class get_action(object):
