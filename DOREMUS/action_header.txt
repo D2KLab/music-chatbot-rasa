@@ -67,25 +67,51 @@ def contexts_reset(action_name,tracker):
         
     return events  
 
+
 def transform_slots_to_standard(tracker):
     events=[]
-    for entity in entities:
-        try:
-            entity_value=next(tracker.get_latest_entity_values(entity))
-            if types_entities[entity]=="DATETIME":
-                tracker._set_slot(entity, DATETIME_to_iso(entity_value))
-                events.append(SlotSet(entity, DATETIME_to_iso(entity_value)))
-        except:
-            # no entities for this entity found in the last massage    
-            pass
+    latest_entities=tracker.latest_message.entities
+    entity_values=[]
+    # if spacy detected datetime entities use those otherwise use the 
+    # the entities extracted by ner_crf
+    try:
+        for entity in latest_entities:
+            if entity['extractor']=="ner_spacy" and (entity['entity']=='DATE'
+            or entity['entity']=='TIME'):
+                entity_values.append(entity['value'])
 
-    return events    
+        if len(entity_values)>0:
+                    entity_value = " ".join(entity_values) 
+                    tracker._set_slot("date-period", DATETIME_to_iso(entity_value))
+                    events.append(SlotSet("date-period", DATETIME_to_iso(entity_value))) 
+                    
+                    return events
+    except:
+        # spacy didn't find any entities related to datetime 
+        # so try to see if ner_crf extracted any entities related to
+        # Datetime                   
+
+        for entity in entities:
+            if types_entities[entity]=="DATETIME":
+                entity_values=[]
+                for tmp in tracker.get_latest_entity_values(entity):
+                    print(entity_values)
+                    entity_values.append(tmp)
+
+                if len(entity_values)>0:
+                    entity_value = " ".join(entity_values)    
+                    tracker._set_slot(entity, DATETIME_to_iso(entity_value))
+                    events.append(SlotSet(entity, DATETIME_to_iso(entity_value)))
+
+    return events     
 
 
 def DATETIME_to_iso(datetime_string):
         formatted_dates=[]
         matches = extract_dates(datetime_string)
         for match in matches:
+            if match==None:
+                break
             formatted_dates.append(match.isoformat())
 
         if len(formatted_dates)==0:
