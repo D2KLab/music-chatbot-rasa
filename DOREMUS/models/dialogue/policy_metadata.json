@@ -2,17 +2,35 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
+        "doremus-instrument",
+        "geo-city",
+        "doremus-strictly",
         "doremus-genre",
+        "number",
         "works-by-followup",
         "date-period",
-        "doremus-artist",
-        "doremus-instrument"
+        "doremus-artist"
       ]
+    },
+    "works_by_artist": {
+      "slots": []
     },
     "works_by_instrument": {
       "slots": []
     },
-    "works_by_artist": {
+    "works_by_works_by_no": {
+      "slots": []
+    },
+    "find_performance": {
+      "slots": []
+    },
+    "discover_artist": {
+      "slots": []
+    },
+    "works_by_genre": {
+      "slots": []
+    },
+    "find_artist": {
       "slots": []
     },
     "works_by_years": {
@@ -21,34 +39,19 @@
     "help": {
       "slots": []
     },
-    "discover_artist": {
-      "slots": []
-    },
-    "works_by_works_by_no": {
-      "slots": []
-    },
-    "works_by": {
-      "slots": []
-    },
-    "works_by_genre": {
+    "works_by_works_by_yes": {
       "slots": []
     },
     "input_unknown": {
       "slots": []
     },
-    "find_artist": {
+    "reset": {
       "slots": []
     },
     "input_welcome": {
       "slots": []
     },
-    "find_performance": {
-      "slots": []
-    },
-    "reset": {
-      "slots": []
-    },
-    "works_by_works_by_yes": {
+    "works_by": {
       "slots": []
     }
   },

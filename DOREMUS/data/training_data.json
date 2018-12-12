@@ -18,6 +18,2865 @@
         "entities": [
           {
             "start": 0,
+            "end": 4,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Bach"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Rachmaninov",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Rachmaninov"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Leos Janacek",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Leos Janacek"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Henri Dutilleux",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Henri Dutilleux"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Lilia boulanger",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Lilia boulanger"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "bate",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "bate"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Bach"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Bach"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "September",
+            "entity": "date-period"
+          }
+        ],
+        "text": "September"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "September",
+            "entity": "date-period"
+          }
+        ],
+        "text": "September"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "October",
+            "entity": "date-period"
+          }
+        ],
+        "text": "October"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "next month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "next month"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "next year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "next year"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "this week",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this week"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "this week",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this week"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "this month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this month"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "this year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this year"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "this decade",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this decade"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "next year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "next year"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "this month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this month"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "next month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "next month"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "minor",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "minor"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "orchestra",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "orchestra"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "minor",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "minor"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Symphonie",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "Symphonie"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Beethoven"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "[clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "[clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mort"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "stravinsqi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "stravinsqi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "HUBERT",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "HUBERT"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": " [orchestra",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": " [orchestra"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "[orchestra",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "[orchestra"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "ravel",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "ravel"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Brahms"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "sung",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "sung"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Debussy",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Debussy"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mort"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Motet",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Motet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Leopold Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Leopold Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Wolfgang",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Wolfgang"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Amadeus",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Amadeus"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Wolfgang",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Wolfgang"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Amadeus",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Amadeus"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "violin"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "mart",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "mart"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "clarinet"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Bach"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Vivaldi"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Salieri",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Salieri"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Salieri",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Salieri"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "concerto"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "violin"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1782 and 1822",
+            "entity": "date-period"
+          }
+        ],
+        "text": "between 1782 and 1822"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1860 and 1870",
+            "entity": "date-period"
+          }
+        ],
+        "text": "between 1860 and 1870"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "18th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "18th century"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1801 and 1900",
+            "entity": "date-period"
+          }
+        ],
+        "text": "between 1801 and 1900"
+      },
+      {
+        "intent": "inform_period",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1752 and 1772",
+            "entity": "date-period"
+          }
+        ],
+        "text": "between 1752 and 1772"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Symphonie",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "Symphonie"
+      },
+      {
+        "intent": "inform_genre",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "between 1900 and 1950",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "between 1900 and 1950"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_instrument",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "piano"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mort"
+      },
+
+      {
+        "intent": "hello",
+        "text": "hello"
+      },
+      {
+        "intent": "hello",
+        "text": "Hi"
+      },
+      {
+        "intent": "hello",
+        "text": "hi"
+      },
+      {
+        "intent": "hello",
+        "text": "Hey"
+      },
+      {
+        "intent": "hello",
+        "text": "Hello"
+      },
+      {
+        "intent": "hello",
+        "text": "hey"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 8,
+            "end": 9,
+            "value": "3",
+            "entity": "number"
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Give me 3 works composed by Bach"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 16,
+            "end": 27,
+            "value": "Rachmaninov",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Okay talk about Rachmaninov"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 14,
+            "end": 23,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Talk me about Beethoven"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Talk me about Vivaldi"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Talk to me about Vivaldi"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Tell me about Vivaldi"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 8,
+            "end": 17,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Who was Beethoven"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Who was Vivaldi"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 7,
+            "end": 19,
+            "value": "Leos Janacek",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Who is Leos Janacek"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 7,
+            "end": 22,
+            "value": "Henri Dutilleux",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Who is Henri Dutilleux"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 7,
+            "end": 22,
+            "value": "Lilia boulanger",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "who is Lilia boulanger"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 14,
+            "end": 23,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Who  is L Van Beethoven"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "bate",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "tell me something about bate"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 3,
+            "end": 12,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "is Beethoven a composer"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Tell me something about Bach"
+      },
+      {
+        "intent": "discover-artist",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Works from Bach"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 29,
+            "value": "Paris",
+            "entity": "geo-city"
+          }
+        ],
+        "text": "Are there any events in Paris"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 12,
+            "value": "September",
+            "entity": "date-period"
+          }
+        ],
+        "text": "In September"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 29,
+            "value": "Paris",
+            "entity": "geo-city"
+          },
+          {
+            "start": 33,
+            "end": 42,
+            "value": "September",
+            "entity": "date-period"
+          }
+        ],
+        "text": "are there any events in Paris in September"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 29,
+            "value": "paris",
+            "entity": "geo-city"
+          },
+          {
+            "start": 33,
+            "end": 40,
+            "value": "October",
+            "entity": "date-period"
+          }
+        ],
+        "text": "are there any events in paris in October"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 34,
+            "value": "next month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event for next month"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 37,
+            "value": "the next [two",
+            "entity": "number"
+          }
+        ],
+        "text": "Propose me an event for the next [two months](date-period)e"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 33,
+            "value": "next year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event for next year"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 24,
+            "end": 33,
+            "value": "this week",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event for this week"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "this week",
+            "entity": "date-period"
+          }
+        ],
+        "text": "this week"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 30,
+            "value": "this month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event this month"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 29,
+            "value": "this year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event this year"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 31,
+            "value": "this decade",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event this decade"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 29,
+            "value": "next year",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event next year"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 30,
+            "value": "this month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Propose me an event this month"
+      },
+      {
+        "intent": "find-performance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 26,
+            "value": "Paris",
+            "entity": "geo-city"
+          },
+          {
+            "start": 34,
+            "end": 44,
+            "value": "next month",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Tell me one event in Paris in the next month"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 12,
+            "end": 13,
+            "value": "2",
+            "entity": "number"
+          }
+        ],
+        "text": "Now give me 2 of his works"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give 2 works by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "text": "give a work by a french composer"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 29,
+            "end": 34,
+            "value": "minor",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me a work by Brahms in  minor"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 29,
+            "end": 34,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 39,
+            "end": 48,
+            "value": "orchestra",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 52,
+            "end": 57,
+            "value": "minor",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me a work by Brahms for piano and orchestra in minor"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 22,
+            "end": 28,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a symphony by Brahms"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Symphonie",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "Symphonies"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "value": "Beethoven",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me two works from Beethoven"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 27,
+            "value": "[clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me works for [clarinets](doremus-instrument)"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work of Mort"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "stravinsqi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work of stravinsqi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "HUBERT",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work of HUBERT"
+      },
+      {
+        "intent": "works-by",
+        "text": "give me a work of an Italian composer"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me a work for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 20,
+            "end": 28,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me a work with clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 20,
+            "end": 28,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work with clarinet by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          },
+          {
+            "start": 25,
+            "end": 33,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 37,
+            "end": 44,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me the concerto for clarinet by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "622",
+            "entity": "number"
+          },
+          {
+            "start": 24,
+            "end": 31,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me the work 622 by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "622",
+            "entity": "number"
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me the 622 by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 18,
+            "end": 29,
+            "value": " [orchestra",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give me Vivaldi by [orchestra philharmonique dew Radio trance](doremus-instrument)"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          },
+          {
+            "start": 20,
+            "end": 22,
+            "value": "83",
+            "entity": "number"
+          },
+          {
+            "start": 26,
+            "end": 32,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me concerto op 83 by Brahms"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "value": "[orchestra",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "give concerto by [orchestra national dew trance](doremus-instrument)"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          },
+          {
+            "start": 20,
+            "end": 25,
+            "value": "ravel",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me concerto by ravel"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work by Brahms in d major"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          },
+          {
+            "start": 22,
+            "end": 28,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a concerto by Brahms in d major"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "Brahms",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a nonzero by Brahms"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "sung",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work by sung"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Tell me two works by Vivaldi for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Debussy",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me two works by Debussy for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 30,
+            "end": 38,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me two works by Mort for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "value": "Motet",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 31,
+            "end": 39,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me two works by Motet for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 36,
+            "value": "Leopold Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 41,
+            "end": 49,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Tell me two works by Leopold Vivaldi for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "value": "Wolfgang",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Amadeus",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 38,
+            "end": 45,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 50,
+            "end": 58,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Tell me two works by Wolfgang Amadeus Vivaldi for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "value": "Wolfgang",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Amadeus",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 38,
+            "end": 45,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 50,
+            "end": 58,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me two works by Wolfgang Amadeus Vivaldi for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 9,
+            "value": "2",
+            "entity": "number"
+          },
+          {
+            "start": 20,
+            "end": 26,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 27,
+            "end": 35,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 40,
+            "end": 45,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me 2 works for violin clarinet and piano"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Tell me two works by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work of Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "mart",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me a work of mart"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "two",
+            "entity": "number"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Give me two works by Vivaldi for clarinet"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Give me few works by Vivaldi"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "Bach",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "give me works by Bach"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "Vivaldi",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "What are Vivaldi's works"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "Salieri",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "What are Salieri's works"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "Salieri",
+            "entity": "doremus-artist"
+          },
+          {
+            "start": 19,
+            "end": 24,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "What are Salieri's piano works"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 10,
+            "value": "10",
+            "entity": "number"
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "value": "concerto",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "List me 10 works of genre concerto"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 9,
+            "value": "4",
+            "entity": "number"
+          },
+          {
+            "start": 20,
+            "end": 26,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 30,
+            "end": 35,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Tell us 4 works for violin or piano"
+      },
+      {
+        "intent": "works-by",
+        "entities": [
+          {
+            "start": 8,
+            "end": 9,
+            "value": "3",
+            "entity": "number"
+          },
+          {
+            "start": 24,
+            "end": 45,
+            "value": "between 1782 and 1822",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Give us 3 works written between 1782 and 1822"
+      },
+      {
+        "intent": "works-by - no",
+        "text": "No"
+      },
+      {
+        "intent": "works-by - no",
+        "text": "no"
+      },
+      {
+        "intent": "works-by - no",
+        "text": "non"
+      },
+      {
+        "intent": "works-by - no",
+        "text": "no thank you"
+      },
+      {
+        "intent": "works-by - no",
+        "text": "no thanks"
+      },
+      {
+        "intent": "find-artist",
+        "entities": [
+          {
+            "start": 5,
+            "end": 6,
+            "value": "3",
+            "entity": "number"
+          },
+          {
+            "start": 20,
+            "end": 41,
+            "value": "between 1860 and 1870",
+            "entity": "date-period"
+          },
+          {
+            "start": 67,
+            "end": 72,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "Find 3 artists born between 1860 and 1870 who wrote more works for piano"
+      },
+      {
+        "intent": "find-artist",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "Paris",
+            "entity": "geo-city"
+          }
+        ],
+        "text": "Find me an artist born in Paris"
+      },
+      {
+        "intent": "find-artist",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "Paris",
+            "entity": "geo-city"
+          },
+          {
+            "start": 39,
+            "end": 51,
+            "value": "18th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Find me an artist born in Paris in the 18th century"
+      },
+      {
+        "intent": "find-artist",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "Paris",
+            "entity": "geo-city"
+          },
+          {
+            "start": 32,
+            "end": 53,
+            "value": "between 1801 and 1900",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Find me an artist born in Paris between 1801 and 1900"
+      },
+      {
+        "intent": "find-artist",
+        "entities": [
+          {
+            "start": 9,
+            "end": 10,
+            "value": "3",
+            "entity": "number"
+          },
+          {
+            "start": 24,
+            "end": 45,
+            "value": "between 1752 and 1772",
+            "entity": "date-period"
+          }
+        ],
+        "text": "Find the 3 artists born between 1752 and 1772 who composed more works"
+      },
+      {
+        "intent": "works-by-something",
+        "text": "yes the genre"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Symphonie",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "Symphonie"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 14,
+            "end": 35,
+            "value": "between 1900 and 1950",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "a composition between 1900 and 1950"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 4,
+            "end": 9,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "and piano"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 6,
+            "end": 11,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "yes a piano"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "a composer Mort"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Mort",
+            "entity": "doremus-artist"
+          }
+        ],
+        "text": "Mort"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "19th century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "19th century"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "19 century",
+            "entity": "date-period"
+          }
+        ],
+        "text": "19 century"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "clarinet",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "a work for clarinet"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "opera",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "opera"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 6,
+            "end": 12,
+            "value": "sonata",
+            "entity": "doremus-genre"
+          }
+        ],
+        "text": "genre sonata"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "instrument violin"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "1900-1950",
+            "entity": "date-period"
+          }
+        ],
+        "text": "period 1900-1950"
+      },
+      {
+        "intent": "works-by-something",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "violin",
+            "entity": "doremus-instrument"
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "value": "piano",
+            "entity": "doremus-instrument"
+          }
+        ],
+        "text": "works for violin and piano"
+      },
+      {
+        "intent": "inform_artist",
+        "entities": [
+          {
+            "start": 0,
             "end": 6,
             "value": "Mozart",
             "entity": "doremus-artist"

@@ -274,7 +274,7 @@
  - the composition period
  - composed [between 1890 and 1900](date-period)
  - yes also the composition period
- - yes also the [composition year](date-period)
+ - yes also the composition year
  - yes the composition period
  - Yes the composition year
  - [between 1890 and 1900](date-period)

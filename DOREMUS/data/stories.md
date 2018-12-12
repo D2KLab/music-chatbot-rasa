@@ -168,3 +168,59 @@
 ## Generated Story 30
 * works-by
 	- works_by        
+
+
+## Generated Story 5
+* discover-artist{"doremus-artist": "Bach"}
+	- slot{"doremus-artist": "Bach"}
+	- discover_artist
+## Generated Story 7
+* find-artist{"number": "3","doremus-instrument": "piano","date-period": "between 1777 and 1899","geo-city": "nearby","doremus-strictly": "e","doremus-genre": "sonate"}
+	- slot{"number": "3"}
+	- slot{"doremus-instrument": "piano"}
+	- slot{"date-period": "between 1777 and 1899"}
+	- slot{"geo-city": "nearby"}
+	- slot{"doremus-strictly": "e"}
+	- slot{"doremus-genre": "sonate"}
+	- find_artist
+## Generated Story 9
+* find-performance{"date-period": "during 1745","geo-city": "Paris","number": "due"}
+	- slot{"date-period": "during 1745"}
+	- slot{"geo-city": "Paris"}
+	- slot{"number": "due"}
+	- find_performance
+
+
+## Generated Story 17
+* works-by - no{"works-by-followup": "1"}
+	- works_by_works_by_no
+## Generated Story 19
+* works-by - yes{"works-by-followup": "1"}
+	- works_by_works_by_yes
+## Generated Story 21
+* works-by-artist{"doremus-artist": "Debussy","works-by-followup": "1"}
+	- slot{"doremus-artist": "Debussy"}
+	- works_by_artist
+## Generated Story 23
+* works-by-genre{"doremus-genre": "aria","works-by-followup": "1"}
+	- slot{"doremus-genre": "aria"}
+	- works_by_genre
+## Generated Story 25
+* works-by-instrument{"doremus-strictly": "e","doremus-instrument": "violin","works-by-followup": "1"}
+	- slot{"doremus-strictly": "e"}
+	- slot{"doremus-instrument": "violin"}
+	- works_by_instrument
+## Generated Story 27
+* works-by-years{"date-period": "next month","works-by-followup": "1"}
+	- slot{"date-period": "next month"}
+	- works_by_years
+## Generated Story 29
+* works-by{"number": "3","doremus-artist": "Vivaldi","doremus-instrument": "clarinetto","doremus-strictly": "and","doremus-genre": "aria","date-period": "en 1876"}
+	- slot{"number": "3"}
+	- slot{"doremus-artist": "Vivaldi"}
+	- slot{"doremus-instrument": "clarinetto"}
+	- slot{"doremus-strictly": "and"}
+	- slot{"doremus-genre": "aria"}
+	- slot{"date-period": "en 1876"}
+	- works_by
+
