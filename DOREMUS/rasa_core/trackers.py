@@ -311,7 +311,7 @@ class DialogueStateTracker(object):
         # type: () -> None
         """Reset tracker to initial state - doesn't delete events though!."""
 
-        self._reset_slots()
+        #self._reset_slots()
         self._paused = False
         self.latest_action_name = None
         self.latest_message = UserUttered.empty()

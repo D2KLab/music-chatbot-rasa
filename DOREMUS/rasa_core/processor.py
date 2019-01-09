@@ -115,7 +115,8 @@ class MessageProcessor(object):
         self._save_tracker(tracker)
 
         if isinstance(message.output_channel, CollectingOutputChannel):
-            response['fulfillmentMessages']= message.output_channel.messages
+            response['fulfillmentMessages']= message.output_channel.messages[-1]
+            # response['fulfillmentMessages']= message.output_channel.messages
             return response
             #return message.output_channel.messages
         else:
@@ -295,7 +296,7 @@ class MessageProcessor(object):
         num_predicted_actions = 0
 
         self._log_slots(tracker)
-
+    
         # action loop. predicts actions until we hit action listen
         while (should_predict_another_action
                and self._should_handle_message(tracker)
@@ -317,7 +318,9 @@ class MessageProcessor(object):
             if self.on_circuit_break:
                 # call a registered callback
                 self.on_circuit_break(tracker, dispatcher)
-
+            
+            # added by Alaa    
+            should_predict_another_action=self._run_action(ActionRestart(),tracker,dispatcher)    
 
     def modified_predict_and_execute_next_action(self, message, tracker):
         # this will actually send the response to the user
@@ -351,12 +354,15 @@ class MessageProcessor(object):
             logger.warn(
                     "Circuit breaker tripped. Stopped predicting "
                     "more actions for sender '{}'".format(tracker.sender_id))
-            if self.on_circuit_break:
-                # call a registered callback
-                self.on_circuit_break(tracker, dispatcher)
-        
+            # if self.on_circuit_break:
+            #     # call a registered callback
+            #     self.on_circuit_break(tracker, dispatcher)
+            response["tracker"] = tracker.current_state()
+            should_predict_another_action=self._run_action(ActionRestart(),tracker,dispatcher)
+            return response
+
         # added by Alaa 
-        response["tracker"] = tracker.current_state() 
+        response["tracker"] = tracker.current_state()
         return response   
 
 
@@ -471,7 +477,7 @@ class MessageProcessor(object):
         if follow_up_action:
             tracker.clear_follow_up_action()
             if self.domain.index_for_action(
-                    follow_up_action) is not None:
+                    follow_up_action.name()) is not None: # added follow_up_action.name() instead of follow_up_action
                 return follow_up_action
             else:
                 logger.error(

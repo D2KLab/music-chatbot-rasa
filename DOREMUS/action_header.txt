@@ -6,6 +6,7 @@ from __future__ import unicode_literals
 from rasa_core.actions.action import Action
 from rasa_core.events import SlotSet
 from rasa_core.channels.direct import CollectingOutputChannel
+from domain_builder import get_action
 
 import logging
 
@@ -24,7 +25,11 @@ logger = logging.getLogger(__name__)
 contain = intent_index()
 
 
+# dictionary mapping intents
+intents_to_actions=intent_index().get_intents_to_actions_dict()
 
+# this dictionary is used to track active contexts to help influence predicted actions
+active_conexts_to_influence_actions={}
 active_contexts={}
 entities=get_entity("dialogflow").entity_list
 types_entities=entity_types().entity_to_types
@@ -40,15 +45,12 @@ def contexts_reset(action_name,tracker):
     contexts=contexts_in
     should_reset=1
     for context in contexts:
-        try:
-            if context not in contexts:
-                active_contexts[context]=0
+        if context not in active_contexts:
+            active_contexts[context]=0
 
-            elif active_contexts[context]>0:
-                should_reset=0
-                break
-        except:
-            pass        
+        elif active_contexts[context]>0:
+            should_reset=0
+            break
 
     if should_reset==1:
         for entity in entities:
@@ -67,6 +69,55 @@ def contexts_reset(action_name,tracker):
         
     return events  
 
+def action_name_to_action_object(action_name):
+    """
+    This function will take an action name and converts it to Action('action_name') instance
+    input:
+     - action_name: string defining the name of the action
+    output:
+     - action_object_instance: Action('action_name') instance
+    """
+
+    constructor = globals()[action_name]
+    action_object_instance = constructor()
+    return action_object_instance
+
+def use_contexts_to_predict_next_action(action_name,tracker):
+    contexts_in = in_context_set(action_name)
+    contexts_out = out_context_set(action_name)
+    could_change_action=1
+    for context in contexts_in:
+        if context not in active_conexts_to_influence_actions:
+            active_conexts_to_influence_actions[context]=0
+
+        elif active_conexts_to_influence_actions[context]>0:
+            could_change_action=0
+            break
+            
+    if could_change_action:
+        intent_ranking=tracker.latest_message.parse_data['intent_ranking']
+        for intent in intent_ranking[1:2]:
+            if intent['name'] not in intents_to_actions:
+                continue
+            potential_action_name = intents_to_actions[intent['name']]
+            contexts_potential_action=in_context_set(potential_action_name)
+            for context in contexts_potential_action:
+                if context not in active_conexts_to_influence_actions:
+                    active_conexts_to_influence_actions[context]=0
+
+                elif active_conexts_to_influence_actions[context]>0:
+                    tracker.trigger_follow_up_action(action_name_to_action_object(potential_action_name))
+                    contexts_out = out_context_set(potential_action_name)
+                    break
+            
+
+    for context in active_conexts_to_influence_actions:
+        active_conexts_to_influence_actions[context]=0
+
+    for context in contexts_out:
+        active_conexts_to_influence_actions[context]=1
+        
+
 
 def transform_slots_to_standard(tracker):
     events=[]
@@ -82,8 +133,8 @@ def transform_slots_to_standard(tracker):
 
         if len(entity_values)>0:
                     entity_value = " ".join(entity_values) 
-                    tracker._set_slot("date-period", DATETIME_to_iso(entity_value))
-                    events.append(SlotSet("date-period", DATETIME_to_iso(entity_value))) 
+                    tracker._set_slot("datetime", DATETIME_to_iso(entity_value))
+                    events.append(SlotSet("datetime", DATETIME_to_iso(entity_value))) 
                     
                     return events
     except:
@@ -95,7 +146,6 @@ def transform_slots_to_standard(tracker):
             if types_entities[entity]=="DATETIME":
                 entity_values=[]
                 for tmp in tracker.get_latest_entity_values(entity):
-                    print(entity_values)
                     entity_values.append(tmp)
 
                 if len(entity_values)>0:
@@ -127,3 +177,4 @@ def DATETIME_to_iso(datetime_string):
                 formatted_dates.append(date.isoformat())
             
         return('/'.join(formatted_dates))
+    

@@ -128,6 +128,7 @@ class intent_index(object):
     def __init__(self):
         self.index = {}
         self.intents = []
+        self.intents_to_actions={}
         self.build()
     def build(self,df_directory="dialogflow"):
         intent_directory = df_directory + "/intents/"
@@ -136,16 +137,20 @@ class intent_index(object):
                 continue
             with open(intent_directory + file, "r", encoding="utf8") as f:
                 logger.info("Processing file: {}".format(file))
-                try:
-                    intent_file = json.load(f)
-                    intent = Intent(intent_file)
-                    self.index[command_sanitizer(intent.name)] = intent
-                    self.intents.append(intent)
-                except Exception as e:
-                    logger.error("Error in loading {}\nError:{}".format(file,e))
+                # try:
+                intent_file = json.load(f)
+                intent = Intent(intent_file)
+                self.intents_to_actions[intent.name]=intent.action.replace('.','_')
+                self.index[command_sanitizer(intent.name)] = intent
+                self.intents.append(intent)
+                # except Exception as e:
+                #     logger.error("Error in loading {}\nError:{}".format(file,e))
 
-    def getobj(index_name):
-        return index[index_name]
+    def getobj(self,index_name):
+        return self.index[index_name]
+
+    def get_intents_to_actions_dict(self):
+        return self.intents_to_actions    
 
 class entity_index(object):
     def __init__(self):

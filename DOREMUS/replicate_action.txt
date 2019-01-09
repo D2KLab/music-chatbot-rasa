@@ -11,6 +11,9 @@ class <action_name>(Action):
         index = "<index_name>"
         template = dispatcher.retrieve_template("utter_"+"<action_name>")
 
+        # use contexts to influence predicted action
+        use_contexts_to_predict_next_action(self.name(),tracker)
+
         # reset slots if necessary
         events=contexts_reset(self.name(),tracker)
         
