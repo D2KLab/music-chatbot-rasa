@@ -319,7 +319,8 @@ class MessageProcessor(object):
                 # call a registered callback
                 self.on_circuit_break(tracker, dispatcher)
             
-            # added by Alaa    
+            # added to restart the bot when it becomes unstable when a followup action is triggered
+            # due to contexts   
             should_predict_another_action=self._run_action(ActionRestart(),tracker,dispatcher)    
 
     def modified_predict_and_execute_next_action(self, message, tracker):
@@ -345,7 +346,6 @@ class MessageProcessor(object):
             should_predict_another_action = self._run_action(action,
                                                              tracker,
                                                              dispatcher)
-            # response["next_action"]= action.name()                                                
             num_predicted_actions += 1
 
         if (num_predicted_actions == self.max_number_of_predictions and
@@ -354,14 +354,23 @@ class MessageProcessor(object):
             logger.warn(
                     "Circuit breaker tripped. Stopped predicting "
                     "more actions for sender '{}'".format(tracker.sender_id))
-            # if self.on_circuit_break:
-            #     # call a registered callback
-            #     self.on_circuit_break(tracker, dispatcher)
+            if self.on_circuit_break:
+                # call a registered callback
+                self.on_circuit_break(tracker, dispatcher)
             response["tracker"] = tracker.current_state()
+            
+            # we used contexts and next action has changed so we need to change 
+            # intent accordingly
+            tmp=response["tracker"]["latest_message"]["intent_ranking"][0]["name"]
+            response["tracker"]["latest_message"]["intent_ranking"][0]["name"]=response["tracker"]["latest_message"]["intent_ranking"][1]["name"]
+            response["tracker"]["latest_message"]["intent_ranking"][1]["name"]=tmp
+            response["tracker"]["latest_message"]["intent"]=response["tracker"]["latest_message"]["intent_ranking"][0]
+            
+            # added to restart the bot when it becomes unstable when a followup action is triggered
+            # due to contexts
             should_predict_another_action=self._run_action(ActionRestart(),tracker,dispatcher)
             return response
 
-        # added by Alaa 
         response["tracker"] = tracker.current_state()
         return response   
 

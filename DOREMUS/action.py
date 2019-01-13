@@ -133,8 +133,8 @@ def transform_slots_to_standard(tracker):
 
         if len(entity_values)>0:
                     entity_value = " ".join(entity_values) 
-                    tracker._set_slot("datetime", DATETIME_to_iso(entity_value))
-                    events.append(SlotSet("datetime", DATETIME_to_iso(entity_value))) 
+                    tracker._set_slot("date-period", DATETIME_to_iso(entity_value))
+                    events.append(SlotSet("date-period", DATETIME_to_iso(entity_value))) 
                     
                     return events
     except:
@@ -468,63 +468,6 @@ class find_performance(Action):
         events.append(SlotSet("requested_slot", None))
         return events
 
-class (Action):
-    def name(self):
-        return ''
-
-    @staticmethod
-    def required_fields():
-        return [
-                ]
-
-    def run(self, dispatcher, tracker, domain):
-        index = "hello"
-        template = dispatcher.retrieve_template("utter_"+"")
-
-        # use contexts to influence predicted action
-        use_contexts_to_predict_next_action(self.name(),tracker)
-
-        # reset slots if necessary
-        events=contexts_reset(self.name(),tracker)
-        
-        # standardize the slots
-        events.extend(transform_slots_to_standard(tracker))
-        
-        # Checking required parameters
-        intent = contain.index[index]
-        
-        for entity in intent.entities:
-            if entity.required == True:
-                slot = entity.name
-                if slot!= None:
-                    slot_val = tracker.get_slot(slot)
-                    if slot_val is None:
-                        logger.info("Uttering the required parameter")
-                        dispatcher.utter_template(command_sanitizer("utter_{}_follow_up_{}".format(self.name(),slot)))
-                        events.append(SlotSet("requested_slot", slot))
-                        return events
-                        
-        text = template["text"]
-        modified_text = ""
-        i=0
-        while i < (len(text)):
-            if text[i]=='{':
-                j = i+1
-                slot = ""
-                while(text[j]!='}' and j<len(text)):
-                    slot += text[j]
-                    j += 1
-                modified_text += tracker.get_slot(slot)
-                i = j
-            else:
-                modified_text += text[i]
-            i += 1
-        dispatcher.utter_message(modified_text)
-        contexts = out_context_set(self.name)
-        for c in contexts:
-            events.append(SlotSet(c,1))
-        events.append(SlotSet("requested_slot", None))
-        return events
 
 class help(Action):
     def name(self):
