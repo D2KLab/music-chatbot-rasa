@@ -1,0 +1,808 @@
+,user_id,user_text,action,response_text,incomplete_action,parameters
+0,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+1,U9Q3FND6E,Tell me one work by Beethoven,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+2,U9Q3FND6E,Tell me one work by Beethoven,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+3,U9Q3FND6E,Yes thanks!,works-by - yes,"Ok, tell me what",False,{}
+4,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+5,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+6,U9Q3FND6E,Tell me one work by Beethoven,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+7,U9Q3FND6E,Yes thanks!,works-by - yes,"Ok, tell me what",False,{}
+8,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+9,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+10,U9Q3FND6E,No its ok!,works-by - no,,False,{}
+11,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+12,U9Q3FND6E,Tell me one work by Beethoven,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+13,U9Q3FND6E,Yes thanks!,works-by - yes,"Ok, tell me what",False,{}
+14,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+15,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+16,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+17,U9Q3FND6E,Tell me one work by Beethoven!,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+18,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+19,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+20,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+21,U9Q3FND6E,Give me 2 works by Beethoven!,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+22,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+23,U9Q3FND6E,Give me 2 works by Beethoven!,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+24,U9Q3FND6E,Give me 2 works by Beethoven!,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+25,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+26,U9Q3FND6E,Give me 2 works by Beethoven,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+27,U9Q3FND6E,Yes thanks,works-by - yes,"Ok, tell me what",False,{}
+28,U9Q3FND6E,Give me one work by Beethoven,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+29,U9Q3FND6E,Yes thanks,works-by - yes,"Ok, tell me what",False,{}
+30,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+31,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+32,U9Q3FND6E,Give me one work by Beethoven,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+33,U9Q3FND6E,Yes thanks,works-by - yes,"Ok, tell me what",False,{}
+34,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+35,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+36,U9Q3FND6E,No its ok,works-by - no,,False,{}
+37,U9Q3FND6E,Give me one work by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+38,U9Q3FND6E,Yes thanks,works-by - yes,"Ok, tell me what",False,{}
+39,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+40,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+41,U9Q3FND6E,No its ok,works-by - no,,False,{}
+42,U9Q3FND6E,Give me one work by Vivaldi,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+43,U9Q3FND6E,Yes thanks,works-by - yes,"Ok, tell me what",False,{}
+44,U9Q3FND6E,An instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+45,U9Q3FND6E,Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['svl'], 'doremus-strictly': ''}"
+46,U9Q3FND6E,No its ok,works-by - no,,False,{}
+47,U9Q3FND6E,Give me one work by Beethoven but just the one written for piano clarinet or violin,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+48,U9Q3FND6E,Give me one work by Beethoven but just the one written for piano clarinet or violin,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+49,U9Q3FND6E,Give me one work by Beethoven but just the one written for piano clarinet and violin,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+50,U9Q3FND6E,Give me one work by Beethoven but just the one written for piano clarinet or violin,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+51,U9Q3FND6E,Give me one work by Beethoven but just the one written for piano clarinet or violin,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+52,U9Q3FND6E,Give me six works by Beethoven but just the ones written for piano clarinet and violin,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '6', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+53,U9Q3FND6E,Give me six works by Beethoven but just the ones written for piano clarinet and violin,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '6', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': ['kpf', 'wcl', 'svl'], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+54,U9Q3FND6E,Tell me something about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+55,U9Q3FND6E,Tell me something about Beethoven,discover-artist,,False,{'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452'}
+56,U9Q3FND6E,Tell me something about Mozart,discover-artist,,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+57,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+58,U9Q3FND6E,Find me the artists who wrote more arias,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'ar'}"
+59,U9Q3FND6E,Find me the artist who wrote more arias,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'ar'}"
+60,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+61,U9Q3FND6E,Find me the artist who wrote more arias,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'ar'}"
+62,U9Q3FND6E,Find me the artist who wrote more arias,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'ar'}"
+63,U9Q3FND6E,Find me the artist who wrote more arias,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'ar'}"
+64,U9Q3FND6E,Find me one artist born in Paris,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Paris', 'doremus-strictly': '', 'doremus-genre': ''}"
+65,U9Q3FND6E,Find me one artist born in Palermo,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Palermo', 'doremus-strictly': '', 'doremus-genre': ''}"
+66,U9Q3FND6E,Find me one artist born in Caltanissetta,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+67,U9Q3FND6E,Find me on artist born in Enna,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+68,U9Q3FND6E,Find me one artist born in Catania,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Catania', 'doremus-strictly': '', 'doremus-genre': ''}"
+69,U9Q3FND6E,find me an artist born in Nice,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Nice', 'doremus-strictly': '', 'doremus-genre': ''}"
+70,U9Q3FND6E,Find me an artist born in Venice,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Venice', 'doremus-strictly': '', 'doremus-genre': ''}"
+71,U9Q3FND6E,find me one artist born in Paris,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Paris', 'doremus-strictly': '', 'doremus-genre': ''}"
+72,U9Q3FND6E,Are there any events in these days?,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+73,U9Q3FND6E,Are there any events in the next month?,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': '', 'number': ''}"
+74,U9Q3FND6E,Are there any events in the 26th of June?,find-performance,,False,"{'date-period': '2019-06-01/2019-06-30', 'geo-city': '', 'number': ''}"
+75,U9Q3FND6E,Are there any events on June 26?,find-performance,,False,"{'date-period': '2019-06-01/2019-06-30', 'geo-city': '', 'number': ''}"
+76,U9Q3FND6E,Are there any events in the 26th of June?,find-performance,,False,"{'date-period': '2019-06-01/2019-06-30', 'geo-city': '', 'number': ''}"
+77,U9Q3FND6E,are there any events in Lyon?,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Lyon', 'number': ''}"
+78,U9Q3FND6E,next month,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': 'Lyon', 'number': ''}"
+79,U9Q3FND6E,are there any events in London next week?=,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'London', 'number': ''}"
+80,U9Q3FND6E,Are there any events in Paris?,find-performance,When?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+81,U9Q3FND6E,Next week!,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': ''}"
+82,U9Q3FND6E,Find me 2 events in Paris?,find-performance,When?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': '2'}"
+83,U9Q3FND6E,Next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': '2'}"
+84,U9Q3FND6E,Find me 2 events in Paris this week?,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': '2'}"
+85,U9Q3FND6E,Find me 2 performances between 25/06/2018 and 28/06/2018,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': '2'}"
+86,U9Q3FND6E,Find me 2 performances between july 25 and july 28,find-performance,,False,"{'date-period': '2019-07-25/2019-07-28', 'geo-city': '', 'number': '2'}"
+87,U9Q3FND6E,Talk me about Jonathan Dove,discover-artist,,False,{'doremus-artist': 'b16c9456-783a-3cb1-a629-a1a4d7e54a67'}
+88,U9Q3FND6E,Find me 2 performances between july 25 and july 28,find-performance,,False,"{'date-period': '2019-07-01/2019-07-31', 'geo-city': '', 'number': '2'}"
+89,U9Q3FND6E,Find me 2 performances between july 25 and july 28,find-performance,,False,"{'date-period': '2019-07-01/2019-07-31', 'geo-city': '', 'number': '2'}"
+90,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+91,U9Q3FND6E,Talk me about Rachmaninof,discover-artist,Ok! Who is the artist?,True,{'doremus-artist': ''}
+92,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+93,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+94,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+95,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+96,U9Q3FND6E,Talk me about Racmaninov,discover-artist,Which artist?,True,{'doremus-artist': ''}
+97,U9Q3FND6E,Talk me about Racmaninov,discover-artist,,False,{'doremus-artist': '473395b0-857a-36bf-897b-77c37016336f'}
+98,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+99,U9Q3FND6E,Talk me about Racmaninoff,discover-artist,Can you tell me the name of the artist?,True,{'doremus-artist': ''}
+100,U9Q3FND6E,Talk me about Racmaninof,discover-artist,,False,{'doremus-artist': '473395b0-857a-36bf-897b-77c37016336f'}
+101,U9Q3FND6E,Talk me about Racmaninof,discover-artist,Ok! Who is the artist?,True,{'doremus-artist': ''}
+102,U9Q3FND6E,Talk me about Racmaninof,discover-artist,,False,{'doremus-artist': '473395b0-857a-36bf-897b-77c37016336f'}
+103,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+104,U9Q3FND6E,now give me 2 of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+105,U9Q3FND6E,yes!,works-by - yes,"Ok, tell me what",False,{}
+106,U9Q3FND6E,instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+107,U9Q3FND6E,only works for clarinet,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['wcl']}"
+108,U9Q3FND6E,no,works-by - no,,False,{}
+109,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+110,U9Q3FND6E,now give me 2 of his works,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+111,U9Q3FND6E,yes the instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+112,U9Q3FND6E,clarinet,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['wcl'], 'doremus-strictly': ''}"
+113,U9Q3FND6E,no,works-by - no,,False,{}
+114,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+115,U9Q3FND6E,now give me 2 of his works,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+116,U9Q3FND6E,no,works-by - no,,False,{}
+117,U9Q3FND6E,Give me 2 works by Piccinini,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '02e70b0b-b780-3c9f-9b5f-176721c30758', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+118,U9Q3FND6E,no,works-by - no,,False,{}
+119,U9Q3FND6E,Give me 2 works by Niccolo Piccinini,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '02e70b0b-b780-3c9f-9b5f-176721c30758', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '02e70b0b-b780-3c9f-9b5f-176721c30758', 'date-period': ''}"
+120,U9Q3FND6E,Give me 2 works by Niccolo Piccinini,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '02e70b0b-b780-3c9f-9b5f-176721c30758', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+121,U9Q3FND6E,Give me 2 works by Niccolo Piccinini,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '02e70b0b-b780-3c9f-9b5f-176721c30758', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+122,U9Q3FND6E,no,works-by - no,,False,{}
+123,U9Q3FND6E,Give me 2 works by Latilla,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'f9bcc9f5-da6c-3b49-8268-5d8ee42fbb2f', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+124,U9Q3FND6E,no,works-by - no,,False,{}
+125,U9Q3FND6E,Give me 2 works by Debussi,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+126,U9Q3FND6E,Give me 2 works by Debusy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+127,U9Q3FND6E,no,works-by - no,,False,{}
+128,U9Q3FND6E,Give me 2 works by debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+129,U9Q3FND6E,Give me 2 works by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+130,U9Q3FND6E,yes the composition period!,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+131,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+132,U9Q3FND6E,no,works-by - no,,False,{}
+133,U9Q3FND6E,Give me ten works by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '10', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+134,U9Q3FND6E,yes,works-by - yes,"Ok, tell me what",False,{}
+135,U9Q3FND6E,the composition period,works-by-years,All right! Tell me the composition period,True,{'date-period': ''}
+136,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+137,U9Q3FND6E,nope,works-by - no,,False,{}
+138,U9Q3FND6E,Give me 2 works by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+139,U9Q3FND6E,Give me the works by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+140,U9Q3FND6E,composed between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+141,U9Q3FND6E,yes,works-by - yes,"Ok, tell me what",False,{}
+142,U9Q3FND6E,the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+143,U9Q3FND6E,Give me the works by Debussy,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+144,U9Q3FND6E,Give me the works by DebussyGive me the works by DebussyGive me the works by DebussyGive me the works by Debussy,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+145,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+146,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+147,U9Q3FND6E,Give me the works by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+148,U9Q3FND6E,Give me the works by Debussy composed between 1890 and 1900 of genre musique de chambre,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+149,U9Q3FND6E,Give me the works by Debussy composed between 1890 and 1900 of genre melodie,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+150,U9Q3FND6E,Give me 2 melodic works by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'melodic', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+151,U9Q3FND6E,Give me 2 melodies by Debussy composed between 1890 and 1900,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+152,U9Q3FND6E,Give me 2 concertos by Debussy composed between 1890 and 1900,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+153,U9Q3FND6E,Give me 2 melodies by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': ''}"
+154,U9Q3FND6E,Give me 2 concertos by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+155,U9Q3FND6E,no,works-by - no,,False,{}
+156,U9Q3FND6E,Give me 2 concerts by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+157,U9Q3FND6E,Give me 2 concerts by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+158,U9Q3FND6E,no,works-by - no,,False,{}
+159,U9Q3FND6E,Give me 2 melodies by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+160,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+161,U9Q3FND6E,Give me 2 concerts by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+162,U9Q3FND6E,Give me 2 concerts,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+163,U9Q3FND6E,yes,works-by - yes,"Ok, tell me what",False,{}
+164,U9Q3FND6E,artist,works-by-artist,Sure! Who is the artist?,True,{'doremus-artist': ''}
+165,U9Q3FND6E,debussy,works-by-artist,Perfect! Do you want to add something?,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+166,U9Q3FND6E,no,works-by - no,,False,{}
+167,U9Q3FND6E,Give me 2 works by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+168,U9Q3FND6E,Give me 2 concerts by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+169,U9Q3FND6E,Give me 10 concerts by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '10', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+170,U9Q3FND6E,Give me 2 melodies by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': ''}"
+171,U9Q3FND6E,Give me 2 concerts by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+172,U9Q3FND6E,Give me 2 concerts by Debussy composed between 1890 and 1900,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1900-12-31'}"
+173,U9Q3FND6E,Give me the melodies by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+174,U9Q3FND6E,Give me the melodies,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': ''}"
+175,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+176,U9Q3FND6E,Give me some works by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+177,U9Q3FND6E,Yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+178,U9Q3FND6E,melodie,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+179,U9Q3FND6E,yes also the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+180,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+181,U9Q3FND6E,no thanks,works-by - no,,False,{}
+182,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+183,U9Q3FND6E,Give me some works by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+184,U9Q3FND6E,yes the genre please,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+185,U9Q3FND6E,melodie,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+186,U9Q3FND6E,yes also the composition year,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+187,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+188,U9Q3FND6E,no thakns,works-by - no,,False,{}
+189,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+190,U9Q3FND6E,give me 2 works by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+191,U9Q3FND6E,yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+192,U9Q3FND6E,melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+193,U9Q3FND6E,yes the composition period,works-by-years,All right! Tell me the composition period,True,{'date-period': ''}
+194,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+195,U9Q3FND6E,no thanks,works-by - no,,False,{}
+196,U9Q3FND6E,Give me some works by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+197,U9Q3FND6E,yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+198,U9Q3FND6E,melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+199,U9Q3FND6E,yes the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+200,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+201,U9Q3FND6E,no thanks,works-by - no,,False,{}
+202,U9Q3FND6E,give me 2 works by debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+203,U9Q3FND6E,yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+204,U9Q3FND6E,melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+205,U9Q3FND6E,the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+206,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+207,U9Q3FND6E,no thanks,works-by - no,,False,{}
+208,U9Q3FND6E,give me 2 works by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+209,U9Q3FND6E,yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+210,U9Q3FND6E,melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+211,U9Q3FND6E,yes the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+212,U9Q3FND6E,between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+213,U9Q3FND6E,no thanks,works-by - no,,False,{}
+214,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+215,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+216,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+217,U9Q3FND6E,give me 2 works by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+218,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+219,U9Q3FND6E,give me 2 works by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+220,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+221,U9Q3FND6E,yes the composition year,works-by-years,All right! Tell me the composition period,True,{'date-period': ''}
+222,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+223,U9Q3FND6E,salut,works-by-years,All right! Tell me the composition period,True,{'date-period': ''}
+224,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+225,U9Q3FND6E,salut,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+226,U9Q3FND6E,salut,works-by-years,All right! Tell me the composition period,True,{'date-period': ''}
+227,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+228,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+229,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+230,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+231,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+232,U9Q3FND6E,give me 2 melody by vivaldi,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': '', 'date-period': ''}"
+233,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+234,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+235,U9Q3FND6E,give me 2 works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+236,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+237,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+238,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+239,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+240,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+241,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+242,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+243,U9Q3FND6E,tell me 2 works by Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+244,U9Q3FND6E,no,works-by - no,,False,{}
+245,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+246,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+247,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+248,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+249,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+250,U9Q3FND6E,tell me something about debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+251,U9Q3FND6E,find me an artist born in Saint-Germain-en-Laye,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+252,U9Q3FND6E,Find an artist born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+253,U9Q3FND6E,Find an artist born between 1862 and 1873 who wrote more works for piano,find-artist,,False,"{'number': '', 'doremus-instrument': ['kpf'], 'date-period': '1862-01-01/1873-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+254,U9Q3FND6E,Find an artist born in 1862,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '1862-01-01/1862-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+255,U9Q3FND6E,Find one artist born in 1862,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '1862-01-01/1862-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+256,U9Q3FND6E,Find one artist born in 1862 who wrote more melody,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '1862-01-01/1862-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': 'mld'}"
+257,U9Q3FND6E,Find one artist born in 1862 who wrote more works for piano,find-artist,,False,"{'number': '1', 'doremus-instrument': ['kpf'], 'date-period': '1862-01-01/1862-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+258,U9Q3FND6E,Find one artist born between 1860 and 1870 who wrote more melodies,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '1860-01-01/1860-12-31', 'geo-city': '', 'doremus-strictly': 'and', 'doremus-genre': 'mld'}"
+259,U9Q3FND6E,Find one artist born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '1', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+260,U9Q3FND6E,Find an artist born between 1861 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '', 'doremus-instrument': ['kpf'], 'date-period': '1861-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+261,U9Q3FND6E,Find one artist born between 1861 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '1', 'doremus-instrument': ['kpf'], 'date-period': '1861-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+262,U9Q3FND6E,Find one artist born between 1861 and 1870 who wrote more concertos,find-artist,,False,"{'number': '1', 'doremus-instrument': [], 'date-period': '1861-01-01/1861-12-31', 'geo-city': '', 'doremus-strictly': 'and', 'doremus-genre': ''}"
+263,U9Q3FND6E,Find an artist born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+264,U9Q3FND6E,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+265,U9Q3FND6E,find me some performances in Paris!,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+266,U9Q3FND6E,this week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+267,U9Q3FND6E,Find me some performances in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+268,U9Q3FND6E,Hi!,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+269,U9Q3FND6E,Are there any events in Paris?,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+270,U9Q3FND6E,Mmhh... next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': ''}"
+271,U9Q3FND6E,Talk me about Jonathan Dove!,discover-artist,,False,{'doremus-artist': 'b16c9456-783a-3cb1-a629-a1a4d7e54a67'}
+272,U9Q3FND6E,Ok so talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+273,U9Q3FND6E,Talk me about Racmaninoff,discover-artist,Ok! Who is the artist?,True,{'doremus-artist': ''}
+274,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+275,U9Q3FND6E,Now give me two of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+276,U9Q3FND6E,No thanks,works-by - no,,False,{}
+277,U9Q3FND6E,Find three artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+278,U9Q3FND6E,Tell me the melodies by Debussy composed during 1890,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1890', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+279,U9Q3FND6E,Tell me the melodies by Debussy composed during 1890,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1890', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+280,U9Q3FND6E,Tell me the melodies by Debussy composed between 1860 and 1870,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1870', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1860-01-01/1860-12-31'}"
+281,U9Q3FND6E,Tell me the melodies by Debussy composed between 1890 and 1900,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+282,U9Q3FND6E,Give me one work by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+283,U9Q3FND6E,Yes!,works-by - yes,"Ok, tell me what",False,{}
+284,U9Q3FND6E,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+285,U9Q3FND6E,Melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+286,U9Q3FND6E,Yes the composition year,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+287,U9Q3FND6E,Between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+288,U9Q3FND6E,No thanks,works-by - no,,False,{}
+289,U9Q3FND6E,Bonjour!,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+290,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+291,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+292,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+293,U9Q3FND6E,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+294,U9Q3FND6E,give me 2 works by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+295,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+296,U9Q3FND6E,tell me something about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+297,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+298,U9Q3FND6E,are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+299,U9Q3FND6E,this week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+300,U9Q3FND6E,talk me about John Dove,discover-artist,,False,{'doremus-artist': 'a3ea7dfc-bd51-3abb-b50a-83b171faa260'}
+301,U9Q3FND6E,find me some performances in two weeks,find-performance,,False,"{'date-period': '2019-02-02/2019-02-16', 'geo-city': '', 'number': ''}"
+302,U9Q3FND6E,find me some performances in the next two weeks,find-performance,,False,"{'date-period': '2019-02-02/2019-02-16', 'geo-city': '', 'number': ''}"
+303,U9Q3FND6E,Okay now talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+304,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+305,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+306,U9Q3FND6E,Now give me two of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+307,U9Q3FND6E,No thanks,works-by - no,,False,{}
+308,U9Q3FND6E,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+309,U9Q3FND6E,Tell me the melodies by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+310,U9Q3FND6E,Give me one work by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+311,U9Q3FND6E,Yes,works-by - yes,"Ok, tell me what",False,{}
+312,U9Q3FND6E,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+313,U9Q3FND6E,Melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+314,U9Q3FND6E,Yes the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+315,U9Q3FND6E,Between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+316,U9Q3FND6E,No thanks,works-by - no,,False,{}
+317,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+318,U9Q3FND6E,Find me some performances in the next two weeks,find-performance,,False,"{'date-period': '2019-02-02/2019-02-16', 'geo-city': '', 'number': ''}"
+319,U9Q3FND6E,Find me some performances in the next two wees,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+320,U9Q3FND6E,bog,find-performance,When?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+321,U9Q3FND6E,bog,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+322,U9Q3FND6E,next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': '', 'number': ''}"
+323,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+324,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+325,U9Q3FND6E,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+326,U9Q3FND6E,Next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': ''}"
+327,U9Q3FND6E,Find me some performances in the next two weeks,find-performance,,False,"{'date-period': '2019-02-02/2019-02-16', 'geo-city': '', 'number': ''}"
+328,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+329,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+330,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+331,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+332,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+333,U9Q3FND6E,Talk me about Racmoninoff,discover-artist,Ok! Who is the artist?,True,{'doremus-artist': ''}
+334,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+335,U9Q3FND6E,Tell me something about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+336,U9Q3FND6E,Now give me 2 of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+337,U9Q3FND6E,No thanks,works-by - no,,False,{}
+338,U9Q3FND6E,Find three artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+339,U9Q3FND6E,Tell me the melodies by Debussy composed between 1890 and 1900,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+340,U9Q3FND6E,Give me one work by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+341,U9Q3FND6E,Give me one work by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+342,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+343,U9Q3FND6E,Tell me the melodies by Debussy composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1900', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1890-01-01/1890-12-31'}"
+344,U9Q3FND6E,Give me one work by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+345,U9Q3FND6E,Yes,works-by - yes,"Ok, tell me what",False,{}
+346,U9Q3FND6E,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+347,U9Q3FND6E,Melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+348,U9Q3FND6E,Yes the composition year,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+349,U9Q3FND6E,Between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+350,U9Q3FND6E,No thanks,works-by - no,,False,{}
+351,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+352,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+353,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+354,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+355,U9Q3FND6E,salute,Default Fallback Intent,I missed what you said. Say it again?,False,{}
+356,U9Q3FND6E,symphony,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'si', 'doremus-artist-prev': '', 'date-period': ''}"
+357,U9Q3FND6E,no,works-by - no,,False,{}
+358,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+359,U9Q3FND6E,Are there any event in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+360,U9Q3FND6E,Next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': ''}"
+361,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+362,U9Q3FND6E,Talk me about Racmaninof,discover-artist,Ok! Who is the artist?,True,{'doremus-artist': ''}
+363,U9Q3FND6E,Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+364,U9Q3FND6E,now give me two of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+365,U9Q3FND6E,no thanks,works-by - no,,False,{}
+366,U9Q3FND6E,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+367,U9Q3FND6E,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+368,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+369,U9Q3FND6E,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+370,U9Q3FND6E,now give me 2 of his melodies composed between 1890 and 1900,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': 'mld', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': '1890-01-01/1890-12-31'}"
+371,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+372,U9Q3FND6E,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+373,U9Q3FND6E,now give me his melodies composed between 1890 and 1900,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': '1890-01-01/1900-12-31'}"
+374,U9Q3FND6E,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+375,U9Q3FND6E,Give me one work by Debussy,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+376,U9Q3FND6E,Give me one work by Debussy,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+377,U9Q3FND6E,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+378,U9Q3FND6E,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+379,U9Q3FND6E,now give me his melodies composed between 1890 and 1900,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'mld', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': '1890-01-01/1900-12-31'}"
+380,U9Q3FND6E,give me one work by Debussy,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+381,U9Q3FND6E,Yes,works-by - yes,"Ok, tell me what",False,{}
+382,U9Q3FND6E,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+383,U9Q3FND6E,melody,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'mld'}
+384,U9Q3FND6E,Yes the composition year,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+385,U9Q3FND6E,Between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+386,U9Q3FND6E,no thanks,works-by - no,,False,{}
+387,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+388,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+389,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+390,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+391,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+392,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+393,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+394,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+395,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+396,U9Q3FND6E,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+397,U9Q3FND6E,This week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+398,U9Q3FND6E,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+399,U9Q3FND6E,Next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': ''}"
+400,U9Q3FND6E,Find me some performances in the next two weeks,find-performance,,False,"{'date-period': '2019-02-02/2019-02-16', 'geo-city': '', 'number': ''}"
+401,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+402,U9Q3FND6E,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+403,U9Q3FND6E,Talk me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+404,U9Q3FND6E,Now give me two of his works,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+405,U9Q3FND6E,No thanks,works-by - no,,False,{}
+406,U9Q3FND6E,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+407,U9Q3FND6E,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+408,U9Q3FND6E,Tell me the melodies by Debussy,works-by-artist,Perfect! Do you want to add something?,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+409,U9Q3FND6E,Yes the composition period,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+410,U9Q3FND6E,Between 1890 and 1900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1890-01-01/1900-12-31'}
+411,U9Q3FND6E,No thanks,works-by - no,,False,{}
+412,U9Q3FND6E,Give me two works from Vivaldi,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+413,U9Q3FND6E,No thanks,works-by - no,,False,{}
+414,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+415,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+416,U9PUY35FD,Tell me 2 works by Beethoven,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+417,U9PUY35FD,No,works-by - no,,False,{}
+418,U9PUY35FD,Find me 2 performances for tomorrow,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': '2'}"
+419,U9PUY35FD,Tomorrow,find-performance,When?,True,"{'date-period': '', 'geo-city': '', 'number': '2'}"
+420,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+421,U9PUY35FD,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+422,U9PUY35FD,Give me 2 of his works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'date-period': ''}"
+423,U9PUY35FD,No,works-by - no,,False,{}
+424,U9PUY35FD,Propose me an event for tomorrow,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+425,U9PUY35FD,Next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': '', 'number': ''}"
+426,U9PUY35FD,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+427,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+428,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+429,U9PUY35FD,Tell me 2 works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+430,U9PUY35FD,Yes,works-by - yes,"Ok, tell me what",False,{}
+431,U9PUY35FD,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+432,U9PUY35FD,Sinfony,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'si'}
+433,U9PUY35FD,Aria,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'ar', 'doremus-artist-prev': '', 'date-period': ''}"
+434,U9PUY35FD,No,works-by - no,,False,{}
+435,U9PUY35FD,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+436,U9PUY35FD,Tell me 2 arias by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'ar', 'doremus-artist-prev': '', 'date-period': ''}"
+437,U9PUY35FD,Tell me 2 works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+438,U9PUY35FD,Yes,works-by - yes,"Ok, tell me what",False,{}
+439,U9PUY35FD,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+440,U9PUY35FD,Symphony,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'si'}
+441,U9PUY35FD,No,works-by - no,,False,{}
+442,U9PUY35FD,Tell me 2 works by Beethoven,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+443,U9PUY35FD,Yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+444,U9PUY35FD,Aria,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'ar'}
+445,U9PUY35FD,Yes,works-by - yes,"Ok, tell me what",False,{}
+446,U9PUY35FD,The genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+447,U9PUY35FD,Symphony,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'si'}
+448,U9PUY35FD,No,works-by - no,,False,{}
+449,U9PUY35FD,Tell me 2 symphonies by Beethoven,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'si', 'doremus-artist-prev': '', 'date-period': ''}"
+450,U9PUY35FD,Tell me 2 arias by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'ar', 'doremus-artist-prev': '', 'date-period': ''}"
+451,U9PUY35FD,Tell me 2 symphonies by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'si', 'doremus-artist-prev': '', 'date-period': ''}"
+452,U9PUY35FD,Tell me 2 operas by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'op', 'doremus-artist-prev': '', 'date-period': ''}"
+453,U9PUY35FD,Tell me 2 works by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+454,U9PUY35FD,Yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+455,U9PUY35FD,Opera,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'op'}
+456,U9PUY35FD,Yes the genre,works-by-genre,"Ok! Just tell me the genre, please",True,{'doremus-genre': ''}
+457,U9PUY35FD,Aria,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'ar'}
+458,U9PUY35FD,No,works-by - no,,False,{}
+459,1978551662217032,Hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+460,1978551662217032,Give me 5 works about Beethoven,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '5', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+461,1978551662217032,No,works-by - no,,False,{}
+462,1978551662217032,What are the upcoming performances?,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+463,1978551662217032,next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': '', 'number': ''}"
+464,1978551662217032,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+465,1978551662217032,Tell me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+466,1978551662217032,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+467,1978551662217032,Talk me about Beethoven,discover-artist,,False,{'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452'}
+468,-,Give me one works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+469,-,No thanks,works-by - no,,False,{}
+470,-,give me four words by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '4', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+471,-,give me for works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+472,-,give me four words by Beethoven,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '4', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+473,-,no,works-by - no,,False,{}
+474,-,give me for works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+475,-,no,works-by - no,,False,{}
+476,-,give me one work by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '1', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+477,-,no,works-by - no,,False,{}
+478,-,hello give me for works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+479,-,no,works-by - no,,False,{}
+480,-,give me three words by Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+481,-,give me pics works by Vivaldi,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+482,-,tell me to works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+483,-,no thanks,works-by - no,,False,{}
+484,-,give me two words by Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+485,-,give me two works by Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+486,-,no thanks,works-by - no,,False,{}
+487,-,give me two works by Vivaldi,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+488,-,no thanks,works-by - no,,False,{}
+489,-,next week,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-02-04/2019-02-10'}
+490,-,give me two works by Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+491,-,no thanks,works-by - no,,False,{}
+492,-,this week,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-01-28/2019-02-03'}
+493,-,Are there any events this week ?,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': '', 'number': ''}"
+494,-,next week,Default Fallback Intent,"Sorry, I didn't get that.",False,{}
+495,-,what are the events in Paris in September,find-performance,,False,"{'date-period': '2019-09-01/2019-09-30', 'geo-city': 'Paris', 'number': ''}"
+496,-,Give me 3 events in Paris first week of september,find-performance,,False,"{'date-period': '2019-09-01/2019-09-01', 'geo-city': 'Paris', 'number': '3'}"
+497,-,Give me 3 events in Paris in September,find-performance,,False,"{'date-period': '2019-09-01/2019-09-30', 'geo-city': 'Paris', 'number': '3'}"
+498,-,what is the next event in paris this week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+499,-,give me 3 works by mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+500,-,no,works-by - no,,False,{}
+501,-,give me two words from mother,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+502,-,no,works-by - no,,False,{}
+503,-,give me two words from mother,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+504,-,Give me two works from Vivaldi,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+505,-,No,works-by - no,,False,{}
+506,-,Give me two works from Vivaldi,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+507,-,Are there any events in Paris this week?,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+508,-,Give me two works from Vivaldi for violin,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': ['svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+509,-,this week,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-01-28/2019-02-03'}
+510,-,are there any events in Paris in September,find-performance,,False,"{'date-period': '2019-09-01/2019-09-30', 'geo-city': 'Paris', 'number': ''}"
+511,-,Propose me an event for next month,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': '', 'number': ''}"
+512,-,Propose me an event for next year,find-performance,,False,"{'date-period': '2020-01-01/2020-12-31', 'geo-city': '', 'number': ''}"
+513,-,Tell me two works by Mozart for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+514,-,Tell me two works by Mozart for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+515,-,This week,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-01-28/2019-02-03'}
+516,-,Give me two works by Mozart for clarinet,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+517,-,this week,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-01-28/2019-02-03'}
+518,-,Propose me an event this month,find-performance,,False,"{'date-period': '2019-02-01/2019-02-28', 'geo-city': '', 'number': ''}"
+519,-,this year,Default Fallback Intent,"Sorry, can you say that again?",False,{}
+520,-,this decade,Default Fallback Intent,"Sorry, I didn't get that.",False,{}
+521,-,next year,Default Fallback Intent,I missed what you said. Say it again?,False,{}
+522,-,Tell me two works by Mozart for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+523,-,Tell me two works by Mozart for clarinet,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+524,-,this month,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '2019-02-01/2019-02-28'}
+525,-,Give me two works by Mozart for clarinet,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+526,2151734871534023,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+527,2151734871534023,Talk me about Debussy,discover-artist,,False,{'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6'}
+528,2087558941257771,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+529,2087558941257771,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+530,2087558941257771,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+531,2087558941257771,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+532,1779333318817780,Om great do you speak french,discover-artist,,False,{'doremus-artist': 'fc88a961-02e3-3eaa-aa57-56ba02efbd0e'}
+533,1779333318817780,Give me 3 works composed by Bach,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '269cec9d-5025-3a8a-b2ef-4f7acb088f2b', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fc88a961-02e3-3eaa-aa57-56ba02efbd0e', 'date-period': ''}"
+534,1779333318817780,no,works-by - no,,False,{}
+535,1779333318817780,Hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+536,1779333318817780,Tell me one event in Paris in the next month,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': 'Paris', 'number': '1'}"
+537,1779333318817780,Tell me one event in Paris tonight,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': '1'}"
+538,1779333318817780,next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': '1'}"
+539,1779333318817780,tell me one event at the Philharmonic dew Paris next week,find-performance,,False,"{'date-period': '2019-02-04/2019-02-10', 'geo-city': 'Paris', 'number': '1'}"
+540,1779333318817780,Tell me 3 events at the Philharmonic dew Paris this month,find-performance,,False,"{'date-period': '2019-02-01/2019-02-28', 'geo-city': 'Paris', 'number': '3'}"
+541,1779333318817780,give me the next event at the Philharmonic dew Paris,discover-artist,,False,{'doremus-artist': 'b4ecc16d-19fd-357e-9efd-b2477132303b'}
+542,1779333318817780,Give me 3 events at the Philharmonic dew pares in September,find-performance,,False,"{'date-period': '2019-09-01/2019-09-30', 'geo-city': '', 'number': '3'}"
+543,1779333318817780,Give me an event at the Philharmonic dew Paris with Mozart,discover-artist,,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+544,U0YPLPDJM,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+545,U0YPLPDJM,give me 5 works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '5', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+546,U0YPLPDJM,no,works-by - no,,False,{}
+547,08371f06-0e32-de2d-0233-087f08294c03,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+548,08371f06-0e32-de2d-0233-087f08294c03,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+549,08371f06-0e32-de2d-0233-087f08294c03,show me works by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+550,08371f06-0e32-de2d-0233-087f08294c03,who is Mozart,discover-artist,,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+551,2b334ecc-f9a9-0644-7307-f3131d058901,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+552,2b334ecc-f9a9-0644-7307-f3131d058901,Give me 3 works by Mozart with violin,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['svl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+553,b17d8b2b-f7a5-0d21-7dfa-fe3d86dd566e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+554,e842865f-f974-1942-4804-89538bc49303,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+555,e842865f-f974-1942-4804-89538bc49303,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+556,e842865f-f974-1942-4804-89538bc49303,Tell me 2 works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+557,e842865f-f974-1942-4804-89538bc49303,No,works-by - no,,False,{}
+558,e842865f-f974-1942-4804-89538bc49303,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+559,e1ed0163-9627-598e-2417-8c3531f2ec47,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+560,e1ed0163-9627-598e-2417-8c3531f2ec47,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+561,e1ed0163-9627-598e-2417-8c3531f2ec47,Give me 2 works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+562,e1ed0163-9627-598e-2417-8c3531f2ec47,Yes the instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+563,e1ed0163-9627-598e-2417-8c3531f2ec47,clarinet,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['wcl'], 'doremus-strictly': ''}"
+564,e1ed0163-9627-598e-2417-8c3531f2ec47,No thanks,works-by - no,,False,{}
+565,37107693-c325-b294-4503-132ff66c8992,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+566,37107693-c325-b294-4503-132ff66c8992,Hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+567,37107693-c325-b294-4503-132ff66c8992,Give me two works by Vivaldi,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+568,37107693-c325-b294-4503-132ff66c8992,Yes the instrument,works-by-instrument,Ok! Just tell me the instrument,True,"{'doremus-strictly': '', 'doremus-instrument': []}"
+569,37107693-c325-b294-4503-132ff66c8992,Piano and Violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-instrument': ['kpf', 'svl'], 'doremus-strictly': ''}"
+570,37107693-c325-b294-4503-132ff66c8992,No,works-by - no,,False,{}
+571,37107693-c325-b294-4503-132ff66c8992,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+572,37107693-c325-b294-4503-132ff66c8992,This week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+573,37107693-c325-b294-4503-132ff66c8992,Give me 2 works by Vivaldi,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+574,37107693-c325-b294-4503-132ff66c8992,Yes the instrument piano and violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': 'and', 'doremus-instrument': ['kpf', 'svl']}"
+575,37107693-c325-b294-4503-132ff66c8992,No,works-by - no,,False,{}
+576,43a02d8c-15e4-1a82-a13f-765ce15024bb,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+577,43a02d8c-15e4-1a82-a13f-765ce15024bb,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+578,43a02d8c-15e4-1a82-a13f-765ce15024bb,This week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': 'Paris', 'number': ''}"
+579,43a02d8c-15e4-1a82-a13f-765ce15024bb,Talk me about Rachmaninoff,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+580,43a02d8c-15e4-1a82-a13f-765ce15024bb,Now give me 2 of his works,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+581,43a02d8c-15e4-1a82-a13f-765ce15024bb,No,works-by - no,,False,{}
+582,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+583,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,Are there any events in pares,find-performance,In which period?,True,"{'date-period': '', 'geo-city': '', 'number': ''}"
+584,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,This week,find-performance,,False,"{'date-period': '2019-01-28/2019-02-03', 'geo-city': '', 'number': ''}"
+585,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,Tell me about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+586,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,Now give me 2 of his works,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+587,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,No,works-by - no,,False,{}
+588,4b2e33e5-7a17-4bb1-eb96-23b60aa015f8,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+589,a24fc77f-91a0-704c-c714-7070f7aea65e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+590,a24fc77f-91a0-704c-c714-7070f7aea65e,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+591,a24fc77f-91a0-704c-c714-7070f7aea65e,show me 3 works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+592,635caa99-94bd-87b3-135e-d60dc18cb994,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+593,635caa99-94bd-87b3-135e-d60dc18cb994,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+594,667ceb08-37ad-5137-4a86-3f739db26a5d,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+595,d766565b-4af3-99ea-8b6d-27ee512c0402,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+596,d766565b-4af3-99ea-8b6d-27ee512c0402,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+597,08726b64-6e09-3d71-e03e-483081f938bf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+598,45c931a4-5cfa-21d6-5425-3f6cf546bda9,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+599,45c931a4-5cfa-21d6-5425-3f6cf546bda9,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+600,45c931a4-5cfa-21d6-5425-3f6cf546bda9,Give me 3 works composed by Bach,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '269cec9d-5025-3a8a-b2ef-4f7acb088f2b', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+601,374523bc-2890-c4cd-91ba-06f247ca4faf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+602,3be80657-a422-cedc-d5fa-3bdc3393de99,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+603,3be80657-a422-cedc-d5fa-3bdc3393de99,Are there any events in Paris,find-performance,In which period?,True,"{'date-period': '', 'geo-city': 'Paris', 'number': ''}"
+604,3be80657-a422-cedc-d5fa-3bdc3393de99,In September,find-performance,,False,"{'date-period': '2019-09-01/2019-09-30', 'geo-city': 'Paris', 'number': ''}"
+605,3be80657-a422-cedc-d5fa-3bdc3393de99,Okay talk about Rachmaninov,discover-artist,,False,{'doremus-artist': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05'}
+606,3be80657-a422-cedc-d5fa-3bdc3393de99,Now give me 2 of his works,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': 'fdf137f3-2f21-3c74-b039-3c7c9dedac05', 'date-period': ''}"
+607,3be80657-a422-cedc-d5fa-3bdc3393de99,No,works-by - no,,False,{}
+608,3be80657-a422-cedc-d5fa-3bdc3393de99,Find 3 artists born between 1860 and 1870 who wrote more works for piano,find-artist,,False,"{'number': '3', 'doremus-instrument': ['kpf'], 'date-period': '1860-01-01/1870-12-31', 'geo-city': '', 'doremus-strictly': '', 'doremus-genre': ''}"
+609,5fed217b-dfc4-eb5f-873d-05689da6e76a,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+610,e7701645-3a3c-ec1e-4250-f9b26e68778e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+611,e7701645-3a3c-ec1e-4250-f9b26e68778e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+612,e7701645-3a3c-ec1e-4250-f9b26e68778e,give a work by a french composer,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'fc88a961-02e3-3eaa-aa57-56ba02efbd0e', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+613,e7701645-3a3c-ec1e-4250-f9b26e68778e,a composition between 1900 and 1950,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1900-01-01/1900-12-31'}
+614,e7701645-3a3c-ec1e-4250-f9b26e68778e,no,works-by - no,,False,{}
+615,e7701645-3a3c-ec1e-4250-f9b26e68778e,give me a work by Brahms in  minor,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+616,e7701645-3a3c-ec1e-4250-f9b26e68778e,and piano,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': 'and', 'doremus-instrument': ['kpf']}"
+617,e7701645-3a3c-ec1e-4250-f9b26e68778e,no,works-by - no,,False,{}
+618,e7701645-3a3c-ec1e-4250-f9b26e68778e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+619,e7701645-3a3c-ec1e-4250-f9b26e68778e,give me a work by Brahms for piano and orchestra in minor,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': ['kpf', 'oun'], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+620,e7701645-3a3c-ec1e-4250-f9b26e68778e,give me a symphony by Brahms,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+621,e7701645-3a3c-ec1e-4250-f9b26e68778e,no,works-by - no,,False,{}
+622,e7701645-3a3c-ec1e-4250-f9b26e68778e,give me a symphony by Brahms,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+623,e7701645-3a3c-ec1e-4250-f9b26e68778e,symphonies,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'si', 'doremus-artist-prev': '', 'date-period': ''}"
+624,e7701645-3a3c-ec1e-4250-f9b26e68778e,no,works-by - no,,False,{}
+625,1b9efc08-e585-db61-cf29-ba807f2b2b64,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+626,094c1b7e-7020-2e7d-d606-6c7bda9de37b,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+627,949384a5-20af-a17c-5a5c-c8f5afb09106,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+628,c8cb4569-c9fb-e9ee-c287-42021c00c437,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+629,90b3b69d-1316-9d53-5068-4cce564f9dee,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+630,4ff1efb3-c30a-1af6-ddc0-d2718451f457,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+631,4ff1efb3-c30a-1af6-ddc0-d2718451f457,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+632,4ff1efb3-c30a-1af6-ddc0-d2718451f457,give me two works from Beethoven,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+633,4ff1efb3-c30a-1af6-ddc0-d2718451f457,piano,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['kpf']}"
+634,4ff1efb3-c30a-1af6-ddc0-d2718451f457,no,works-by - no,,False,{}
+635,4ff1efb3-c30a-1af6-ddc0-d2718451f457,are there any events in pares in October ,find-performance,,False,"{'date-period': '2019-10-01/2019-10-31', 'geo-city': '', 'number': ''}"
+636,4ff1efb3-c30a-1af6-ddc0-d2718451f457,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+637,4ff1efb3-c30a-1af6-ddc0-d2718451f457,give me a work of Mort,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+638,4ff1efb3-c30a-1af6-ddc0-d2718451f457,give me a work of stravinsqi,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+639,4ff1efb3-c30a-1af6-ddc0-d2718451f457,give me a work of HUBERT,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '0318dc39-63b1-3ed4-9fe2-a4c431b0a689', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+640,4ff1efb3-c30a-1af6-ddc0-d2718451f457,give me a work of an Italian composer,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+641,4ff1efb3-c30a-1af6-ddc0-d2718451f457,19th century,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+642,4ff1efb3-c30a-1af6-ddc0-d2718451f457,19 century,works-by-years,Ok! What's the composition period?,True,{'date-period': ''}
+643,4ff1efb3-c30a-1af6-ddc0-d2718451f457,18011900,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1900-01-01/1900-01-31'}
+644,4ff1efb3-c30a-1af6-ddc0-d2718451f457,no,works-by - no,,False,{}
+645,4ff1efb3-c30a-1af6-ddc0-d2718451f457,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+646,4ff1efb3-c30a-1af6-ddc0-d2718451f457,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+647,9dcb6340-8527-ab94-89de-6a87d1a487ce,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+648,3c31fca3-7845-4e49-f873-105938a2dcaf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+649,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a work for clarinette,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+650,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a work with clarinette,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+651,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+652,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a work with clarinette by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+653,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+654,3c31fca3-7845-4e49-f873-105938a2dcaf,give me the concerto for clarinette by Mozart,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+655,3c31fca3-7845-4e49-f873-105938a2dcaf,give me the work 622 by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '622', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+656,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+657,3c31fca3-7845-4e49-f873-105938a2dcaf,give me K 622 by Mozart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '622', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['k'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+658,3c31fca3-7845-4e49-f873-105938a2dcaf,give me Mozart by Orchestra philharmonique dew Radio trance ,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['oun'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+659,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+660,3c31fca3-7845-4e49-f873-105938a2dcaf,give me concerto op 83 by Brahms,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '83', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '', 'date-period': ''}"
+661,3c31fca3-7845-4e49-f873-105938a2dcaf,give bolero by orchestra national dew trance,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+662,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+663,3c31fca3-7845-4e49-f873-105938a2dcaf,give me bolero by ravel,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '1b1205f9-b99a-3bb8-ba77-256689af2e00', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+664,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+665,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a work by Brahms in d major,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+666,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+667,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a concerto by Brahms in d major,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+668,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+669,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a nonzero by Brahms,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': 'f9a2ac39-a62d-3be2-8abb-e564de0ec96d', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+670,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+671,3c31fca3-7845-4e49-f873-105938a2dcaf,give me a work by sung,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+672,3c31fca3-7845-4e49-f873-105938a2dcaf,no,works-by - no,,False,{}
+673,62232f2b-5e58-9e4a-90f3-122e16a644bf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+674,62232f2b-5e58-9e4a-90f3-122e16a644bf,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+675,62232f2b-5e58-9e4a-90f3-122e16a644bf,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+676,2e4f73da-9e03-c5a8-b6d7-7432e77d7a5a,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+677,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+678,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Tell me two works by Mozart for clarinet,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+679,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me two works by Debussy for clarinet,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+680,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me two works by Debussy for clarinet,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'bcf39e82-e208-3049-b550-1feaae6071a6', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+681,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me two works by Mort for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+682,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me two works by Motet for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': 'mo', 'doremus-artist-prev': '', 'date-period': ''}"
+683,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Tell me two works by Leopold Mozart for clarinet,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': 'd0b9f779-d895-3f5a-9c06-723ac67de6c6', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+684,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Tell me two works by Wolfgang Amadeus Mozart for clarinet,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+685,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me two works by Wolfgang Amadeus Mozart for clarinet,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': ['wcl'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+686,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+687,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Talk me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+688,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Talk to me about Vivaldi,discover-artist,,False,{'doremus-artist': 'b34f92ab-ad86-361b-a8b8-5c3a4db784d0'}
+689,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Propose me an event for next month,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': '', 'number': ''}"
+690,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Propose me an event for the next two months,find-performance,,False,"{'date-period': '2019-02-02/2019-04-02', 'geo-city': '', 'number': ''}"
+691,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Find me an artist born in Paris,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Paris', 'doremus-strictly': '', 'doremus-genre': ''}"
+692,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Find me an artist born in Paris in the 18th century,find-artist,,False,"{'number': '', 'doremus-instrument': [], 'date-period': '', 'geo-city': 'Paris', 'doremus-strictly': '', 'doremus-genre': ''}"
+693,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Find me an artist born in Paris between 1801 and 1900,find-artist,,False,"{'number': '1900', 'doremus-instrument': [], 'date-period': '1801-01-01/1801-12-31', 'geo-city': 'Paris', 'doremus-strictly': '', 'doremus-genre': ''}"
+694,d0420181-c5c7-f4d9-2bde-cec9804ecea0,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+695,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+696,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me 2 works for violin clarinet and piano,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': ['svl', 'wcl', 'kpf'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+697,d0420181-c5c7-f4d9-2bde-cec9804ecea0,trio,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'tri', 'doremus-artist-prev': '', 'date-period': ''}"
+698,d0420181-c5c7-f4d9-2bde-cec9804ecea0,a work by Mozart,works-by-artist,Perfect! Do you want to add something?,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+699,d0420181-c5c7-f4d9-2bde-cec9804ecea0,no,works-by - no,,False,{}
+700,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Give me 2 works for violin clarinet and piano,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '', 'doremus-instrument': ['svl', 'wcl', 'kpf'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+701,d0420181-c5c7-f4d9-2bde-cec9804ecea0,no,works-by - no,,False,{}
+702,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+703,d0420181-c5c7-f4d9-2bde-cec9804ecea0,Tell me two works by Mozart ,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '2', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+704,d0420181-c5c7-f4d9-2bde-cec9804ecea0,tell me a work for clarinet,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['wcl']}"
+705,d0420181-c5c7-f4d9-2bde-cec9804ecea0,no,works-by - no,,False,{}
+706,53eae0a4-ba83-ceeb-fabb-3f0d47967387,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+707,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+708,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+709,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+710,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,give me a work of Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+711,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,a work for clarinet,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['wcl']}"
+712,b7e10d82-7b59-1926-5038-f88bdcd69757,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+713,b7e10d82-7b59-1926-5038-f88bdcd69757,how many motets were written in the 16th century,Default Fallback Intent,One more time?,False,{}
+714,b7e10d82-7b59-1926-5038-f88bdcd69757,16th century,Default Fallback Intent,Can you say that again?,False,{}
+715,b7e10d82-7b59-1926-5038-f88bdcd69757,15001600,Default Fallback Intent,"Sorry, could you say that again?",False,{}
+716,19f7c8d2-c499-91ff-328b-554b4c1d7b86,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+717,19f7c8d2-c499-91ff-328b-554b4c1d7b86,Tell me about Mozart,discover-artist,,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+718,f0a03f59-ab2d-a923-40ca-672565e7b242,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+719,fd3c1ba7-8a86-814d-2fab-3bc005085d0d,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+720,7c741f46-3c68-db51-8662-0c6a75082075,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+721,7c741f46-3c68-db51-8662-0c6a75082075,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+722,7c741f46-3c68-db51-8662-0c6a75082075,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+723,7c741f46-3c68-db51-8662-0c6a75082075,give me a work of mart,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+724,7c741f46-3c68-db51-8662-0c6a75082075,non,works-by - no,,False,{}
+725,3f6a2d59-ea9f-2449-8047-4c830221fc31,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+726,3485cc53-dee1-fdca-7e92-52b45f37b075,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+727,3485cc53-dee1-fdca-7e92-52b45f37b075,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+728,c2f6760b-dc10-0131-c58d-57bfe19f9abf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+729,c2f6760b-dc10-0131-c58d-57bfe19f9abf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+730,c2f6760b-dc10-0131-c58d-57bfe19f9abf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+731,c2f6760b-dc10-0131-c58d-57bfe19f9abf,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+732,aba0fa80-81a2-4f7b-0c10-d4a3c77dd5f5,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+733,aba0fa80-81a2-4f7b-0c10-d4a3c77dd5f5,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+734,c9a5f127-79de-c74a-b281-fb50ffde9fe3,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+735,2011c3db-f481-21df-2a34-d9975072f9bc,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+736,2011c3db-f481-21df-2a34-d9975072f9bc,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+737,2011c3db-f481-21df-2a34-d9975072f9bc,Tell me about Mozart,discover-artist,,False,{'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63'}
+738,2011c3db-f481-21df-2a34-d9975072f9bc,Give me few works by Mozart,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '4802a043-23bb-3b8d-a443-4a3bd22ccc63', 'date-period': ''}"
+739,2011c3db-f481-21df-2a34-d9975072f9bc,genre sonata,works-by-genre,Perfect! Do you want to add something?,False,{'doremus-genre': 'sn'}
+740,2011c3db-f481-21df-2a34-d9975072f9bc,no,works-by - no,,False,{}
+741,fc3c4ec3-4c08-a32b-8eee-b6e191861b2d,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+742,198e97b7-a400-ac80-144f-dedbf9d4a245,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+743,5575a08e-5b93-5c2a-0b63-245ba0dbf512,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+744,5575a08e-5b93-5c2a-0b63-245ba0dbf512,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+745,5575a08e-5b93-5c2a-0b63-245ba0dbf512,give me works by Bach,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '269cec9d-5025-3a8a-b2ef-4f7acb088f2b', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+746,5575a08e-5b93-5c2a-0b63-245ba0dbf512,no thank you,works-by - no,,False,{}
+747,61d47df7-7242-74ac-e5c4-124eb666b3f0,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+748,93fb07c9-5d52-be77-77da-7a9ffaa626bf,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+749,93fb07c9-5d52-be77-77da-7a9ffaa626bf,Who was Beethoven,Default Fallback Intent,"Sorry, I didn't get that.",False,{}
+750,93fb07c9-5d52-be77-77da-7a9ffaa626bf,Who was Mozart,Default Fallback Intent,I didn't get that.,False,{}
+751,93fb07c9-5d52-be77-77da-7a9ffaa626bf,What are Mozarts works,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+752,93fb07c9-5d52-be77-77da-7a9ffaa626bf,No,works-by - no,,False,{}
+753,93fb07c9-5d52-be77-77da-7a9ffaa626bf,What are Salieris works,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+754,93fb07c9-5d52-be77-77da-7a9ffaa626bf,piano,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['kpf']}"
+755,93fb07c9-5d52-be77-77da-7a9ffaa626bf,What are Salieris piano works,works-by,"Sure! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+756,f6b700df-97eb-ee09-1208-001e7e49c39a,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+757,4142d30b-90de-3788-e96d-3f2f6f03f527,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+758,01ad1747-2e93-9362-c5c3-57622bce47d4,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+759,01ad1747-2e93-9362-c5c3-57622bce47d4,Hey,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+760,01ad1747-2e93-9362-c5c3-57622bce47d4,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+761,01ad1747-2e93-9362-c5c3-57622bce47d4,Hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+762,01ad1747-2e93-9362-c5c3-57622bce47d4,hey,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+763,784a8136-747a-bf95-57ba-1cf209256196,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+764,784a8136-747a-bf95-57ba-1cf209256196,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+765,784a8136-747a-bf95-57ba-1cf209256196,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+766,4edc4fd8-0245-6030-373d-173599774ddd,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+767,4edc4fd8-0245-6030-373d-173599774ddd,Who composed gymnopedie,Default Fallback Intent,Can you say that again?,False,{}
+768,7b793f36-4a57-88a9-123b-3199f9cffa61,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+769,7b793f36-4a57-88a9-123b-3199f9cffa61,hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+770,7b793f36-4a57-88a9-123b-3199f9cffa61,hello,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+771,7b793f36-4a57-88a9-123b-3199f9cffa61,<result_card>,Default Fallback Intent,"Sorry, what was that?",False,{}
+772,7b793f36-4a57-88a9-123b-3199f9cffa61,Find the 3 artists born between 1752 and 1772 who composed more works,find-artist,,False,"{'number': '3', 'doremus-instrument': [], 'date-period': '1752-01-01/1752-12-31', 'geo-city': '', 'doremus-strictly': 'and', 'doremus-genre': ''}"
+773,7b793f36-4a57-88a9-123b-3199f9cffa61,Tell me one event in Paris in the next month,find-performance,,False,"{'date-period': '2019-03-01/2019-03-31', 'geo-city': 'Paris', 'number': '1'}"
+774,521b4f82-9efb-117b-749f-2f8a5d717bd9,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+775,521b4f82-9efb-117b-749f-2f8a5d717bd9,Who is Leos Janacek,discover-artist,,False,{'doremus-artist': 'dfe92e96-f7ae-3669-9c6a-2f389275edc7'}
+776,521b4f82-9efb-117b-749f-2f8a5d717bd9,Who is Henri Dutilleux,discover-artist,,False,{'doremus-artist': '933100cc-c372-3f1a-96e5-6e991baf771d'}
+777,521b4f82-9efb-117b-749f-2f8a5d717bd9,who is Lilia boulanger,discover-artist,,False,{'doremus-artist': '7cba4126-adc2-30fa-ba6d-a6b42e4fb816'}
+778,521b4f82-9efb-117b-749f-2f8a5d717bd9,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+779,521b4f82-9efb-117b-749f-2f8a5d717bd9,List me 10 works of genre concerto,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '10', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': '', 'doremus-genre': 'co', 'doremus-artist-prev': '7cba4126-adc2-30fa-ba6d-a6b42e4fb816', 'date-period': ''}"
+780,521b4f82-9efb-117b-749f-2f8a5d717bd9,instrument violin,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': '', 'doremus-instrument': ['svl']}"
+781,521b4f82-9efb-117b-749f-2f8a5d717bd9,period 1900-1950,works-by-years,Perfect! Do you want to add something?,False,{'date-period': '1900-01-01/1900-12-31'}
+782,521b4f82-9efb-117b-749f-2f8a5d717bd9,No,works-by - no,,False,{}
+783,521b4f82-9efb-117b-749f-2f8a5d717bd9,Tell us 4 works for violin or piano,works-by,"Ok! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '4', 'doremus-artist': '', 'doremus-instrument': ['svl', 'kpf'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+784,521b4f82-9efb-117b-749f-2f8a5d717bd9,no,works-by - no,,False,{}
+785,521b4f82-9efb-117b-749f-2f8a5d717bd9,Tell us 4 works for violin or piano,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '4', 'doremus-artist': '', 'doremus-instrument': ['svl', 'kpf'], 'doremus-strictly': '', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': ''}"
+786,521b4f82-9efb-117b-749f-2f8a5d717bd9,works for violin and piano,works-by-instrument,Perfect! Do you want to add something?,False,"{'doremus-strictly': 'and', 'doremus-instrument': ['svl', 'kpf']}"
+787,521b4f82-9efb-117b-749f-2f8a5d717bd9,no thanks,works-by - no,,False,{}
+788,521b4f82-9efb-117b-749f-2f8a5d717bd9,Give us 3 works written between 1782 and 1821,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1782-01-01/1782-12-31'}"
+789,521b4f82-9efb-117b-749f-2f8a5d717bd9,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+790,521b4f82-9efb-117b-749f-2f8a5d717bd9,Give us 3 works written between 1782 and 1821,works-by,"No problem! Do you want to add some filters? Like the artist, instruments, genre or composition period.",False,"{'number': '3', 'doremus-artist': '', 'doremus-instrument': [], 'doremus-strictly': 'and', 'doremus-genre': '', 'doremus-artist-prev': '', 'date-period': '1782-01-01/1782-12-31'}"
+791,7613ed81-4963-340d-31e9-f6fce0a2e9c7,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+792,7613ed81-4963-340d-31e9-f6fce0a2e9c7,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+793,3449880f-82de-6e47-592b-5637414b3028,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+794,bc1a8ac9-8301-d95a-f816-68d15dd63557,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+795,c6c90808-3846-0019-46b4-6711d944ee4d,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+796,356754c7-554e-a63b-34f7-89e808c75747,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+797,0cc174b7-94e9-e967-747a-9014c1329f31,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+798,e26bfcac-d711-6210-68e3-d91d355b9a98,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+799,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+800,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,Who  is L Van Beethoven  ,discover-artist,,False,{'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452'}
+801,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,is l v Beethoven a composer ,discover-artist,,False,{'doremus-artist': '6963af5e-b126-3d40-a84b-97e0b78f5452'}
+802,bb7718ab-76ff-9586-f0ac-03c440394c41,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}
+803,bb7718ab-76ff-9586-f0ac-03c440394c41,tell me something about bate,discover-artist,,False,{'doremus-artist': '98f072b8-24cd-3ad3-a853-940c5845b56a'}
+804,bb7718ab-76ff-9586-f0ac-03c440394c41,Tell me something about Bach,discover-artist,,False,{'doremus-artist': '269cec9d-5025-3a8a-b2ef-4f7acb088f2b'}
+805,bb7718ab-76ff-9586-f0ac-03c440394c41,Works from Bach,discover-artist,,False,{'doremus-artist': '269cec9d-5025-3a8a-b2ef-4f7acb088f2b'}
+806,8d4f603d-fcfb-c321-bf01-f720b6571ad7,Hi,hello,Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!,False,{}

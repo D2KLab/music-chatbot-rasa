@@ -1,0 +1,6 @@
+,dialogflow.user_text,rasa.action,dialogflow.action,dialogflow.previous_user_text
+111,yes the instrument,input_unknown,works_by_instrument,now give me 2 of his works
+616,and piano,input_unknown,works_by_instrument,give me a work by Brahms in  minor
+568,Yes the instrument,input_unknown,works_by_instrument,Give me two works by Vivaldi
+35,Violin,input_unknown,works_by_instrument,An instrument
+40,Violin,input_unknown,works_by_instrument,An instrument

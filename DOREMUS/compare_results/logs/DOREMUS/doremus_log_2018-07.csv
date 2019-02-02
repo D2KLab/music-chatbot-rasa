@@ -1,0 +1,137 @@
+timestamp,platform,user,channel,intent,confidence,lang,rawMessage,cleanMessage,response
+2018-7-5 19:01:11,socket,45c931a4-5cfa-21d6-5425-3f6cf546bda9,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-5 19:01:11,socket,45c931a4-5cfa-21d6-5425-3f6cf546bda9,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-5 19:06:02,socket,45c931a4-5cfa-21d6-5425-3f6cf546bda9,socket,discover-artist,1,en,"Give me 3 works composed by Bach","Give me 3 works composed by Bach",<result_card>
+2018-7-8 12:26:42,socket,374523bc-2890-c4cd-91ba-06f247ca4faf,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-9 07:01:12,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-9 08:19:45,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,find-performance,0.7400000095367432,en,"Are there any events in Paris","Are there any events in Paris","In which period?"
+2018-7-9 08:20:15,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,find-performance,1,en,"In September","In September",<result_card>
+2018-7-9 08:20:59,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,discover-artist,1,en,"Okay talk about Rachmaninov","Okay talk about Rachmaninov",<result_card>
+2018-7-9 08:22:15,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by,1,en,"Now give me 2 of his works","Now give me 2 of his works","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-9 08:22:33,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by - no,1,en,"No","No",<result_card>
+2018-7-9 08:23:30,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,find-artist,1,en,"Find 3 artists born between 1860 and 1870 who wrote more works for piano","Find 3 artists born between 1860 and 1870 who wrote more works for piano",<result_card>
+2018-7-9 08:25:35,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,hello,1,fr,"Bonjour","Bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-7-9 08:25:58,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by,0.8100000023841858,fr,"Donne moi deux oeuvres de Vivoldi","Donne moi deux œuvres de Vivaldi","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-7-9 08:26:11,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by-something,1,fr,"Oui le genre","Oui le genre","Quel genre?"
+2018-7-9 08:26:15,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by-something,1,fr,"Symphonie","Symphonie","Veux-tu ajouter quelque chose?"
+2018-7-9 08:26:22,socket,3be80657-a422-cedc-d5fa-3bdc3393de99,socket,works-by - no,1,fr,"Non merci","Non merci",<result_card>
+2018-7-9 08:28:30,google_assistant,-,-,find-performance,0.8299999833106995,en,"are there any events in Paris in September","are there any events in Paris in September","Yes! ...Orchestre de Paris / Daniel Harding at Philharmonie de Paris. "
+2018-7-9 08:40:06,fb,1978551662217032,1978551662217032,discover-artist,1,en,"Talk me about Beethoven","Talk me about Beethoven",<result_card>
+2018-7-9 08:41:10,socket,5fed217b-dfc4-eb5f-873d-05689da6e76a,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 13:57:14,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:02:22,socket,1b9efc08-e585-db61-cf29-ba807f2b2b64,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:06:52,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:06:55,socket,094c1b7e-7020-2e7d-d606-6c7bda9de37b,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:07:14,socket,949384a5-20af-a17c-5a5c-c8f5afb09106,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:07:59,socket,c8cb4569-c9fb-e9ee-c287-42021c00c437,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:08:53,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.6499999761581421,en,"give a work by a french composer","give a work by a french composer","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-10 14:09:28,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by-something,0.5299999713897705,en,"a composition between 1900 and 1950","a composition between 1900 and 1950","Perfect! Do you want to add something?"
+2018-7-10 14:09:37,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-10 14:11:00,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.7099999785423279,en,"give me a work by Brahms in  minor","give me a work by Brahms in  minor","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-10 14:11:12,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by-something,0.7900000214576721,en,"and piano","and piano","Perfect! Do you want to add something?"
+2018-7-10 14:11:20,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-10 14:20:18,socket,90b3b69d-1316-9d53-5068-4cce564f9dee,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:34:52,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-10 14:35:34,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.6700000166893005,en,"give me a work by Brahms for piano and orchestra in minor","give me a work by Brahms for piano and orchestra in minor",<result_card>
+2018-7-10 16:33:06,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.6100000143051147,en,"give me a symphony by brahms","give me a symphony by Brahms","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-10 16:33:13,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-10 16:34:02,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.6100000143051147,en,"give me a symphony by brahms","give me a symphony by Brahms","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-10 16:34:24,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by,0.5799999833106995,en,"symphonie","symphonies","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-10 16:34:31,socket,e7701645-3a3c-ec1e-4250-f9b26e68778e,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-16 13:40:21,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-16 13:40:34,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-16 13:40:40,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,1,en,"give me two works from beethoven","give me two works from Beethoven","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-16 13:40:53,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,0.9800000190734863,en,"piano","piano","Perfect! Do you want to add something?"
+2018-7-16 13:40:59,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-16 13:41:25,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,find-performance,0.8999999761581421,en,"are there any events in paris in october ","are there any events in pares in October ",<result_card>
+2018-7-16 13:42:44,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,0.9100000262260437,fr,"bonjour doremus","bonjour dormeuse","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-7-16 13:43:05,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,1,fr,"donne-moi des oeuvres pour clarinettes","donne-moi des œuvres pour clarinettes","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-7-16 13:43:23,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,0.800000011920929,fr,"un compositeur  mozrt","un compositeur  mort","Quel compositeur?"
+2018-7-16 13:43:28,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,1,fr,"mozrt","mort","Quel compositeur?"
+2018-7-16 13:43:38,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,0.8327407658797797,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-16 13:43:49,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,0.6100000143051147,en,"give me a work of mozrt","give me a work of Mort","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-16 13:44:19,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,0.6100000143051147,en,"give me a work of stravinsqi","give me a work of stravinsqi","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-16 13:44:33,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,0.5899999737739563,en,"give me a work of chubert","give me a work of HUBERT","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-16 13:46:27,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by,0.5799999833106995,en,"give me a work of an italian composer","give me a work of an Italian composer","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-16 13:46:40,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,0.9900000095367432,en,"19th century","19th century","Ok! What's the composition period?"
+2018-7-16 13:46:52,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,1,en,"19 century","19 century","Ok! What's the composition period?"
+2018-7-16 13:47:05,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by-something,1,en,"18011900","18011900","Perfect! Do you want to add something?"
+2018-7-16 13:47:10,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-17 08:51:53,socket,9dcb6340-8527-ab94-89de-6a87d1a487ce,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-17 08:52:08,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-17 08:53:11,socket,4ff1efb3-c30a-1af6-ddc0-d2718451f457,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-18 13:57:45,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-18 14:16:55,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6100000143051147,en,"give me a work for clarinette","give me a work for clarinette","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:17:46,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6499999761581421,en,"give me a work with clarinette","give me a work with clarinette","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:17:53,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:18:37,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.7300000190734863,en,"give me a work with clarinette by mozart","give me a work with clarinette by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:18:51,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:19:25,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6600000262260437,en,"give me the concerto for clarinette by mozart","give me the concerto for clarinette by Mozart",<result_card>
+2018-7-18 14:22:00,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.7699999809265137,en,"give me the work 622 by mozart","give me the work 622 by Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:22:10,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:24:10,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6200000047683716,en,"give me K 622 by mozart","give me K 622 by Mozart",<result_card>
+2018-7-18 14:24:50,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.5,en,"give me mozart by Orchestre philharmonique de Radio france ","give me Mozart by Orchestra philharmonique dew Radio trance ","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:25:06,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:28:44,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.7900000214576721,en,"give me concerto op 83 by brahms","give me concerto op 83 by Brahms",<result_card>
+2018-7-18 14:30:04,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.5299999713897705,en,"give bolero by orchestre national de france","give bolero by orchestra national dew trance","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:30:15,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:31:03,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6100000143051147,en,"give me bolero by ravel","give me bolero by ravel","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:31:09,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:34:50,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.7099999785423279,en,"give me a work by brahms in d major","give me a work by Brahms in d major","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:34:56,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:35:50,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.5199999809265137,en,"give me a concerto by brahms in d major","give me a concerto by Brahms in d major","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:35:57,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:42:05,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.6100000143051147,en,"give me a konzert by brahms","give me a nonzero by Brahms","No problem! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:42:11,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-18 14:43:56,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by,0.7799999713897705,en,"give me a work by chung","give me a work by sung","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-18 14:44:01,socket,3c31fca3-7845-4e49-f873-105938a2dcaf,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-23 14:16:52,socket,62232f2b-5e58-9e4a-90f3-122e16a644bf,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-23 14:17:49,socket,62232f2b-5e58-9e4a-90f3-122e16a644bf,socket,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-23 14:27:49,socket,62232f2b-5e58-9e4a-90f3-122e16a644bf,socket,hello,1,en,"hi","hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 00:41:28,socket,2e4f73da-9e03-c5a8-b6d7-7432e77d7a5a,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 00:41:28,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 00:41:52,socket,53eae0a4-ba83-ceeb-fabb-3f0d47967387,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 00:45:52,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.8999999761581421,en,"Tell me two works by Mozart for clarinet","Tell me two works by Mozart for clarinet",<result_card>
+2018-7-24 00:46:35,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me two works by Debussy for clarinet","Give me two works by Debussy for clarinet",<result_card>
+2018-7-24 00:47:20,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me two works by Debussi for clarinet","Give me two works by Debussy for clarinet",<result_card>
+2018-7-24 00:47:42,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me two works by Mozrt for clarinet","Give me two works by Mort for clarinet","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 00:48:06,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me two works by Mozet for clarinet","Give me two works by Motet for clarinet",<result_card>
+2018-7-24 00:48:43,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.8999999761581421,en,"Tell me two works by Leopold Mozart for clarinet","Tell me two works by Leopold Mozart for clarinet",<result_card>
+2018-7-24 00:49:06,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.8999999761581421,en,"Tell me two works by Wolfgang Amadeus Mozart for clarinet","Tell me two works by Wolfgang Amadeus Mozart for clarinet",<result_card>
+2018-7-24 00:49:31,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me two works by Wolfgang Amadeus Mozart for clarinet","Give me two works by Wolfgang Amadeus Mozart for clarinet",<result_card>
+2018-7-24 00:50:38,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,discover-artist,1,en,"Talk me about Vivaldi","Talk me about Vivaldi",<result_card>
+2018-7-24 00:50:50,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,discover-artist,1,en,"Talk me about Vivaldy","Talk me about Vivaldi",<result_card>
+2018-7-24 00:51:38,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,discover-artist,0.8199999928474426,en,"Talk to me about Vivaldy","Talk to me about Vivaldi",<result_card>
+2018-7-24 00:53:20,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-performance,1,en,"Propose me an event for next month","Propose me an event for next month",<result_card>
+2018-7-24 00:53:34,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-performance,1,en,"Propose me an event for the next two months","Propose me an event for the next two months",<result_card>
+2018-7-24 00:55:56,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-artist,1,en,"Find me an artist born in Paris","Find me an artist born in Paris",<result_card>
+2018-7-24 00:56:36,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-artist,0.7699999809265137,en,"Find me an artist born in Paris in the 18th century","Find me an artist born in Paris in the 18th century",<result_card>
+2018-7-24 00:57:09,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-artist,0.699999988079071,en,"Find me an artist born in Paris between 1801 and 1900","Find me an artist born in Paris between 1801 and 1900",<result_card>
+2018-7-24 00:58:21,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-7-24 00:59:22,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-performance,0.6899999976158142,fr,"Propose-moi un évènement dans les deux mois à venir","Propose-moi un évènement dans les deux mois à venir","En quel période?"
+2018-7-24 00:59:37,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,find-performance,1,fr,"propose-moi un événement en octobre","propose-moi un événement en octobre",<result_card>
+2018-7-24 01:01:09,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 01:01:32,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-7-24 01:01:50,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.8700000047683716,fr,"donne-moi deux oeuvres de Mozart pour la clarinette","donne-moi deux œuvres de Mozart pour la clarinette","Tu n'as spécifié pas beaucoup de filtres! Veux-tu ajouter quelque chose?"
+2018-7-24 01:02:17,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by - no,1,fr,"non","non",<result_card>
+2018-7-24 01:02:40,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 01:05:21,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me 2 works for violin clarinet and piano","Give me 2 works for violin clarinet and piano","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 01:05:35,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.5799999833106995,en,"trio","trio","Ok! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 01:06:05,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by-something,0.6000000238418579,en,"a work by mozart","a work by Mozart","Perfect! Do you want to add something?"
+2018-7-24 01:06:10,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-24 01:06:45,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,1,en,"Give me 2 works for violin clarinet and piano","Give me 2 works for violin clarinet and piano","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 01:06:49,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-24 01:07:25,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 01:07:59,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by,0.9800000190734863,en,"Tell me two works by Mozart ","Tell me two works by Mozart ","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 01:08:17,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by-something,0.5,en,"tell me a work for clarinet","tell me a work for clarinet","Perfect! Do you want to add something?"
+2018-7-24 01:08:21,socket,d0420181-c5c7-f4d9-2bde-cec9804ecea0,socket,works-by - no,1,en,"no","no",<result_card>
+2018-7-24 11:49:14,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 11:49:21,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,hello,1,fr,"bonjour","bonjour","Salut! Je suis DOREMUS Bot! Tous les jours j'essaie d'apprendre informations sur la musique classique!"
+2018-7-24 11:49:21,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 13:13:43,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,hello,1,en,"hello","hello","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 13:14:06,socket,b7e10d82-7b59-1926-5038-f88bdcd69757,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-7-24 13:14:09,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,works-by,0.5899999737739563,en,"give me a work of mozart","give me a work of Mozart","Sure! Do you want to add some filters? Like the artist instruments, genre or composition period."
+2018-7-24 13:14:20,socket,b7e10d82-7b59-1926-5038-f88bdcd69757,socket,works-by-something,0.5799999833106995,en,"how many motets were written in the 16th century","how many motets were written in the 16th century","Ok! What's the composition period?"
+2018-7-24 13:14:25,socket,b7e10d82-7b59-1926-5038-f88bdcd69757,socket,works-by-something,1,en,"16th century","16th century","Ok! What's the composition period?"
+2018-7-24 13:14:29,socket,9a2be3a6-9ad5-3ef7-d7c6-aeabb1c0975e,socket,works-by-something,1,en,"a work for clarinet","a work for clarinet","All right! Tell me the composition period"
+2018-7-24 13:14:31,socket,b7e10d82-7b59-1926-5038-f88bdcd69757,socket,works-by-something,1,en,"15001600","15001600","All right! Tell me the composition period"

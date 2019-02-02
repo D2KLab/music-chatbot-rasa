@@ -1,0 +1,12 @@
+timestamp,platform,user,channel,intent,confidence,lang,rawMessage,cleanMessage,response
+2018-11-1 09:34:29,socket,356754c7-554e-a63b-34f7-89e808c75747,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-11-2 11:28:45,socket,0cc174b7-94e9-e967-747a-9014c1329f31,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-11-3 17:35:26,socket,e26bfcac-d711-6210-68e3-d91d355b9a98,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-11-12 13:31:18,socket,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-11-12 13:31:50,socket,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,socket,discover-artist,0.5899999737739563,en,"Who  is L Van Beethoven  ","Who  is L Van Beethoven  ",<result_card>
+2018-11-12 13:31:56,socket,bb7718ab-76ff-9586-f0ac-03c440394c41,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
+2018-11-12 13:32:36,socket,bb7718ab-76ff-9586-f0ac-03c440394c41,socket,discover-artist,1,en,"tell me something about bach","tell me something about bate",<result_card>
+2018-11-12 13:32:42,socket,03a2220c-bcd4-8fd2-2cd2-6e1f341372fa,socket,discover-artist,0.7599999904632568,en,"is l v beethoven a composer ","is l v Beethoven a composer ",<result_card>
+2018-11-12 13:32:55,socket,bb7718ab-76ff-9586-f0ac-03c440394c41,socket,discover-artist,1,en,"Tell me something about Bach","Tell me something about Bach",<result_card>
+2018-11-12 13:33:14,socket,bb7718ab-76ff-9586-f0ac-03c440394c41,socket,discover-artist,0.5600000023841858,en,"Works from Bach","Works from Bach",<result_card>
+2018-11-15 16:02:38,socket,8d4f603d-fcfb-c321-bf01-f720b6571ad7,socket,hello,1,en,"Hi","Hi","Hi! Everyday I try to learn as much as possible about music. Try me if you don't believe it!"
